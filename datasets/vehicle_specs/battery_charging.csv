@@ -1,0 +1,3023 @@
+Vehicle_ID,Battery_Type,Battery_Capacity_kWh,Range_km,Charging_Type,Charge_Time_hr
+1,Lithium-titanate,55.8,214,CHAdeMO,9
+2,Lithium-titanate,90.8,212,Vehicle-to-Home (V2H),7.3
+3,Calcium-ion,64.7,235,Level 2 Charging,8.9
+4,Lithium-iron phosphate,120.5,140,Ultra-Fast Charging (350 kW+),10.5
+5,Lithium-titanate,51.8,336,Plug-in Hydrogen Refueling,3.6
+6,Lithium-iron phosphate,138.7,390,Mobile Charging,2.9
+7,Nickel-cobalt-aluminum,67.1,170,Vehicle-to-Load (V2L),1.5
+8,Lead-acid,131.9,105,CCS,8.3
+9,Aluminum-ion,33.8,420,Solar Charging,10.2
+10,Solid-state,140.8,549,Solar Charging,3.3
+11,Lead-acid,41.5,370,Vehicle-to-Grid (V2G),11.6
+12,Solid-state,64,401,Ultra-Fast Charging (350 kW+),7.3
+13,Lead-acid,37.2,578,Vehicle-to-Load (V2L),3.3
+14,Flow batteries,32.8,306,Mobile Charging,9.7
+15,Flow batteries,149.9,528,Level 1 Charging,11.6
+16,Aluminum-ion,121.9,332,Solar Charging,5.4
+17,Lithium-ion,26.5,344,NACS,1.2
+18,Solid-state,74.5,398,Mobile Charging,11.2
+19,Zinc-air,149.5,137,Inductive (Wireless) Charging,6.3
+20,Calcium-ion,92.1,577,CCS,11.3
+21,Lead-acid,83.5,563,Level 2 Charging,1.6
+22,Lead-acid,21.3,138,CHAdeMO,6.8
+23,Solid-state,66,386,Vehicle-to-Grid (V2G),11.7
+24,Nickel-metal hydride,122.4,155,Plug-in Hydrogen Refueling,10.5
+25,Sodium-ion,56.2,135,Battery Swapping,4.5
+26,Nickel-cobalt-aluminum,64.9,502,Mobile Charging,5.5
+27,Lithium-iron phosphate,67.3,135,Mobile Charging,7.7
+28,Nickel-cobalt-aluminum,108.1,562,NACS,7.6
+29,Lithium-iron phosphate,86.5,506,NACS,8.1
+30,Zinc-air,130.5,137,Vehicle-to-Home (V2H),5.3
+31,Lead-acid,52.4,534,CCS,5.7
+32,Lithium-titanate,132,330,Battery Swapping,9.1
+33,Aluminum-ion,90.2,170,CHAdeMO,3.2
+34,Lithium-titanate,22.5,550,Plug-in Hydrogen Refueling,6
+35,Nickel-manganese-cobalt,23.8,272,Plug-in Hydrogen Refueling,8.8
+36,Lithium-sulfur,69.3,208,Vehicle-to-Home (V2H),4.3
+37,Lithium-iron phosphate,104.5,499,Level 2 Charging,9.2
+38,Nickel-metal hydride,98.8,593,CCS,9.4
+39,Lithium-titanate,128,224,CCS,8.5
+40,Calcium-ion,74.6,350,CCS,5.5
+41,Nickel-cobalt-aluminum,127.3,403,Battery Swapping,4.2
+42,Nickel-metal hydride,83.4,281,Battery Swapping,4.4
+43,Flow batteries,112.5,329,Level 1 Charging,1.6
+44,Lithium-titanate,79,256,Battery Swapping,3.2
+45,Calcium-ion,45.2,216,Overhead Pantograph Charging,2.6
+46,Nickel-manganese-cobalt,82.2,274,NACS,11.6
+47,Lithium-iron phosphate,35.4,491,Vehicle-to-Grid (V2G),7.5
+48,Lithium-titanate,32.9,490,Inductive (Wireless) Charging,7.7
+49,Lithium-ion,50.1,461,Solar Charging,8.6
+50,Nickel-metal hydride,138.1,523,CHAdeMO,1.3
+51,Lead-acid,84.2,141,Level 2 Charging,10.7
+52,Zinc-air,25.2,487,NACS,5.9
+53,Flow batteries,33.6,182,Mobile Charging,5.2
+54,Calcium-ion,148.5,436,Vehicle-to-Home (V2H),5.3
+55,Aluminum-ion,110.8,162,Level 1 Charging,11.7
+56,Aluminum-ion,113.2,360,Battery Swapping,5.3
+57,Aluminum-ion,122.4,236,Level 1 Charging,3.8
+58,Aluminum-ion,61.8,196,Ultra-Fast Charging (350 kW+),7.1
+59,Lithium-ion,36.4,594,Mobile Charging,10.5
+60,Zinc-air,110.1,432,DC Fast Charging (DCFC),10.3
+61,Flow batteries,109,247,Ultra-Fast Charging (350 kW+),9.1
+62,Nickel-cobalt-aluminum,38.9,371,Vehicle-to-Grid (V2G),7
+63,Flow batteries,53,230,Level 1 Charging,10.8
+64,Lithium-iron phosphate,149.9,536,Vehicle-to-Load (V2L),1.7
+65,Magnesium-ion,116.8,125,Vehicle-to-Load (V2L),10.1
+66,Magnesium-ion,77.3,396,Overhead Pantograph Charging,8.9
+67,Aluminum-ion,127.2,346,Solar Charging,9.1
+68,Lithium-ion,54.4,163,Vehicle-to-Home (V2H),4.7
+69,Lithium-iron phosphate,104.2,425,Vehicle-to-Home (V2H),11
+70,Nickel-manganese-cobalt,68.2,586,Vehicle-to-Grid (V2G),7.3
+71,Calcium-ion,67.1,451,Overhead Pantograph Charging,6.8
+72,Zinc-air,146.2,125,Mobile Charging,3.3
+73,Lithium-ion,56,174,CHAdeMO,6.7
+74,Nickel-metal hydride,116.4,369,CCS,9.1
+75,Nickel-manganese-cobalt,103.6,115,Level 2 Charging,12
+76,Zinc-air,102.3,380,Mobile Charging,4.9
+77,Aluminum-ion,49.7,273,Vehicle-to-Home (V2H),5.1
+78,Solid-state,116.8,290,CHAdeMO,6.9
+79,Solid-state,95.1,208,CHAdeMO,8.1
+80,Flow batteries,103.6,113,Battery Swapping,0.8
+81,Lithium-titanate,89,292,Vehicle-to-Grid (V2G),5.7
+82,Lithium-sulfur,77.6,317,Vehicle-to-Load (V2L),7.5
+83,Lithium-ion,48.7,406,Level 2 Charging,0.6
+84,Lithium-titanate,49.9,386,Overhead Pantograph Charging,1.3
+85,Solid-state,72.7,594,Mobile Charging,2.5
+86,Lithium-titanate,64.1,270,NACS,1.4
+87,Lithium-iron phosphate,42.6,178,DC Fast Charging (DCFC),2.5
+88,Solid-state,81,423,Solar Charging,9.7
+89,Zinc-air,85.9,336,Level 2 Charging,5.7
+90,Flow batteries,42.4,226,Vehicle-to-Home (V2H),11.9
+91,Sodium-ion,32.3,447,Plug-in Hydrogen Refueling,3.8
+92,Zinc-air,112.1,143,Solar Charging,6.9
+93,Lithium-sulfur,43.4,209,Mobile Charging,11.4
+94,Nickel-metal hydride,97.6,178,NACS,2.6
+95,Lead-acid,51.1,594,Vehicle-to-Load (V2L),10.9
+96,Nickel-metal hydride,133.5,126,Vehicle-to-Load (V2L),10.6
+97,Calcium-ion,78.6,278,Level 1 Charging,5.3
+98,Nickel-metal hydride,25,569,Vehicle-to-Load (V2L),8.5
+99,Magnesium-ion,57.5,254,CCS,1
+100,Lithium-sulfur,75.8,414,Overhead Pantograph Charging,3.3
+101,Lithium-ion,102.6,291,Battery Swapping,9.1
+102,Sodium-ion,125.8,189,Vehicle-to-Home (V2H),11.8
+103,Sodium-ion,141.3,363,Plug-in Hydrogen Refueling,11.9
+104,Aluminum-ion,72,325,Plug-in Hydrogen Refueling,4.4
+105,Lithium-sulfur,61.8,140,Mobile Charging,8.1
+106,Magnesium-ion,143.2,138,Plug-in Hydrogen Refueling,4.7
+107,Sodium-ion,67.1,586,Level 2 Charging,7.5
+108,Lithium-ion,115.6,355,Plug-in Hydrogen Refueling,11
+109,Nickel-manganese-cobalt,42.4,465,Vehicle-to-Home (V2H),12
+110,Lead-acid,49.2,202,CHAdeMO,3.2
+111,Lead-acid,73.4,309,DC Fast Charging (DCFC),1.9
+112,Lead-acid,138.4,128,CCS,6.5
+113,Lithium-sulfur,36.3,255,DC Fast Charging (DCFC),6.3
+114,Magnesium-ion,95,433,Inductive (Wireless) Charging,9.3
+115,Nickel-manganese-cobalt,29.5,130,NACS,5.6
+116,Lead-acid,33.8,223,Vehicle-to-Home (V2H),1.9
+117,Lithium-titanate,60.7,490,NACS,6.2
+118,Lithium-sulfur,84.3,551,Vehicle-to-Load (V2L),3.8
+119,Lead-acid,45.3,383,Solar Charging,1.3
+120,Sodium-ion,118.1,201,Plug-in Hydrogen Refueling,6.3
+121,Nickel-cobalt-aluminum,148.8,478,Solar Charging,7.3
+122,Lithium-sulfur,123.6,471,Level 1 Charging,7.4
+123,Lithium-ion,94.4,458,CCS,2.7
+124,Lead-acid,62.3,439,Vehicle-to-Load (V2L),6.5
+125,Lithium-sulfur,92.6,215,Solar Charging,9.4
+126,Calcium-ion,64.9,495,CHAdeMO,3.8
+127,Nickel-metal hydride,34.2,479,Ultra-Fast Charging (350 kW+),3.3
+128,Lead-acid,147.1,180,Vehicle-to-Grid (V2G),8
+129,Nickel-cobalt-aluminum,134.7,190,Level 2 Charging,12
+130,Nickel-manganese-cobalt,148.6,378,Vehicle-to-Load (V2L),10.7
+131,Magnesium-ion,58.4,445,Inductive (Wireless) Charging,2.5
+132,Lithium-sulfur,69.9,328,Battery Swapping,11.5
+133,Flow batteries,85.3,558,Solar Charging,8.4
+134,Magnesium-ion,106.3,211,Ultra-Fast Charging (350 kW+),8.3
+135,Lithium-iron phosphate,94.5,176,NACS,4.3
+136,Zinc-air,27.5,336,Solar Charging,8.8
+137,Lithium-ion,57.3,192,CHAdeMO,9.3
+138,Nickel-metal hydride,105,278,CCS,2.6
+139,Nickel-cobalt-aluminum,127,226,Vehicle-to-Home (V2H),4.5
+140,Lithium-ion,78,444,Level 2 Charging,3.3
+141,Calcium-ion,61.7,254,CHAdeMO,11.8
+142,Flow batteries,107.3,502,Mobile Charging,8.5
+143,Nickel-cobalt-aluminum,92.4,168,Plug-in Hydrogen Refueling,3.3
+144,Lithium-iron phosphate,124.6,400,Inductive (Wireless) Charging,6
+145,Lithium-titanate,98.6,204,Plug-in Hydrogen Refueling,11
+146,Magnesium-ion,129.2,568,Inductive (Wireless) Charging,4.8
+147,Lithium-iron phosphate,69.4,526,Ultra-Fast Charging (350 kW+),6.2
+148,Nickel-metal hydride,113.6,350,NACS,11
+149,Lithium-titanate,39.6,211,Vehicle-to-Home (V2H),4.8
+150,Lithium-titanate,55.7,600,Solar Charging,0.7
+151,Lithium-sulfur,126,236,Plug-in Hydrogen Refueling,1.4
+152,Lead-acid,81.9,426,Level 1 Charging,8.6
+153,Nickel-manganese-cobalt,55.2,573,DC Fast Charging (DCFC),8.4
+154,Aluminum-ion,30,183,Ultra-Fast Charging (350 kW+),7
+155,Solid-state,76.8,529,DC Fast Charging (DCFC),4.4
+156,Nickel-metal hydride,108.4,438,Plug-in Hydrogen Refueling,1.5
+157,Solid-state,31.9,582,Solar Charging,5.6
+158,Lead-acid,32.1,406,Mobile Charging,10.4
+159,Nickel-metal hydride,55,237,Vehicle-to-Load (V2L),2.2
+160,Solid-state,37.6,103,Plug-in Hydrogen Refueling,4.3
+161,Sodium-ion,43.1,303,Mobile Charging,3.9
+162,Lead-acid,43.4,493,Level 1 Charging,11.5
+163,Lithium-sulfur,51.5,437,CHAdeMO,8.7
+164,Zinc-air,103,143,CCS,9.3
+165,Lithium-ion,32.8,213,Ultra-Fast Charging (350 kW+),5.6
+166,Calcium-ion,142.3,172,Overhead Pantograph Charging,4.1
+167,Lithium-ion,130.4,431,CCS,8.3
+168,Flow batteries,105.5,302,Level 1 Charging,9
+169,Sodium-ion,45.6,158,Battery Swapping,8.2
+170,Zinc-air,31,168,Mobile Charging,1.9
+171,Lead-acid,110.1,430,NACS,6.9
+172,Lead-acid,104.9,309,Vehicle-to-Load (V2L),5.3
+173,Magnesium-ion,79.5,480,Vehicle-to-Load (V2L),6.8
+174,Lithium-titanate,127.9,484,Ultra-Fast Charging (350 kW+),3.9
+175,Flow batteries,75.7,415,CHAdeMO,9.5
+176,Aluminum-ion,108.3,148,CHAdeMO,11.6
+177,Nickel-manganese-cobalt,38.5,423,Battery Swapping,7.7
+178,Lithium-titanate,146.4,425,Overhead Pantograph Charging,10.3
+179,Calcium-ion,83.1,275,Level 2 Charging,1
+180,Aluminum-ion,104.5,181,Battery Swapping,1.6
+181,Lithium-ion,47.7,139,CHAdeMO,7.3
+182,Solid-state,115,152,CCS,4.1
+183,Nickel-metal hydride,77.2,469,Inductive (Wireless) Charging,7.7
+184,Sodium-ion,122.8,226,Battery Swapping,7.9
+185,Lithium-iron phosphate,117.2,251,Level 2 Charging,9.5
+186,Calcium-ion,129.1,315,Overhead Pantograph Charging,6.8
+187,Lithium-titanate,85.1,312,Vehicle-to-Grid (V2G),8.6
+188,Zinc-air,102.5,527,DC Fast Charging (DCFC),4.1
+189,Lithium-ion,112,459,Level 1 Charging,2.4
+190,Magnesium-ion,75.8,368,DC Fast Charging (DCFC),3.5
+191,Aluminum-ion,94.6,470,CCS,3.1
+192,Sodium-ion,52.3,568,Mobile Charging,3.6
+193,Sodium-ion,31.2,333,Level 1 Charging,4.7
+194,Lithium-ion,141.2,112,Ultra-Fast Charging (350 kW+),6.7
+195,Nickel-cobalt-aluminum,84,130,CHAdeMO,8.7
+196,Solid-state,96.9,131,Vehicle-to-Grid (V2G),8.1
+197,Nickel-metal hydride,121.4,399,CCS,2.3
+198,Nickel-metal hydride,125,255,Level 2 Charging,3
+199,Nickel-cobalt-aluminum,131.1,384,Ultra-Fast Charging (350 kW+),1.6
+200,Flow batteries,101.9,430,DC Fast Charging (DCFC),7.2
+201,Lithium-ion,142.5,125,NACS,11.1
+202,Lithium-ion,99.8,415,Ultra-Fast Charging (350 kW+),7.9
+203,Magnesium-ion,112.7,345,Vehicle-to-Load (V2L),4.5
+204,Lithium-iron phosphate,146.6,151,Ultra-Fast Charging (350 kW+),8.1
+205,Sodium-ion,124.8,457,Overhead Pantograph Charging,11
+206,Solid-state,27.3,408,Ultra-Fast Charging (350 kW+),0.7
+207,Calcium-ion,88.4,286,DC Fast Charging (DCFC),4.8
+208,Lithium-titanate,145.9,455,Overhead Pantograph Charging,3.1
+209,Nickel-metal hydride,98.3,571,Ultra-Fast Charging (350 kW+),7.9
+210,Nickel-manganese-cobalt,21.5,207,Ultra-Fast Charging (350 kW+),8.5
+211,Nickel-cobalt-aluminum,33.2,345,Ultra-Fast Charging (350 kW+),2.4
+212,Aluminum-ion,147.1,273,Vehicle-to-Load (V2L),8.6
+213,Lithium-sulfur,58.7,149,Level 2 Charging,5
+214,Lithium-iron phosphate,42.2,249,DC Fast Charging (DCFC),5.9
+215,Nickel-manganese-cobalt,25.8,325,Vehicle-to-Home (V2H),3.5
+216,Lithium-ion,129.3,519,Vehicle-to-Grid (V2G),11.6
+217,Flow batteries,147.8,175,CCS,11.4
+218,Calcium-ion,97.4,263,DC Fast Charging (DCFC),1.5
+219,Nickel-cobalt-aluminum,39.5,390,CCS,11.1
+220,Nickel-metal hydride,55.8,173,Plug-in Hydrogen Refueling,0.9
+221,Lithium-sulfur,129.6,539,CCS,11.7
+222,Lithium-titanate,83,364,Overhead Pantograph Charging,9.9
+223,Calcium-ion,27.5,116,Vehicle-to-Home (V2H),1.1
+224,Nickel-manganese-cobalt,43.1,545,Vehicle-to-Load (V2L),7.2
+225,Flow batteries,49.3,205,Battery Swapping,8
+226,Lithium-sulfur,75.1,292,Overhead Pantograph Charging,5.8
+227,Flow batteries,34.1,132,Mobile Charging,11.9
+228,Nickel-metal hydride,113.8,435,Vehicle-to-Load (V2L),12
+229,Lead-acid,103,343,Overhead Pantograph Charging,6.3
+230,Solid-state,48.9,214,Solar Charging,5.3
+231,Aluminum-ion,45.3,161,Plug-in Hydrogen Refueling,6.6
+232,Nickel-manganese-cobalt,63.2,190,Mobile Charging,7.8
+233,Nickel-cobalt-aluminum,145.5,296,Level 1 Charging,0.9
+234,Nickel-metal hydride,33.4,357,Solar Charging,2.4
+235,Nickel-metal hydride,143.3,570,Plug-in Hydrogen Refueling,0.7
+236,Zinc-air,26.3,124,CCS,8
+237,Nickel-cobalt-aluminum,106,439,Battery Swapping,7.7
+238,Calcium-ion,88,203,Overhead Pantograph Charging,8.6
+239,Calcium-ion,94.6,352,CHAdeMO,11.4
+240,Calcium-ion,25.1,248,Overhead Pantograph Charging,9.7
+241,Sodium-ion,136.3,589,Battery Swapping,10.6
+242,Nickel-metal hydride,110.5,130,NACS,1.7
+243,Aluminum-ion,83.5,554,Vehicle-to-Grid (V2G),5.6
+244,Calcium-ion,64,367,CCS,5.5
+245,Calcium-ion,81,353,NACS,1.4
+246,Magnesium-ion,94.5,145,Vehicle-to-Load (V2L),5.6
+247,Lead-acid,46.9,443,Vehicle-to-Home (V2H),11.4
+248,Magnesium-ion,105.7,101,Mobile Charging,4.6
+249,Solid-state,53.1,200,Inductive (Wireless) Charging,1.9
+250,Magnesium-ion,135.9,334,CHAdeMO,11.6
+251,Solid-state,70.4,407,Mobile Charging,6.3
+252,Lithium-sulfur,129.6,380,Mobile Charging,8.7
+253,Lead-acid,110.3,265,CCS,9.2
+254,Solid-state,23.3,174,Level 2 Charging,8.2
+255,Sodium-ion,125.8,152,Ultra-Fast Charging (350 kW+),9
+256,Lithium-ion,21.7,228,Inductive (Wireless) Charging,7.6
+257,Lithium-sulfur,78.3,449,DC Fast Charging (DCFC),2.7
+258,Lithium-titanate,141.9,120,CHAdeMO,11.2
+259,Lead-acid,28.9,358,NACS,5.3
+260,Calcium-ion,117.8,432,Level 1 Charging,1.8
+261,Lithium-titanate,56.8,566,Overhead Pantograph Charging,6.4
+262,Solid-state,47.4,422,Inductive (Wireless) Charging,10.4
+263,Nickel-manganese-cobalt,113.2,119,DC Fast Charging (DCFC),1.3
+264,Sodium-ion,22.2,444,CCS,6.7
+265,Solid-state,56.6,574,Vehicle-to-Home (V2H),4.9
+266,Aluminum-ion,138.8,507,Overhead Pantograph Charging,11.5
+267,Lithium-iron phosphate,73.6,430,CHAdeMO,2.4
+268,Flow batteries,28.8,150,Inductive (Wireless) Charging,8.8
+269,Sodium-ion,100.1,256,CHAdeMO,7
+270,Lithium-titanate,63.1,345,Vehicle-to-Home (V2H),5.6
+271,Lithium-titanate,135.2,139,DC Fast Charging (DCFC),10.8
+272,Magnesium-ion,39.3,300,Ultra-Fast Charging (350 kW+),10.8
+273,Calcium-ion,145.3,414,NACS,9.2
+274,Lithium-iron phosphate,28.2,289,Ultra-Fast Charging (350 kW+),1
+275,Zinc-air,90.8,189,Plug-in Hydrogen Refueling,8
+276,Lithium-ion,85.2,171,Vehicle-to-Home (V2H),2.4
+277,Nickel-manganese-cobalt,107.8,345,Inductive (Wireless) Charging,7.3
+278,Nickel-metal hydride,53.6,192,Plug-in Hydrogen Refueling,7.4
+279,Calcium-ion,119.8,419,Battery Swapping,2.4
+280,Zinc-air,32.5,343,Level 2 Charging,10.6
+281,Nickel-cobalt-aluminum,68.1,122,Vehicle-to-Grid (V2G),3.1
+282,Magnesium-ion,50.2,539,DC Fast Charging (DCFC),3.8
+283,Flow batteries,46.7,511,Mobile Charging,5.2
+284,Sodium-ion,92.7,347,Battery Swapping,11.9
+285,Magnesium-ion,64,381,Level 2 Charging,2.3
+286,Lithium-ion,114.2,576,Plug-in Hydrogen Refueling,7.6
+287,Lithium-sulfur,45.3,501,Ultra-Fast Charging (350 kW+),7.6
+288,Lithium-iron phosphate,87.3,477,DC Fast Charging (DCFC),11.1
+289,Lithium-ion,53.9,308,CCS,6.9
+290,Nickel-manganese-cobalt,120.1,487,Mobile Charging,11.6
+291,Nickel-cobalt-aluminum,144.2,364,Level 1 Charging,8.6
+292,Aluminum-ion,94.6,193,Inductive (Wireless) Charging,6.2
+293,Aluminum-ion,30.2,589,Vehicle-to-Load (V2L),7.6
+294,Lithium-iron phosphate,117.5,165,Level 2 Charging,6.5
+295,Lithium-titanate,21.1,445,Inductive (Wireless) Charging,4.9
+296,Lithium-iron phosphate,74.5,485,Overhead Pantograph Charging,4.7
+297,Lithium-iron phosphate,39,591,CHAdeMO,5.9
+298,Calcium-ion,93.8,303,CCS,8.4
+299,Lithium-ion,73.5,279,Inductive (Wireless) Charging,7.1
+300,Flow batteries,144.4,544,NACS,7.9
+301,Flow batteries,71.4,554,Vehicle-to-Home (V2H),9.5
+302,Lithium-iron phosphate,41.7,152,CCS,1.2
+303,Flow batteries,141.1,299,Solar Charging,3.1
+304,Aluminum-ion,55.4,327,CHAdeMO,11.6
+305,Nickel-manganese-cobalt,90.2,512,DC Fast Charging (DCFC),5.6
+306,Lithium-titanate,139.9,584,Vehicle-to-Load (V2L),3.9
+307,Nickel-cobalt-aluminum,127.7,212,Battery Swapping,1.4
+308,Nickel-metal hydride,57.6,426,Vehicle-to-Home (V2H),7.6
+309,Lithium-titanate,77,104,Ultra-Fast Charging (350 kW+),1.5
+310,Lithium-sulfur,120.8,136,Vehicle-to-Load (V2L),2.6
+311,Nickel-manganese-cobalt,115.6,148,Inductive (Wireless) Charging,5.9
+312,Lithium-iron phosphate,66.9,126,Inductive (Wireless) Charging,11.7
+313,Lithium-titanate,97.5,290,DC Fast Charging (DCFC),3.4
+314,Sodium-ion,147.6,503,Overhead Pantograph Charging,9.8
+315,Lead-acid,110.6,197,NACS,6.8
+316,Lead-acid,67.7,100,Plug-in Hydrogen Refueling,8.9
+317,Nickel-manganese-cobalt,119.5,178,Solar Charging,4.2
+318,Solid-state,24.1,428,Plug-in Hydrogen Refueling,8.1
+319,Magnesium-ion,103.1,284,Vehicle-to-Grid (V2G),10
+320,Lead-acid,70.1,198,Ultra-Fast Charging (350 kW+),7.1
+321,Nickel-metal hydride,123,381,Plug-in Hydrogen Refueling,6.3
+322,Calcium-ion,114.4,411,Ultra-Fast Charging (350 kW+),7
+323,Lithium-ion,87.3,555,Solar Charging,0.6
+324,Lithium-ion,79.8,179,CHAdeMO,3.5
+325,Nickel-manganese-cobalt,127.3,453,CCS,7.3
+326,Calcium-ion,98.3,105,Plug-in Hydrogen Refueling,1.1
+327,Lead-acid,31.7,321,Solar Charging,9.5
+328,Nickel-manganese-cobalt,92.7,349,Plug-in Hydrogen Refueling,8
+329,Sodium-ion,65.3,264,Overhead Pantograph Charging,7.3
+330,Flow batteries,68.6,487,DC Fast Charging (DCFC),1.8
+331,Lithium-iron phosphate,116.2,208,Inductive (Wireless) Charging,6.8
+332,Nickel-metal hydride,27.8,202,Battery Swapping,1.1
+333,Nickel-cobalt-aluminum,86.1,463,CCS,10.9
+334,Nickel-manganese-cobalt,71.1,180,Level 1 Charging,4.5
+335,Lithium-sulfur,49.3,274,Plug-in Hydrogen Refueling,8.1
+336,Aluminum-ion,98.7,329,CHAdeMO,2.9
+337,Solid-state,92.5,585,CCS,2.6
+338,Nickel-metal hydride,44,490,Battery Swapping,7.5
+339,Sodium-ion,43.9,298,Vehicle-to-Load (V2L),5.9
+340,Calcium-ion,100.2,452,Mobile Charging,10.5
+341,Solid-state,78.7,523,Level 2 Charging,10.6
+342,Aluminum-ion,59.6,523,Solar Charging,5.8
+343,Nickel-cobalt-aluminum,62,112,NACS,5.7
+344,Solid-state,111.8,424,Overhead Pantograph Charging,1.5
+345,Calcium-ion,38.8,493,Level 2 Charging,5.3
+346,Nickel-manganese-cobalt,84.7,355,Level 1 Charging,7.5
+347,Flow batteries,92.5,522,Inductive (Wireless) Charging,1.1
+348,Nickel-cobalt-aluminum,149.2,182,Solar Charging,7.5
+349,Sodium-ion,136.7,519,DC Fast Charging (DCFC),9.2
+350,Zinc-air,27.6,392,DC Fast Charging (DCFC),6.1
+351,Lithium-titanate,102.1,352,NACS,10.7
+352,Sodium-ion,65.5,512,Inductive (Wireless) Charging,0.6
+353,Lithium-titanate,94,591,Level 1 Charging,10.1
+354,Aluminum-ion,63.6,501,Vehicle-to-Grid (V2G),11.2
+355,Nickel-metal hydride,56.5,115,Mobile Charging,11.8
+356,Solid-state,84.6,221,Overhead Pantograph Charging,5.7
+357,Magnesium-ion,82.7,356,CHAdeMO,2.7
+358,Nickel-cobalt-aluminum,112.8,367,CCS,0.5
+359,Zinc-air,118.6,427,Inductive (Wireless) Charging,4.2
+360,Lead-acid,33.3,377,Overhead Pantograph Charging,6.8
+361,Nickel-manganese-cobalt,137.4,125,CCS,4.9
+362,Magnesium-ion,89.4,598,Vehicle-to-Home (V2H),7
+363,Lithium-sulfur,138.7,300,NACS,8.5
+364,Zinc-air,36.6,152,Plug-in Hydrogen Refueling,9.9
+365,Nickel-cobalt-aluminum,28.6,206,Vehicle-to-Grid (V2G),9.5
+366,Lead-acid,32.7,327,NACS,4
+367,Aluminum-ion,118.1,514,Level 1 Charging,9.2
+368,Aluminum-ion,142.6,322,Overhead Pantograph Charging,11.9
+369,Calcium-ion,147.2,156,Solar Charging,10.5
+370,Nickel-metal hydride,44.5,296,Overhead Pantograph Charging,10.2
+371,Nickel-metal hydride,103.5,312,Vehicle-to-Home (V2H),10.8
+372,Lithium-ion,95.1,533,Ultra-Fast Charging (350 kW+),8.7
+373,Lithium-titanate,115.1,539,Battery Swapping,5.8
+374,Lead-acid,121.2,340,Vehicle-to-Home (V2H),6.4
+375,Flow batteries,81.5,186,Level 2 Charging,8
+376,Lithium-sulfur,131.5,107,CCS,7.4
+377,Solid-state,145.8,404,CHAdeMO,10.1
+378,Lithium-ion,41.8,304,Vehicle-to-Load (V2L),4
+379,Nickel-cobalt-aluminum,108.2,592,Level 2 Charging,1.6
+380,Magnesium-ion,107.8,223,Inductive (Wireless) Charging,6.5
+381,Nickel-manganese-cobalt,65.7,471,Solar Charging,3.4
+382,Calcium-ion,98.6,292,NACS,10.8
+383,Nickel-metal hydride,121.5,241,Level 2 Charging,4.9
+384,Nickel-manganese-cobalt,34.1,376,Vehicle-to-Grid (V2G),3
+385,Flow batteries,20.1,119,Plug-in Hydrogen Refueling,3.6
+386,Lithium-iron phosphate,20.4,588,Vehicle-to-Load (V2L),1.9
+387,Calcium-ion,79.8,492,Solar Charging,7.9
+388,Nickel-metal hydride,24.6,112,Ultra-Fast Charging (350 kW+),6.1
+389,Solid-state,47.5,434,Vehicle-to-Home (V2H),11.3
+390,Aluminum-ion,139.3,123,Ultra-Fast Charging (350 kW+),8.6
+391,Magnesium-ion,100,132,Inductive (Wireless) Charging,5.4
+392,Solid-state,55.6,487,Vehicle-to-Grid (V2G),2.4
+393,Lithium-ion,20.9,574,DC Fast Charging (DCFC),8.6
+394,Nickel-metal hydride,99.4,119,NACS,8.7
+395,Lithium-iron phosphate,80.3,420,Inductive (Wireless) Charging,3.7
+396,Nickel-cobalt-aluminum,52.7,415,Vehicle-to-Home (V2H),1
+397,Lithium-iron phosphate,117.1,559,Mobile Charging,3.1
+398,Aluminum-ion,76.7,210,Vehicle-to-Home (V2H),2.5
+399,Calcium-ion,80.5,314,NACS,9.2
+400,Nickel-manganese-cobalt,132.1,210,Vehicle-to-Load (V2L),10.1
+401,Lithium-ion,25.2,340,Level 2 Charging,5.4
+402,Lithium-iron phosphate,104.2,146,Level 1 Charging,6
+403,Flow batteries,80.4,424,Level 1 Charging,10.4
+404,Solid-state,100.7,271,Level 2 Charging,6.4
+405,Lithium-titanate,120.6,170,Mobile Charging,3.2
+406,Nickel-cobalt-aluminum,56,132,Overhead Pantograph Charging,4.5
+407,Lithium-iron phosphate,135.9,334,DC Fast Charging (DCFC),1.4
+408,Lithium-sulfur,74.1,449,CHAdeMO,5.9
+409,Flow batteries,122.3,348,Vehicle-to-Home (V2H),5.8
+410,Nickel-metal hydride,100.4,182,Solar Charging,2.6
+411,Lead-acid,111.9,440,Mobile Charging,11.7
+412,Lithium-ion,146.1,379,Mobile Charging,7.9
+413,Flow batteries,91.6,257,Level 1 Charging,5.1
+414,Lithium-ion,30.9,534,Vehicle-to-Home (V2H),8.3
+415,Nickel-cobalt-aluminum,68.5,245,Overhead Pantograph Charging,4.5
+416,Nickel-metal hydride,128.6,406,DC Fast Charging (DCFC),2.2
+417,Nickel-metal hydride,92.3,463,CHAdeMO,2.8
+418,Lithium-sulfur,59,427,Vehicle-to-Load (V2L),1.9
+419,Zinc-air,82.5,323,Battery Swapping,7.7
+420,Aluminum-ion,110.1,282,NACS,1.1
+421,Magnesium-ion,32.3,485,NACS,6.8
+422,Nickel-metal hydride,87.4,290,Vehicle-to-Load (V2L),5.2
+423,Nickel-manganese-cobalt,139.1,159,CHAdeMO,11.1
+424,Lithium-titanate,125.9,213,CHAdeMO,10.4
+425,Lithium-ion,45.5,116,Level 2 Charging,5.9
+426,Sodium-ion,23.8,174,Battery Swapping,11.4
+427,Lithium-sulfur,42.3,486,Level 1 Charging,11.7
+428,Lithium-iron phosphate,86.9,308,CCS,9.3
+429,Nickel-cobalt-aluminum,56.9,407,Solar Charging,8.4
+430,Flow batteries,83.9,153,Plug-in Hydrogen Refueling,5.5
+431,Lithium-iron phosphate,97.3,306,CCS,3.2
+432,Nickel-cobalt-aluminum,148.4,361,Battery Swapping,2.2
+433,Nickel-cobalt-aluminum,98.6,267,CHAdeMO,4
+434,Lithium-sulfur,90.5,514,Level 1 Charging,11.5
+435,Nickel-manganese-cobalt,76,259,Plug-in Hydrogen Refueling,6.1
+436,Nickel-manganese-cobalt,96.8,293,Overhead Pantograph Charging,9.3
+437,Nickel-cobalt-aluminum,32.7,276,Overhead Pantograph Charging,5.2
+438,Lead-acid,62.4,335,Vehicle-to-Grid (V2G),7
+439,Solid-state,109.8,205,Mobile Charging,6.2
+440,Lithium-ion,58.7,393,Plug-in Hydrogen Refueling,9.8
+441,Magnesium-ion,30,521,Solar Charging,6.3
+442,Nickel-manganese-cobalt,47.7,592,Vehicle-to-Home (V2H),3.6
+443,Lithium-iron phosphate,39.6,450,Solar Charging,10.2
+444,Lithium-iron phosphate,34.8,198,Level 1 Charging,3.3
+445,Magnesium-ion,124.5,437,NACS,7.9
+446,Flow batteries,105.5,146,Plug-in Hydrogen Refueling,11.3
+447,Lithium-iron phosphate,98,495,Mobile Charging,4.3
+448,Nickel-manganese-cobalt,89.4,458,CCS,4.1
+449,Magnesium-ion,142.3,453,Ultra-Fast Charging (350 kW+),3.4
+450,Solid-state,141.7,487,Ultra-Fast Charging (350 kW+),3.9
+451,Aluminum-ion,129.4,467,Vehicle-to-Grid (V2G),10.6
+452,Magnesium-ion,26.8,428,NACS,7.7
+453,Magnesium-ion,36.9,404,Vehicle-to-Grid (V2G),9.6
+454,Nickel-cobalt-aluminum,133.9,583,Ultra-Fast Charging (350 kW+),0.7
+455,Zinc-air,53.8,145,Overhead Pantograph Charging,2.5
+456,Lithium-titanate,84.2,166,Vehicle-to-Grid (V2G),10.3
+457,Nickel-manganese-cobalt,138,289,Vehicle-to-Home (V2H),1.5
+458,Sodium-ion,141,341,Overhead Pantograph Charging,12
+459,Aluminum-ion,92.7,397,NACS,3.5
+460,Nickel-manganese-cobalt,133.3,527,Battery Swapping,9.1
+461,Calcium-ion,140,425,Vehicle-to-Home (V2H),1.1
+462,Lithium-titanate,92.9,334,Vehicle-to-Load (V2L),1.8
+463,Lithium-iron phosphate,95.9,597,Level 1 Charging,6.5
+464,Sodium-ion,96.7,587,CCS,10.1
+465,Flow batteries,100.9,331,Mobile Charging,11.4
+466,Zinc-air,69.6,304,Battery Swapping,2.5
+467,Solid-state,58.8,510,Vehicle-to-Grid (V2G),9
+468,Lithium-sulfur,93.2,316,DC Fast Charging (DCFC),9.2
+469,Aluminum-ion,84.4,422,DC Fast Charging (DCFC),3.8
+470,Solid-state,139.2,362,CCS,6.4
+471,Magnesium-ion,43.7,301,Level 2 Charging,1.5
+472,Lithium-titanate,147.7,232,CCS,5.5
+473,Calcium-ion,146.6,284,Plug-in Hydrogen Refueling,9.8
+474,Lithium-iron phosphate,76.7,420,Inductive (Wireless) Charging,1.5
+475,Zinc-air,51.5,250,Plug-in Hydrogen Refueling,1.1
+476,Lead-acid,96.8,413,Vehicle-to-Load (V2L),3.2
+477,Lithium-titanate,76.7,182,Solar Charging,8.9
+478,Calcium-ion,142.4,434,Overhead Pantograph Charging,9.7
+479,Zinc-air,84,506,Vehicle-to-Grid (V2G),11.3
+480,Magnesium-ion,28.3,320,CCS,7.6
+481,Aluminum-ion,143,509,Vehicle-to-Home (V2H),11.6
+482,Aluminum-ion,67,472,Solar Charging,8.6
+483,Calcium-ion,125.2,274,Solar Charging,6.3
+484,Nickel-cobalt-aluminum,139.3,559,Vehicle-to-Home (V2H),11.4
+485,Nickel-cobalt-aluminum,147.7,184,Vehicle-to-Grid (V2G),1.2
+486,Lithium-titanate,92,255,Mobile Charging,11
+487,Nickel-manganese-cobalt,110.7,554,Plug-in Hydrogen Refueling,9.4
+488,Lead-acid,91.7,366,Mobile Charging,9.2
+489,Lithium-sulfur,101.5,281,CCS,1
+490,Lithium-sulfur,57,501,CHAdeMO,8.7
+491,Solid-state,32,317,CHAdeMO,6
+492,Lithium-titanate,141,350,Vehicle-to-Grid (V2G),10
+493,Lithium-ion,117,583,Overhead Pantograph Charging,11.1
+494,Lithium-sulfur,58.2,114,CHAdeMO,2.1
+495,Nickel-cobalt-aluminum,82.6,258,Vehicle-to-Home (V2H),10.9
+496,Magnesium-ion,101.2,419,Vehicle-to-Grid (V2G),5
+497,Flow batteries,123.5,462,Solar Charging,7
+498,Aluminum-ion,22.4,437,NACS,11.6
+499,Calcium-ion,141.4,274,Vehicle-to-Grid (V2G),2.6
+500,Magnesium-ion,31.7,257,Vehicle-to-Grid (V2G),8.3
+501,Calcium-ion,136.9,126,Inductive (Wireless) Charging,3.3
+502,Nickel-manganese-cobalt,23.8,424,Ultra-Fast Charging (350 kW+),11
+503,Calcium-ion,102.7,204,CHAdeMO,4.8
+504,Nickel-metal hydride,20.1,577,Vehicle-to-Load (V2L),3.6
+505,Solid-state,71.4,162,CHAdeMO,8.8
+506,Flow batteries,147.8,274,Inductive (Wireless) Charging,5.8
+507,Aluminum-ion,110.5,350,Plug-in Hydrogen Refueling,6.7
+508,Solid-state,80.2,579,Inductive (Wireless) Charging,5.6
+509,Sodium-ion,24.8,352,Inductive (Wireless) Charging,0.6
+510,Flow batteries,108.7,389,NACS,1.3
+511,Lead-acid,99.9,448,Vehicle-to-Home (V2H),0.5
+512,Sodium-ion,87.2,122,Ultra-Fast Charging (350 kW+),1
+513,Solid-state,139.2,200,NACS,4.3
+514,Lithium-iron phosphate,144.6,526,Level 2 Charging,9.9
+515,Aluminum-ion,24.3,260,DC Fast Charging (DCFC),9.5
+516,Nickel-cobalt-aluminum,32.5,485,Vehicle-to-Grid (V2G),3.2
+517,Lead-acid,62.7,198,CCS,1.7
+518,Nickel-manganese-cobalt,44.2,170,Level 2 Charging,1.2
+519,Sodium-ion,146.1,365,CHAdeMO,1.2
+520,Nickel-manganese-cobalt,110.3,339,Mobile Charging,10.3
+521,Lithium-titanate,49.9,419,Inductive (Wireless) Charging,3.2
+522,Lead-acid,35,248,Vehicle-to-Home (V2H),2.7
+523,Calcium-ion,92.1,191,Inductive (Wireless) Charging,0.7
+524,Sodium-ion,125.2,438,NACS,11.3
+525,Sodium-ion,97.9,600,Ultra-Fast Charging (350 kW+),11.1
+526,Lithium-titanate,30.6,340,DC Fast Charging (DCFC),2.4
+527,Nickel-manganese-cobalt,54.9,305,Level 2 Charging,2.9
+528,Magnesium-ion,30.9,327,Overhead Pantograph Charging,3.1
+529,Nickel-manganese-cobalt,50.4,430,DC Fast Charging (DCFC),4.6
+530,Lead-acid,46,200,Mobile Charging,3.4
+531,Calcium-ion,65.1,306,Plug-in Hydrogen Refueling,10
+532,Sodium-ion,122.9,260,Inductive (Wireless) Charging,5.4
+533,Calcium-ion,66.1,215,Vehicle-to-Grid (V2G),5.4
+534,Aluminum-ion,99,543,Plug-in Hydrogen Refueling,11.8
+535,Lead-acid,43.1,523,Vehicle-to-Load (V2L),0.8
+536,Sodium-ion,131.8,310,Plug-in Hydrogen Refueling,2.3
+537,Nickel-manganese-cobalt,40.6,394,Solar Charging,7.3
+538,Aluminum-ion,83.8,336,Level 2 Charging,9
+539,Nickel-cobalt-aluminum,138.4,193,CCS,5
+540,Solid-state,118.2,358,Mobile Charging,5.2
+541,Nickel-cobalt-aluminum,24.9,228,CCS,8.7
+542,Nickel-metal hydride,129,410,CCS,2.5
+543,Aluminum-ion,107.8,210,Vehicle-to-Home (V2H),8.5
+544,Lithium-ion,120.4,492,Inductive (Wireless) Charging,11.2
+545,Aluminum-ion,32.6,527,NACS,8.8
+546,Lithium-iron phosphate,33.8,265,NACS,0.7
+547,Lithium-sulfur,119.8,355,CCS,8.7
+548,Sodium-ion,42.8,489,Mobile Charging,11.7
+549,Lithium-ion,100.1,559,CCS,4.1
+550,Lithium-iron phosphate,140,406,Vehicle-to-Home (V2H),9
+551,Lithium-iron phosphate,46.8,127,Ultra-Fast Charging (350 kW+),9.7
+552,Flow batteries,149,580,Inductive (Wireless) Charging,1.9
+553,Lithium-iron phosphate,59.4,395,Vehicle-to-Home (V2H),11.6
+554,Calcium-ion,144,346,Level 1 Charging,9.3
+555,Lead-acid,98.8,136,Mobile Charging,2.1
+556,Nickel-cobalt-aluminum,83.6,428,DC Fast Charging (DCFC),5.2
+557,Lithium-titanate,67.9,129,Plug-in Hydrogen Refueling,11.2
+558,Lithium-sulfur,98.7,583,CHAdeMO,3.4
+559,Aluminum-ion,44.5,316,NACS,10
+560,Zinc-air,121,276,CHAdeMO,3.6
+561,Lead-acid,74.2,247,Vehicle-to-Grid (V2G),2.5
+562,Magnesium-ion,118.7,232,Vehicle-to-Grid (V2G),5.6
+563,Nickel-manganese-cobalt,107.5,151,Level 1 Charging,1.2
+564,Nickel-manganese-cobalt,118.4,409,Vehicle-to-Grid (V2G),4.4
+565,Nickel-manganese-cobalt,133.2,305,CHAdeMO,0.8
+566,Flow batteries,144.5,516,Mobile Charging,0.7
+567,Calcium-ion,110.9,151,Plug-in Hydrogen Refueling,3.9
+568,Aluminum-ion,78,159,Vehicle-to-Load (V2L),8.1
+569,Lithium-iron phosphate,113.5,440,Vehicle-to-Load (V2L),11.4
+570,Flow batteries,64.6,566,Plug-in Hydrogen Refueling,8
+571,Zinc-air,67.8,536,Mobile Charging,11.5
+572,Flow batteries,98.2,213,CCS,5
+573,Lithium-titanate,106.5,510,Level 2 Charging,7.4
+574,Magnesium-ion,63.3,523,Inductive (Wireless) Charging,10.3
+575,Nickel-cobalt-aluminum,108.1,278,Plug-in Hydrogen Refueling,5
+576,Calcium-ion,141.5,255,Vehicle-to-Home (V2H),8
+577,Magnesium-ion,148.5,175,Plug-in Hydrogen Refueling,11.4
+578,Nickel-cobalt-aluminum,146.1,421,Plug-in Hydrogen Refueling,3.3
+579,Lithium-sulfur,102.2,327,Overhead Pantograph Charging,0.6
+580,Nickel-metal hydride,69.9,430,Vehicle-to-Grid (V2G),3.9
+581,Nickel-manganese-cobalt,28.3,528,CCS,9.2
+582,Zinc-air,46.8,182,DC Fast Charging (DCFC),7
+583,Lithium-ion,143,365,Solar Charging,8.1
+584,Flow batteries,126.6,221,Level 2 Charging,2.7
+585,Lead-acid,53.1,295,NACS,5.1
+586,Zinc-air,105.5,520,NACS,5.3
+587,Sodium-ion,103.2,285,Mobile Charging,9.4
+588,Calcium-ion,124.9,148,Overhead Pantograph Charging,8.6
+589,Zinc-air,36.6,104,CHAdeMO,8.1
+590,Nickel-metal hydride,77.1,281,Vehicle-to-Home (V2H),6.3
+591,Lithium-titanate,51.2,147,NACS,7.1
+592,Lithium-ion,100.1,566,Level 1 Charging,8.7
+593,Flow batteries,140.9,491,Ultra-Fast Charging (350 kW+),2.5
+594,Calcium-ion,119.6,160,Solar Charging,3.9
+595,Lithium-ion,66.2,415,Vehicle-to-Home (V2H),4.3
+596,Lead-acid,136.8,310,CCS,11
+597,Calcium-ion,77.1,171,Overhead Pantograph Charging,9.1
+598,Flow batteries,147.8,160,Vehicle-to-Grid (V2G),6.1
+599,Nickel-metal hydride,64.7,106,Ultra-Fast Charging (350 kW+),1.1
+600,Nickel-metal hydride,52.4,492,CCS,10.4
+601,Flow batteries,102.5,217,CCS,2
+602,Sodium-ion,75.4,131,Vehicle-to-Grid (V2G),7.9
+603,Lithium-titanate,61.8,246,Vehicle-to-Load (V2L),3.7
+604,Sodium-ion,116.4,285,Overhead Pantograph Charging,3.2
+605,Lithium-titanate,78,150,DC Fast Charging (DCFC),11.3
+606,Sodium-ion,136.3,329,CCS,11
+607,Magnesium-ion,146.4,197,Plug-in Hydrogen Refueling,6.2
+608,Nickel-metal hydride,94.3,403,Level 1 Charging,10.6
+609,Lithium-ion,89.4,249,Level 2 Charging,7.9
+610,Flow batteries,98.7,288,Mobile Charging,1.5
+611,Lithium-sulfur,146.3,375,CCS,8.8
+612,Flow batteries,125,485,Plug-in Hydrogen Refueling,2.3
+613,Flow batteries,56.7,258,NACS,10.7
+614,Zinc-air,33,296,Level 1 Charging,1.8
+615,Lead-acid,115.7,273,DC Fast Charging (DCFC),2.8
+616,Solid-state,22.8,122,CCS,6.8
+617,Lithium-sulfur,49.4,550,Plug-in Hydrogen Refueling,8.4
+618,Sodium-ion,140,570,DC Fast Charging (DCFC),10.8
+619,Aluminum-ion,33.5,569,Vehicle-to-Load (V2L),8.1
+620,Solid-state,95.1,591,Battery Swapping,2.2
+621,Magnesium-ion,142.7,571,Ultra-Fast Charging (350 kW+),4.9
+622,Lithium-titanate,31.3,285,Level 1 Charging,2.8
+623,Nickel-manganese-cobalt,38.7,536,Vehicle-to-Grid (V2G),3.3
+624,Lithium-titanate,33.8,397,DC Fast Charging (DCFC),6
+625,Lithium-titanate,38.2,370,Solar Charging,5.9
+626,Calcium-ion,75.1,585,Vehicle-to-Home (V2H),6.9
+627,Nickel-cobalt-aluminum,100.5,212,Plug-in Hydrogen Refueling,2.6
+628,Flow batteries,75.1,238,CCS,1.7
+629,Lead-acid,46.2,575,Level 2 Charging,3.3
+630,Magnesium-ion,56.7,303,Inductive (Wireless) Charging,4.1
+631,Zinc-air,123.5,344,Level 2 Charging,3.8
+632,Magnesium-ion,37.1,248,Overhead Pantograph Charging,7.7
+633,Magnesium-ion,133.2,380,DC Fast Charging (DCFC),6.2
+634,Nickel-manganese-cobalt,147.2,490,Vehicle-to-Home (V2H),8
+635,Sodium-ion,68.6,449,Vehicle-to-Grid (V2G),6.3
+636,Nickel-cobalt-aluminum,40.6,304,DC Fast Charging (DCFC),3.1
+637,Magnesium-ion,76.3,305,Mobile Charging,1.2
+638,Lithium-iron phosphate,61.6,116,Plug-in Hydrogen Refueling,1.2
+639,Solid-state,38.4,240,Plug-in Hydrogen Refueling,1.4
+640,Lithium-iron phosphate,65.4,314,Vehicle-to-Load (V2L),6
+641,Nickel-metal hydride,62.1,521,Mobile Charging,0.7
+642,Flow batteries,78.4,596,CCS,0.9
+643,Calcium-ion,67.3,254,Solar Charging,6.3
+644,Aluminum-ion,42.9,319,Overhead Pantograph Charging,2.5
+645,Flow batteries,22.1,577,Vehicle-to-Grid (V2G),1.7
+646,Lead-acid,69.5,200,Vehicle-to-Load (V2L),11.4
+647,Aluminum-ion,105.6,257,Vehicle-to-Grid (V2G),8.2
+648,Nickel-cobalt-aluminum,51.4,598,Plug-in Hydrogen Refueling,2.7
+649,Lithium-iron phosphate,32.9,510,CHAdeMO,6.3
+650,Nickel-cobalt-aluminum,21.5,494,CHAdeMO,0.8
+651,Lithium-iron phosphate,89.6,225,Plug-in Hydrogen Refueling,9.4
+652,Nickel-metal hydride,56.7,558,NACS,1.6
+653,Aluminum-ion,60.8,565,Vehicle-to-Home (V2H),9.8
+654,Lead-acid,20.7,367,Battery Swapping,11.2
+655,Lithium-iron phosphate,30.8,454,CHAdeMO,3.6
+656,Nickel-metal hydride,45.7,533,Battery Swapping,11.6
+657,Zinc-air,34,296,Vehicle-to-Grid (V2G),2.8
+658,Sodium-ion,71.8,158,NACS,9.8
+659,Lithium-iron phosphate,80.5,507,Mobile Charging,10.8
+660,Nickel-cobalt-aluminum,108.7,322,Mobile Charging,9.9
+661,Zinc-air,22.8,109,Level 1 Charging,11
+662,Lithium-titanate,59.1,262,Overhead Pantograph Charging,5.1
+663,Lithium-iron phosphate,26.2,105,CHAdeMO,1.7
+664,Aluminum-ion,122,156,Level 2 Charging,11.4
+665,Calcium-ion,39.2,399,Vehicle-to-Grid (V2G),7.8
+666,Lithium-titanate,30.8,385,Ultra-Fast Charging (350 kW+),8.1
+667,Nickel-manganese-cobalt,33.6,206,Mobile Charging,9.2
+668,Lithium-iron phosphate,28.9,316,NACS,8.4
+669,Nickel-manganese-cobalt,106,331,Overhead Pantograph Charging,3.6
+670,Lithium-ion,104.3,474,Vehicle-to-Grid (V2G),2.7
+671,Solid-state,26.9,118,Battery Swapping,3.2
+672,Nickel-manganese-cobalt,46.7,502,Inductive (Wireless) Charging,4.5
+673,Sodium-ion,108.6,185,NACS,4.3
+674,Sodium-ion,146,398,Level 1 Charging,6.1
+675,Solid-state,59.6,476,Mobile Charging,5.7
+676,Magnesium-ion,106.3,542,Vehicle-to-Load (V2L),1.8
+677,Lithium-titanate,110.5,320,Overhead Pantograph Charging,2.9
+678,Aluminum-ion,63.1,401,Vehicle-to-Grid (V2G),11.4
+679,Solid-state,146,355,CHAdeMO,5.9
+680,Calcium-ion,97.1,127,Vehicle-to-Load (V2L),4
+681,Lithium-titanate,45.6,399,DC Fast Charging (DCFC),3.8
+682,Zinc-air,76.7,548,Mobile Charging,9.8
+683,Nickel-metal hydride,68.9,548,Vehicle-to-Grid (V2G),1.6
+684,Aluminum-ion,92.7,590,Vehicle-to-Grid (V2G),1.5
+685,Nickel-cobalt-aluminum,107.1,336,Vehicle-to-Home (V2H),10.2
+686,Lead-acid,38.7,479,Vehicle-to-Load (V2L),2.1
+687,Zinc-air,134.4,366,CCS,3.3
+688,Flow batteries,77.1,436,CCS,5.5
+689,Lithium-sulfur,106.8,591,Vehicle-to-Load (V2L),4.7
+690,Lithium-ion,103.9,557,Vehicle-to-Home (V2H),1
+691,Nickel-cobalt-aluminum,86.7,189,CHAdeMO,4.5
+692,Nickel-manganese-cobalt,98.8,192,Battery Swapping,2
+693,Aluminum-ion,108.3,265,Ultra-Fast Charging (350 kW+),11.8
+694,Solid-state,24.9,483,DC Fast Charging (DCFC),5.6
+695,Nickel-manganese-cobalt,76.9,246,Ultra-Fast Charging (350 kW+),2.8
+696,Sodium-ion,120.7,390,DC Fast Charging (DCFC),4.4
+697,Nickel-manganese-cobalt,75.6,292,DC Fast Charging (DCFC),7
+698,Aluminum-ion,127.7,299,Overhead Pantograph Charging,1.3
+699,Lithium-titanate,135.9,398,Vehicle-to-Load (V2L),11.3
+700,Aluminum-ion,134.2,220,Vehicle-to-Load (V2L),1.3
+701,Lithium-titanate,25.4,118,Vehicle-to-Load (V2L),6.3
+702,Flow batteries,115.9,382,Vehicle-to-Load (V2L),1.1
+703,Aluminum-ion,27.5,218,DC Fast Charging (DCFC),7.3
+704,Lithium-sulfur,25.7,279,Ultra-Fast Charging (350 kW+),12
+705,Nickel-manganese-cobalt,112.7,582,Overhead Pantograph Charging,9.5
+706,Solid-state,46.5,170,Ultra-Fast Charging (350 kW+),4
+707,Lithium-sulfur,56.1,296,Solar Charging,10
+708,Nickel-cobalt-aluminum,89.2,438,Solar Charging,0.9
+709,Magnesium-ion,114.8,476,Level 2 Charging,9.8
+710,Lithium-titanate,149,221,CHAdeMO,10.9
+711,Sodium-ion,54.9,228,Level 1 Charging,1.9
+712,Lithium-iron phosphate,73.1,396,DC Fast Charging (DCFC),3.7
+713,Calcium-ion,100.3,125,Ultra-Fast Charging (350 kW+),1.8
+714,Flow batteries,129.8,534,Overhead Pantograph Charging,6.7
+715,Nickel-cobalt-aluminum,29.3,318,Solar Charging,2.1
+716,Aluminum-ion,39.5,402,Level 1 Charging,1.7
+717,Lithium-titanate,39.5,490,DC Fast Charging (DCFC),11.5
+718,Nickel-manganese-cobalt,105.7,366,Vehicle-to-Home (V2H),4.1
+719,Nickel-manganese-cobalt,115.3,550,Vehicle-to-Grid (V2G),4.7
+720,Lithium-iron phosphate,120.9,308,CHAdeMO,7.5
+721,Aluminum-ion,79,185,CCS,5.3
+722,Aluminum-ion,70.5,316,Overhead Pantograph Charging,2
+723,Lithium-titanate,139.7,586,Vehicle-to-Home (V2H),11
+724,Zinc-air,97.1,445,Vehicle-to-Home (V2H),4.9
+725,Calcium-ion,140.6,246,Mobile Charging,4.9
+726,Solid-state,65.2,184,CCS,3.8
+727,Calcium-ion,86.1,186,Level 1 Charging,7.4
+728,Lead-acid,36.4,332,Solar Charging,11.1
+729,Magnesium-ion,30.3,506,Ultra-Fast Charging (350 kW+),8.9
+730,Sodium-ion,44.8,385,Level 2 Charging,11.4
+731,Nickel-metal hydride,45.8,548,DC Fast Charging (DCFC),11.4
+732,Nickel-cobalt-aluminum,102,220,Overhead Pantograph Charging,6.1
+733,Solid-state,48.5,593,Solar Charging,5.3
+734,Calcium-ion,124.6,350,Vehicle-to-Grid (V2G),8.4
+735,Nickel-cobalt-aluminum,53.9,127,Battery Swapping,6.1
+736,Zinc-air,90.2,586,Level 1 Charging,9.7
+737,Calcium-ion,89.6,540,Ultra-Fast Charging (350 kW+),3.8
+738,Lithium-ion,40.4,254,Level 1 Charging,3.1
+739,Solid-state,85.6,460,Vehicle-to-Grid (V2G),0.7
+740,Lead-acid,116.7,254,Battery Swapping,5.8
+741,Lead-acid,51.8,108,Vehicle-to-Load (V2L),8.9
+742,Solid-state,103.6,270,CHAdeMO,9.8
+743,Magnesium-ion,50.2,492,Vehicle-to-Load (V2L),3.4
+744,Lead-acid,85,591,Ultra-Fast Charging (350 kW+),4.2
+745,Nickel-metal hydride,87.6,162,NACS,2.8
+746,Lithium-ion,58.6,322,Solar Charging,8.8
+747,Lead-acid,98.6,341,Vehicle-to-Home (V2H),2.9
+748,Lithium-ion,60.5,196,Inductive (Wireless) Charging,8.5
+749,Lithium-sulfur,56.9,566,Vehicle-to-Grid (V2G),7.2
+750,Nickel-metal hydride,54.2,152,CHAdeMO,9.7
+751,Lithium-iron phosphate,31.9,511,CHAdeMO,2.1
+752,Lead-acid,118.8,223,Plug-in Hydrogen Refueling,4.8
+753,Calcium-ion,76.8,326,Vehicle-to-Load (V2L),8.5
+754,Lithium-titanate,75.1,415,Inductive (Wireless) Charging,4.9
+755,Lead-acid,139.8,410,Battery Swapping,0.9
+756,Zinc-air,102.2,351,NACS,5.9
+757,Solid-state,74.5,533,CCS,1.1
+758,Aluminum-ion,148.2,469,Overhead Pantograph Charging,6.4
+759,Nickel-manganese-cobalt,25.8,411,Inductive (Wireless) Charging,8.4
+760,Aluminum-ion,31.8,473,DC Fast Charging (DCFC),2.6
+761,Lithium-titanate,118.3,167,Solar Charging,1.1
+762,Lithium-titanate,77.1,147,Vehicle-to-Load (V2L),4.6
+763,Sodium-ion,104,449,Solar Charging,2.9
+764,Lead-acid,105.6,195,Vehicle-to-Load (V2L),2.1
+765,Sodium-ion,63.8,562,CCS,2.7
+766,Calcium-ion,51.7,470,Overhead Pantograph Charging,7.4
+767,Nickel-cobalt-aluminum,97.1,183,NACS,11.1
+768,Nickel-manganese-cobalt,71.5,335,Level 1 Charging,8.1
+769,Lithium-ion,82.1,276,CCS,5.9
+770,Nickel-cobalt-aluminum,120.5,559,Solar Charging,9.9
+771,Sodium-ion,67.1,356,Level 1 Charging,7.5
+772,Nickel-metal hydride,57,298,Vehicle-to-Load (V2L),0.9
+773,Calcium-ion,72.6,513,Level 1 Charging,2.4
+774,Lithium-titanate,102.4,409,Vehicle-to-Home (V2H),6.3
+775,Lithium-ion,63.8,578,Battery Swapping,2.8
+776,Sodium-ion,52.8,272,Solar Charging,9.3
+777,Lead-acid,116,227,NACS,1.5
+778,Nickel-manganese-cobalt,25.3,267,Overhead Pantograph Charging,0.9
+779,Lithium-titanate,53.4,434,DC Fast Charging (DCFC),10.1
+780,Magnesium-ion,141.6,240,NACS,3.7
+781,Nickel-metal hydride,55.7,336,Mobile Charging,1.6
+782,Nickel-cobalt-aluminum,81.8,385,Level 1 Charging,4.4
+783,Calcium-ion,94.3,140,Vehicle-to-Load (V2L),7
+784,Sodium-ion,93.4,312,Level 1 Charging,9.1
+785,Solid-state,94.2,191,NACS,9.3
+786,Lead-acid,89.2,215,Plug-in Hydrogen Refueling,6.2
+787,Aluminum-ion,32.8,397,Vehicle-to-Grid (V2G),11.7
+788,Sodium-ion,99.3,185,Vehicle-to-Load (V2L),8.4
+789,Nickel-metal hydride,81.4,464,Inductive (Wireless) Charging,4.2
+790,Calcium-ion,63.1,571,NACS,3.3
+791,Aluminum-ion,113.1,161,Level 1 Charging,5.5
+792,Magnesium-ion,36.1,174,Battery Swapping,9.2
+793,Flow batteries,110.2,334,Vehicle-to-Load (V2L),9.2
+794,Lead-acid,57.5,213,Overhead Pantograph Charging,7
+795,Zinc-air,58,296,Battery Swapping,7.8
+796,Sodium-ion,103.7,400,Mobile Charging,6.5
+797,Lithium-iron phosphate,39.5,411,CCS,8
+798,Lithium-ion,71.8,150,Mobile Charging,6.3
+799,Lithium-titanate,113.3,190,Level 2 Charging,11.8
+800,Lithium-iron phosphate,51.7,489,Vehicle-to-Load (V2L),5.8
+801,Zinc-air,47.9,349,Solar Charging,7
+802,Lithium-sulfur,84,190,Mobile Charging,6.3
+803,Magnesium-ion,142.9,349,Level 1 Charging,4.2
+804,Magnesium-ion,34.1,218,Inductive (Wireless) Charging,4
+805,Magnesium-ion,42.3,180,NACS,4.2
+806,Lithium-titanate,66,481,Mobile Charging,5.7
+807,Magnesium-ion,55.6,519,Inductive (Wireless) Charging,2.9
+808,Lead-acid,77.2,240,CCS,1.4
+809,Lithium-sulfur,148.3,400,Plug-in Hydrogen Refueling,1.2
+810,Calcium-ion,39.7,177,Solar Charging,7.1
+811,Calcium-ion,122.2,464,Mobile Charging,11.5
+812,Lithium-sulfur,98.5,577,Level 1 Charging,2.1
+813,Lead-acid,133.5,267,Vehicle-to-Load (V2L),3.8
+814,Lithium-iron phosphate,117.7,492,Vehicle-to-Grid (V2G),9.9
+815,Nickel-cobalt-aluminum,94.7,103,Plug-in Hydrogen Refueling,0.7
+816,Aluminum-ion,66.1,550,CHAdeMO,2.7
+817,Calcium-ion,61,217,Inductive (Wireless) Charging,2.8
+818,Calcium-ion,116.7,478,Inductive (Wireless) Charging,4.9
+819,Magnesium-ion,47.3,581,Vehicle-to-Load (V2L),9
+820,Nickel-cobalt-aluminum,124.4,304,CCS,4.6
+821,Aluminum-ion,62,172,Ultra-Fast Charging (350 kW+),2.5
+822,Zinc-air,73.9,180,Vehicle-to-Grid (V2G),2.5
+823,Zinc-air,61.7,501,Level 1 Charging,4.3
+824,Sodium-ion,136.6,147,Vehicle-to-Grid (V2G),11.9
+825,Nickel-metal hydride,62,376,Overhead Pantograph Charging,11.5
+826,Lithium-titanate,72.5,554,CCS,3.4
+827,Flow batteries,38.9,477,Level 2 Charging,9.1
+828,Nickel-manganese-cobalt,82.9,276,Inductive (Wireless) Charging,7.7
+829,Aluminum-ion,63.9,556,NACS,3.4
+830,Flow batteries,23.3,378,CHAdeMO,1.6
+831,Nickel-metal hydride,71.7,581,Inductive (Wireless) Charging,2.1
+832,Sodium-ion,90.1,455,NACS,4.8
+833,Lithium-sulfur,70.7,367,Vehicle-to-Grid (V2G),10.8
+834,Magnesium-ion,73.3,173,Vehicle-to-Load (V2L),10
+835,Nickel-metal hydride,136,163,CHAdeMO,2.9
+836,Calcium-ion,36.2,480,Vehicle-to-Home (V2H),2.3
+837,Magnesium-ion,57.8,367,CCS,1.5
+838,Calcium-ion,114.1,241,Battery Swapping,7.9
+839,Nickel-cobalt-aluminum,106.5,153,Vehicle-to-Load (V2L),6.9
+840,Sodium-ion,95.4,463,Vehicle-to-Grid (V2G),9.9
+841,Flow batteries,138.1,210,NACS,0.8
+842,Lithium-sulfur,78,124,Mobile Charging,5.8
+843,Zinc-air,90,512,Ultra-Fast Charging (350 kW+),4.1
+844,Sodium-ion,124.8,558,Overhead Pantograph Charging,9.2
+845,Nickel-metal hydride,71.7,456,DC Fast Charging (DCFC),2.8
+846,Zinc-air,146.2,265,Ultra-Fast Charging (350 kW+),5.6
+847,Magnesium-ion,48.1,106,Solar Charging,3.3
+848,Flow batteries,94.8,561,Plug-in Hydrogen Refueling,9.1
+849,Calcium-ion,127.6,459,Ultra-Fast Charging (350 kW+),9.6
+850,Lithium-sulfur,94.7,127,Vehicle-to-Home (V2H),7.6
+851,Solid-state,108.7,133,Battery Swapping,7.1
+852,Lead-acid,110.6,255,Mobile Charging,3.2
+853,Zinc-air,35.6,600,DC Fast Charging (DCFC),7.6
+854,Sodium-ion,31.6,584,Plug-in Hydrogen Refueling,7.1
+855,Nickel-manganese-cobalt,31.8,233,Plug-in Hydrogen Refueling,2.8
+856,Sodium-ion,32.4,100,Level 1 Charging,0.6
+857,Solid-state,133.4,567,CHAdeMO,7.4
+858,Solid-state,65.4,192,NACS,10.9
+859,Lithium-iron phosphate,67.5,222,Vehicle-to-Load (V2L),2.7
+860,Flow batteries,61.7,369,Plug-in Hydrogen Refueling,9.2
+861,Nickel-manganese-cobalt,23.1,153,Mobile Charging,7
+862,Lithium-titanate,137,377,NACS,7.9
+863,Sodium-ion,108.5,122,Inductive (Wireless) Charging,1.6
+864,Aluminum-ion,57.8,563,Ultra-Fast Charging (350 kW+),8.1
+865,Flow batteries,53.6,572,Vehicle-to-Grid (V2G),8.3
+866,Lithium-sulfur,129.5,197,Vehicle-to-Load (V2L),3.4
+867,Nickel-metal hydride,137.3,350,DC Fast Charging (DCFC),2.6
+868,Magnesium-ion,35.5,521,Inductive (Wireless) Charging,11.4
+869,Solid-state,119.1,512,DC Fast Charging (DCFC),3.3
+870,Lithium-ion,143.3,274,Battery Swapping,11.1
+871,Lithium-titanate,77.1,546,Vehicle-to-Home (V2H),1.3
+872,Zinc-air,113.7,470,Mobile Charging,4.8
+873,Lithium-ion,93.3,137,Level 1 Charging,8
+874,Nickel-manganese-cobalt,82.3,560,CHAdeMO,5.7
+875,Magnesium-ion,59,121,Vehicle-to-Home (V2H),5.2
+876,Nickel-manganese-cobalt,143.8,337,Overhead Pantograph Charging,4.4
+877,Flow batteries,59.9,301,CHAdeMO,5.9
+878,Nickel-cobalt-aluminum,43.4,326,Level 1 Charging,8.5
+879,Nickel-cobalt-aluminum,61.1,225,CHAdeMO,9.3
+880,Calcium-ion,31.7,576,Overhead Pantograph Charging,2.8
+881,Lithium-sulfur,33.2,387,NACS,10.9
+882,Solid-state,106.3,175,Vehicle-to-Home (V2H),1.6
+883,Aluminum-ion,22.6,351,Overhead Pantograph Charging,10.7
+884,Lithium-sulfur,112.5,585,DC Fast Charging (DCFC),4.6
+885,Nickel-manganese-cobalt,61.4,185,Level 2 Charging,8
+886,Lithium-ion,37,600,Level 1 Charging,8.9
+887,Nickel-cobalt-aluminum,111.9,167,Overhead Pantograph Charging,8.8
+888,Magnesium-ion,119.1,224,DC Fast Charging (DCFC),2.5
+889,Flow batteries,145.5,596,Vehicle-to-Home (V2H),7.8
+890,Nickel-cobalt-aluminum,122.9,219,Inductive (Wireless) Charging,1.1
+891,Nickel-metal hydride,86,140,NACS,11.7
+892,Nickel-cobalt-aluminum,102.6,403,Solar Charging,7.4
+893,Lithium-ion,28.2,276,Level 2 Charging,7.6
+894,Lithium-sulfur,114.5,263,Vehicle-to-Home (V2H),4.6
+895,Nickel-cobalt-aluminum,80.4,336,Mobile Charging,11.1
+896,Nickel-cobalt-aluminum,148.7,423,CHAdeMO,5.1
+897,Lithium-ion,84.7,181,Solar Charging,10
+898,Solid-state,143.9,461,Vehicle-to-Load (V2L),7.5
+899,Zinc-air,75.8,162,CHAdeMO,6.6
+900,Flow batteries,139,597,Vehicle-to-Load (V2L),9.5
+901,Nickel-manganese-cobalt,93.2,555,Level 1 Charging,4.1
+902,Magnesium-ion,120.1,464,CHAdeMO,4.7
+903,Nickel-manganese-cobalt,148.1,409,Inductive (Wireless) Charging,10
+904,Nickel-cobalt-aluminum,111.1,536,Level 1 Charging,3.9
+905,Lead-acid,40.4,327,Mobile Charging,1.7
+906,Nickel-manganese-cobalt,67.9,261,Plug-in Hydrogen Refueling,6.8
+907,Aluminum-ion,86.5,470,CHAdeMO,6.2
+908,Sodium-ion,117.6,352,Plug-in Hydrogen Refueling,6.8
+909,Lithium-iron phosphate,27.3,449,Level 1 Charging,1.1
+910,Magnesium-ion,102.5,302,Level 1 Charging,6.4
+911,Lithium-titanate,30.5,551,Overhead Pantograph Charging,6.4
+912,Nickel-metal hydride,128.5,486,Battery Swapping,4.3
+913,Lithium-iron phosphate,44,121,Plug-in Hydrogen Refueling,9.8
+914,Nickel-manganese-cobalt,27.1,420,Ultra-Fast Charging (350 kW+),7
+915,Nickel-manganese-cobalt,147.9,408,NACS,11.1
+916,Lithium-sulfur,140.9,255,Vehicle-to-Home (V2H),4.9
+917,Lithium-ion,58.7,117,CCS,4
+918,Lithium-titanate,50.5,545,Battery Swapping,3.6
+919,Nickel-cobalt-aluminum,42.8,106,Level 2 Charging,8.1
+920,Flow batteries,25.7,388,Vehicle-to-Grid (V2G),6.9
+921,Nickel-metal hydride,68.5,561,Overhead Pantograph Charging,8.9
+922,Flow batteries,90.5,284,Vehicle-to-Grid (V2G),1.5
+923,Sodium-ion,90.2,525,NACS,10.3
+924,Zinc-air,20.5,578,NACS,9
+925,Zinc-air,65.6,308,CCS,3.1
+926,Calcium-ion,47.2,426,CCS,11.4
+927,Sodium-ion,106,105,Solar Charging,4.4
+928,Lithium-ion,53.3,342,Plug-in Hydrogen Refueling,9.2
+929,Lithium-sulfur,90.7,142,Ultra-Fast Charging (350 kW+),8.8
+930,Zinc-air,73.4,105,CHAdeMO,7.3
+931,Zinc-air,35.3,364,Vehicle-to-Load (V2L),2.5
+932,Lithium-iron phosphate,20.7,497,NACS,9.4
+933,Nickel-metal hydride,37.2,584,Level 1 Charging,5.5
+934,Lithium-sulfur,76.7,459,Vehicle-to-Grid (V2G),1.3
+935,Nickel-metal hydride,106.4,328,Overhead Pantograph Charging,6.9
+936,Sodium-ion,27.8,503,Level 1 Charging,1.8
+937,Nickel-manganese-cobalt,82.2,150,NACS,5
+938,Lithium-iron phosphate,101.5,311,Overhead Pantograph Charging,11.3
+939,Nickel-manganese-cobalt,98.8,543,Ultra-Fast Charging (350 kW+),9.1
+940,Nickel-cobalt-aluminum,98,313,DC Fast Charging (DCFC),7
+941,Calcium-ion,143.3,361,Vehicle-to-Load (V2L),4.9
+942,Sodium-ion,89.3,415,DC Fast Charging (DCFC),3.4
+943,Calcium-ion,63.5,446,Vehicle-to-Grid (V2G),3.7
+944,Magnesium-ion,80.1,366,NACS,1.8
+945,Lithium-titanate,55.2,390,Vehicle-to-Home (V2H),6.7
+946,Nickel-manganese-cobalt,141.5,381,Battery Swapping,6.4
+947,Nickel-metal hydride,36,489,Level 2 Charging,1
+948,Lithium-ion,34.5,600,Battery Swapping,3.8
+949,Nickel-metal hydride,124.7,522,Plug-in Hydrogen Refueling,2.8
+950,Lithium-iron phosphate,79.7,184,NACS,11.1
+951,Nickel-cobalt-aluminum,112.6,326,CHAdeMO,9
+952,Sodium-ion,22.7,359,Plug-in Hydrogen Refueling,10.1
+953,Nickel-cobalt-aluminum,55.6,466,Solar Charging,10.8
+954,Nickel-cobalt-aluminum,22.7,323,Vehicle-to-Home (V2H),11
+955,Nickel-cobalt-aluminum,67.4,489,Ultra-Fast Charging (350 kW+),1.5
+956,Lithium-sulfur,133.2,195,Ultra-Fast Charging (350 kW+),5.2
+957,Aluminum-ion,41.8,108,Inductive (Wireless) Charging,7.4
+958,Aluminum-ion,44.3,502,Level 1 Charging,4.2
+959,Calcium-ion,37.2,541,Overhead Pantograph Charging,7.1
+960,Lithium-sulfur,79.9,509,Vehicle-to-Load (V2L),8.3
+961,Lead-acid,141.8,185,Vehicle-to-Load (V2L),2
+962,Nickel-manganese-cobalt,45.8,108,Inductive (Wireless) Charging,5.5
+963,Lithium-sulfur,83.3,338,Vehicle-to-Home (V2H),4.8
+964,Aluminum-ion,70.3,434,Vehicle-to-Grid (V2G),1.4
+965,Aluminum-ion,85.9,105,CCS,2.2
+966,Zinc-air,62.5,288,Level 2 Charging,9.7
+967,Sodium-ion,105.9,325,Battery Swapping,2.2
+968,Zinc-air,45.2,509,CHAdeMO,5.4
+969,Nickel-manganese-cobalt,34.9,442,Vehicle-to-Home (V2H),9.8
+970,Nickel-metal hydride,106.8,527,Battery Swapping,9.8
+971,Zinc-air,59,541,Battery Swapping,1.7
+972,Nickel-cobalt-aluminum,93.7,253,DC Fast Charging (DCFC),3.3
+973,Solid-state,60,349,Vehicle-to-Load (V2L),11.2
+974,Nickel-cobalt-aluminum,130.9,151,DC Fast Charging (DCFC),1.4
+975,Lithium-ion,37.4,531,Overhead Pantograph Charging,8.3
+976,Zinc-air,20,572,Inductive (Wireless) Charging,9.6
+977,Nickel-manganese-cobalt,98.8,233,NACS,7.9
+978,Lead-acid,59.8,434,Plug-in Hydrogen Refueling,5.3
+979,Nickel-metal hydride,34,329,CHAdeMO,2.2
+980,Lithium-titanate,96.4,579,Inductive (Wireless) Charging,10.8
+981,Flow batteries,145.7,501,Mobile Charging,5.7
+982,Nickel-metal hydride,25.5,171,Ultra-Fast Charging (350 kW+),6.4
+983,Lithium-ion,33.6,495,Inductive (Wireless) Charging,2.9
+984,Nickel-manganese-cobalt,145.3,402,Solar Charging,6.7
+985,Lithium-iron phosphate,140,527,Ultra-Fast Charging (350 kW+),5.7
+986,Calcium-ion,78.4,303,Level 1 Charging,5.4
+987,Zinc-air,47.7,438,Solar Charging,9.5
+988,Lithium-ion,32.9,576,Battery Swapping,2.4
+989,Nickel-metal hydride,133.5,536,Level 1 Charging,11.5
+990,Flow batteries,99.9,502,DC Fast Charging (DCFC),4.6
+991,Nickel-metal hydride,87.9,453,Inductive (Wireless) Charging,6
+992,Nickel-metal hydride,44.7,426,Vehicle-to-Load (V2L),9.4
+993,Lithium-iron phosphate,20.5,281,Level 1 Charging,11.9
+994,Magnesium-ion,35.1,169,Vehicle-to-Load (V2L),6.2
+995,Lithium-ion,131.6,128,Solar Charging,8.1
+996,Lithium-titanate,59,111,Level 1 Charging,11.8
+997,Aluminum-ion,36.1,395,Inductive (Wireless) Charging,7.2
+998,Flow batteries,58.7,558,Plug-in Hydrogen Refueling,9.2
+999,Nickel-manganese-cobalt,125.2,307,CCS,3.5
+1000,Lithium-iron phosphate,114.7,164,NACS,9
+1001,Lead-acid,50.9,320,Inductive (Wireless) Charging,7.6
+1002,Lithium-sulfur,104.3,354,Level 1 Charging,11.7
+1003,Lithium-iron phosphate,116.8,474,DC Fast Charging (DCFC),8.4
+1004,Nickel-manganese-cobalt,38.8,470,CCS,10.5
+1005,Calcium-ion,106.6,584,Ultra-Fast Charging (350 kW+),6.1
+1006,Lithium-iron phosphate,73.7,551,Solar Charging,2.1
+1007,Calcium-ion,82,299,Battery Swapping,2.3
+1008,Lithium-titanate,68.2,230,CCS,3.6
+1009,Aluminum-ion,92.3,414,NACS,7.7
+1010,Nickel-metal hydride,34.1,256,Vehicle-to-Grid (V2G),3.4
+1011,Lithium-iron phosphate,135.7,266,Level 2 Charging,10.4
+1012,Nickel-cobalt-aluminum,132.7,204,Vehicle-to-Home (V2H),5.2
+1013,Lithium-sulfur,21.5,400,Vehicle-to-Grid (V2G),1.9
+1014,Lithium-titanate,101.8,489,Ultra-Fast Charging (350 kW+),1
+1015,Lead-acid,95.8,573,Battery Swapping,0.5
+1016,Nickel-metal hydride,126.9,219,Level 2 Charging,8.9
+1017,Flow batteries,118.4,489,Solar Charging,10.1
+1018,Calcium-ion,136.1,155,DC Fast Charging (DCFC),9.3
+1019,Nickel-metal hydride,127.7,404,Inductive (Wireless) Charging,11.5
+1020,Nickel-manganese-cobalt,140.5,547,CCS,9.7
+1021,Lead-acid,43.4,548,Ultra-Fast Charging (350 kW+),9.7
+1022,Lithium-sulfur,53.9,381,CHAdeMO,10
+1023,Nickel-cobalt-aluminum,113.7,379,DC Fast Charging (DCFC),9
+1024,Nickel-metal hydride,118.5,513,DC Fast Charging (DCFC),1.5
+1025,Sodium-ion,69.3,158,Solar Charging,9.2
+1026,Nickel-metal hydride,127.2,247,Level 2 Charging,4.1
+1027,Sodium-ion,31.5,470,Battery Swapping,6.6
+1028,Calcium-ion,42.1,395,Plug-in Hydrogen Refueling,8.9
+1029,Magnesium-ion,101.2,425,NACS,1.9
+1030,Lithium-titanate,53.6,538,NACS,6.8
+1031,Solid-state,38.4,304,Solar Charging,8.8
+1032,Solid-state,60.2,498,Battery Swapping,1.4
+1033,Lithium-titanate,107.8,274,NACS,3.9
+1034,Aluminum-ion,139.3,495,Ultra-Fast Charging (350 kW+),8.9
+1035,Lithium-ion,57.7,427,Level 2 Charging,11.9
+1036,Magnesium-ion,38.4,152,DC Fast Charging (DCFC),1.6
+1037,Lithium-iron phosphate,37.5,429,Mobile Charging,12
+1038,Lead-acid,131.6,498,Level 1 Charging,0.6
+1039,Lead-acid,140.2,225,Plug-in Hydrogen Refueling,4.3
+1040,Sodium-ion,99.3,277,CHAdeMO,10.7
+1041,Lead-acid,82.1,529,Level 1 Charging,7.2
+1042,Lithium-sulfur,63.6,314,DC Fast Charging (DCFC),1.6
+1043,Nickel-manganese-cobalt,141.6,319,Vehicle-to-Grid (V2G),11.6
+1044,Sodium-ion,70.8,552,DC Fast Charging (DCFC),9.9
+1045,Lithium-ion,126.3,360,NACS,5.5
+1046,Lithium-iron phosphate,59.5,383,Level 1 Charging,9.6
+1047,Lithium-iron phosphate,103.9,414,CCS,1.1
+1048,Lithium-titanate,149.4,230,NACS,5.1
+1049,Aluminum-ion,87.9,174,Overhead Pantograph Charging,7.2
+1050,Aluminum-ion,44.7,194,Ultra-Fast Charging (350 kW+),3.9
+1051,Magnesium-ion,74.3,556,Level 1 Charging,7.9
+1052,Nickel-metal hydride,105.4,387,Level 1 Charging,10.1
+1053,Lead-acid,124.6,501,CHAdeMO,5.2
+1054,Lithium-ion,93,514,Vehicle-to-Grid (V2G),1.6
+1055,Lead-acid,39.4,400,Solar Charging,10.3
+1056,Solid-state,149.8,159,Plug-in Hydrogen Refueling,6.3
+1057,Flow batteries,56.3,250,DC Fast Charging (DCFC),10.4
+1058,Lithium-iron phosphate,102.9,238,Level 1 Charging,10.8
+1059,Nickel-metal hydride,64.8,384,DC Fast Charging (DCFC),9.1
+1060,Flow batteries,89.4,134,Inductive (Wireless) Charging,2.8
+1061,Aluminum-ion,30.3,105,Inductive (Wireless) Charging,10.3
+1062,Sodium-ion,37.2,353,Overhead Pantograph Charging,4.8
+1063,Calcium-ion,71.4,361,Level 2 Charging,11.7
+1064,Aluminum-ion,80.2,504,Vehicle-to-Load (V2L),8.2
+1065,Flow batteries,45.1,365,Vehicle-to-Grid (V2G),2.5
+1066,Nickel-metal hydride,90.7,263,Vehicle-to-Grid (V2G),0.8
+1067,Nickel-manganese-cobalt,111,306,Vehicle-to-Load (V2L),3.2
+1068,Lithium-iron phosphate,101.8,267,NACS,1.5
+1069,Lead-acid,104.7,579,NACS,1.3
+1070,Lithium-iron phosphate,75.9,411,Solar Charging,9.5
+1071,Lithium-titanate,109.9,359,Solar Charging,8
+1072,Lead-acid,86,592,Level 2 Charging,8.5
+1073,Nickel-manganese-cobalt,55.7,499,DC Fast Charging (DCFC),11.6
+1074,Calcium-ion,128.4,263,Inductive (Wireless) Charging,6.2
+1075,Aluminum-ion,23.9,558,Overhead Pantograph Charging,9.2
+1076,Magnesium-ion,117,536,Overhead Pantograph Charging,3.6
+1077,Nickel-metal hydride,108.9,478,Battery Swapping,9.6
+1078,Nickel-metal hydride,89.3,272,Vehicle-to-Load (V2L),2.5
+1079,Sodium-ion,33.3,540,CCS,6.9
+1080,Magnesium-ion,108.4,522,Battery Swapping,3.1
+1081,Nickel-metal hydride,26.1,367,Mobile Charging,7.2
+1082,Lithium-iron phosphate,33.9,473,NACS,4.7
+1083,Lithium-titanate,132.4,510,CCS,3.8
+1084,Zinc-air,115.2,167,Vehicle-to-Load (V2L),0.6
+1085,Calcium-ion,120.5,359,Vehicle-to-Grid (V2G),9.6
+1086,Flow batteries,64.1,401,Vehicle-to-Grid (V2G),11.6
+1087,Nickel-metal hydride,141.2,103,Level 2 Charging,1
+1088,Lithium-ion,62.1,346,Level 2 Charging,6.5
+1089,Zinc-air,149.4,351,CHAdeMO,6.2
+1090,Sodium-ion,130,478,NACS,11.1
+1091,Zinc-air,38.6,530,Level 1 Charging,7.7
+1092,Lithium-ion,89.2,492,Vehicle-to-Load (V2L),5.1
+1093,Lithium-sulfur,82.9,294,CHAdeMO,10.4
+1094,Lithium-titanate,33.3,127,NACS,8.8
+1095,Sodium-ion,43.6,179,Inductive (Wireless) Charging,9
+1096,Aluminum-ion,41.7,434,Overhead Pantograph Charging,8.6
+1097,Lithium-iron phosphate,41,301,Solar Charging,3.3
+1098,Nickel-manganese-cobalt,20.3,392,NACS,5.6
+1099,Zinc-air,143.7,584,Ultra-Fast Charging (350 kW+),2
+1100,Aluminum-ion,25.8,489,Vehicle-to-Load (V2L),7.5
+1101,Lithium-iron phosphate,102.9,301,Level 2 Charging,9.7
+1102,Solid-state,79.8,277,NACS,11.5
+1103,Lithium-sulfur,45.8,241,Inductive (Wireless) Charging,1.2
+1104,Lithium-ion,102.3,474,CHAdeMO,1.8
+1105,Solid-state,36.8,192,Level 2 Charging,1.9
+1106,Lithium-sulfur,94.3,320,Plug-in Hydrogen Refueling,4.4
+1107,Lithium-sulfur,23,385,Plug-in Hydrogen Refueling,7.7
+1108,Sodium-ion,113.8,529,DC Fast Charging (DCFC),9.8
+1109,Lithium-iron phosphate,146,160,CHAdeMO,3.7
+1110,Lithium-ion,38.3,346,Level 2 Charging,5.4
+1111,Nickel-cobalt-aluminum,132.1,111,Vehicle-to-Grid (V2G),3.1
+1112,Lithium-iron phosphate,27.6,108,Overhead Pantograph Charging,10.9
+1113,Magnesium-ion,149.7,290,Solar Charging,5.4
+1114,Lithium-ion,120,508,CCS,0.9
+1115,Lithium-ion,87.2,515,Overhead Pantograph Charging,5.6
+1116,Lithium-iron phosphate,27,464,Ultra-Fast Charging (350 kW+),4.3
+1117,Lithium-ion,93.5,193,Overhead Pantograph Charging,6.6
+1118,Flow batteries,124.5,497,Inductive (Wireless) Charging,7.5
+1119,Lithium-iron phosphate,128,458,Vehicle-to-Load (V2L),0.7
+1120,Nickel-manganese-cobalt,96.5,441,Vehicle-to-Home (V2H),1.9
+1121,Lithium-ion,61,441,DC Fast Charging (DCFC),4.1
+1122,Nickel-manganese-cobalt,103.1,431,DC Fast Charging (DCFC),2.8
+1123,Nickel-manganese-cobalt,57.3,125,Vehicle-to-Load (V2L),6
+1124,Nickel-manganese-cobalt,124.9,134,Battery Swapping,2.4
+1125,Calcium-ion,40.6,440,Level 1 Charging,7.8
+1126,Aluminum-ion,34.6,599,Vehicle-to-Home (V2H),11.6
+1127,Nickel-metal hydride,40.9,161,Vehicle-to-Home (V2H),11.4
+1128,Lithium-ion,125.5,232,Level 2 Charging,5.3
+1129,Flow batteries,30.9,180,Vehicle-to-Load (V2L),8.3
+1130,Flow batteries,26.5,122,Overhead Pantograph Charging,3.1
+1131,Lithium-sulfur,107.6,513,Ultra-Fast Charging (350 kW+),4.3
+1132,Nickel-cobalt-aluminum,69.9,227,Battery Swapping,11.3
+1133,Nickel-metal hydride,147.6,282,Ultra-Fast Charging (350 kW+),10
+1134,Lithium-iron phosphate,99.8,550,Vehicle-to-Grid (V2G),2.1
+1135,Solid-state,47.9,524,CCS,7.2
+1136,Lithium-titanate,73,100,Mobile Charging,2.6
+1137,Nickel-manganese-cobalt,38.8,163,CCS,5.4
+1138,Lithium-titanate,53.6,375,Level 2 Charging,6.8
+1139,Calcium-ion,149.4,503,Ultra-Fast Charging (350 kW+),10.2
+1140,Lead-acid,77.2,576,Plug-in Hydrogen Refueling,7
+1141,Flow batteries,43.5,532,Vehicle-to-Load (V2L),11.9
+1142,Magnesium-ion,71.3,315,Mobile Charging,3.4
+1143,Lithium-ion,97.2,433,Solar Charging,9.8
+1144,Nickel-manganese-cobalt,73.4,267,Vehicle-to-Grid (V2G),3.5
+1145,Lithium-iron phosphate,45,359,Level 1 Charging,5.4
+1146,Solid-state,71.5,271,Overhead Pantograph Charging,3.1
+1147,Nickel-manganese-cobalt,60.4,168,Mobile Charging,7.6
+1148,Lithium-ion,118.9,374,Level 1 Charging,1.7
+1149,Aluminum-ion,124.2,328,CHAdeMO,11.9
+1150,Lithium-titanate,118.8,345,Mobile Charging,3.1
+1151,Lithium-sulfur,36.6,443,Ultra-Fast Charging (350 kW+),6.3
+1152,Lithium-titanate,38.9,200,DC Fast Charging (DCFC),1.8
+1153,Lithium-iron phosphate,106.4,430,NACS,6.1
+1154,Lead-acid,27.9,533,DC Fast Charging (DCFC),7.5
+1155,Zinc-air,136.2,269,Ultra-Fast Charging (350 kW+),10.6
+1156,Nickel-metal hydride,56.3,230,Overhead Pantograph Charging,3.5
+1157,Solid-state,22,451,Mobile Charging,3.3
+1158,Zinc-air,88.6,497,CHAdeMO,10.7
+1159,Lithium-sulfur,69,118,DC Fast Charging (DCFC),10.4
+1160,Lithium-iron phosphate,51,505,CCS,2.2
+1161,Lithium-titanate,95.1,573,Inductive (Wireless) Charging,2.4
+1162,Nickel-cobalt-aluminum,69.3,123,Level 1 Charging,6.3
+1163,Sodium-ion,69.9,147,Solar Charging,1.2
+1164,Nickel-cobalt-aluminum,121.8,492,CHAdeMO,2.7
+1165,Calcium-ion,126,583,Mobile Charging,11.5
+1166,Lithium-ion,137.6,301,Overhead Pantograph Charging,3.9
+1167,Magnesium-ion,100.4,121,Level 1 Charging,4.7
+1168,Nickel-cobalt-aluminum,98.9,501,Level 1 Charging,6.6
+1169,Sodium-ion,124.4,319,NACS,4.7
+1170,Calcium-ion,145.2,367,NACS,4.9
+1171,Nickel-manganese-cobalt,83.3,248,DC Fast Charging (DCFC),8.2
+1172,Lithium-titanate,97,581,CHAdeMO,5.5
+1173,Lithium-sulfur,139.1,153,Overhead Pantograph Charging,8.3
+1174,Lithium-ion,142,125,DC Fast Charging (DCFC),7.8
+1175,Zinc-air,62.7,469,Battery Swapping,0.6
+1176,Aluminum-ion,141.1,495,Overhead Pantograph Charging,0.6
+1177,Nickel-metal hydride,129.7,553,CCS,11.8
+1178,Lithium-iron phosphate,25.7,336,DC Fast Charging (DCFC),9.8
+1179,Lithium-titanate,62.5,250,Ultra-Fast Charging (350 kW+),9.8
+1180,Nickel-manganese-cobalt,119.6,311,DC Fast Charging (DCFC),11.5
+1181,Lithium-sulfur,63.2,178,Overhead Pantograph Charging,9.4
+1182,Sodium-ion,133.3,177,Vehicle-to-Grid (V2G),6.6
+1183,Lead-acid,45.4,255,NACS,4.2
+1184,Nickel-cobalt-aluminum,66.8,417,Mobile Charging,4.6
+1185,Lithium-ion,84.1,458,Solar Charging,8.9
+1186,Sodium-ion,124.7,460,Vehicle-to-Home (V2H),8.3
+1187,Nickel-metal hydride,149.8,557,DC Fast Charging (DCFC),8.2
+1188,Lithium-iron phosphate,132.2,576,NACS,10.9
+1189,Lithium-titanate,44.9,166,Vehicle-to-Home (V2H),7.3
+1190,Zinc-air,48.1,255,Level 1 Charging,2.8
+1191,Solid-state,90.6,420,CCS,11.5
+1192,Lithium-ion,67,136,Level 2 Charging,1.2
+1193,Nickel-manganese-cobalt,54.2,498,Ultra-Fast Charging (350 kW+),12
+1194,Lithium-ion,20.4,351,Vehicle-to-Home (V2H),4.8
+1195,Lithium-sulfur,36.9,300,NACS,3.8
+1196,Sodium-ion,131.3,135,Level 1 Charging,9
+1197,Lithium-ion,39.7,562,CCS,1.5
+1198,Calcium-ion,93.5,195,DC Fast Charging (DCFC),2.5
+1199,Aluminum-ion,110.2,334,Overhead Pantograph Charging,4.6
+1200,Lithium-iron phosphate,112.8,381,Level 1 Charging,2.6
+1201,Lithium-titanate,20.6,287,CCS,5.5
+1202,Lithium-titanate,146.5,185,CCS,4.9
+1203,Zinc-air,142.5,360,Vehicle-to-Load (V2L),10.8
+1204,Lithium-ion,27,382,Inductive (Wireless) Charging,7.6
+1205,Flow batteries,47.5,167,CCS,1.3
+1206,Lithium-sulfur,141.8,456,CHAdeMO,3
+1207,Solid-state,74.3,553,Level 2 Charging,5.2
+1208,Zinc-air,89.8,167,DC Fast Charging (DCFC),8.4
+1209,Zinc-air,117.4,371,Inductive (Wireless) Charging,1.9
+1210,Solid-state,124.2,203,CCS,5.3
+1211,Aluminum-ion,39.9,392,Plug-in Hydrogen Refueling,4.7
+1212,Zinc-air,120.1,467,Ultra-Fast Charging (350 kW+),7
+1213,Nickel-metal hydride,53.2,502,Vehicle-to-Grid (V2G),8.2
+1214,Lithium-titanate,84.1,404,CCS,9
+1215,Sodium-ion,124.6,554,CHAdeMO,8.8
+1216,Lithium-iron phosphate,143.4,117,Ultra-Fast Charging (350 kW+),1.4
+1217,Sodium-ion,123.5,305,Battery Swapping,8.8
+1218,Magnesium-ion,85.4,592,DC Fast Charging (DCFC),5.5
+1219,Solid-state,125.9,194,Plug-in Hydrogen Refueling,7.4
+1220,Sodium-ion,121,401,CCS,3.6
+1221,Calcium-ion,35.1,497,Mobile Charging,10.7
+1222,Flow batteries,109.2,162,Vehicle-to-Load (V2L),11.3
+1223,Sodium-ion,126,436,Battery Swapping,9
+1224,Calcium-ion,104.3,517,Level 1 Charging,8.5
+1225,Lithium-iron phosphate,80.8,157,Battery Swapping,11
+1226,Lithium-ion,139.7,347,NACS,8.9
+1227,Magnesium-ion,139.4,490,Plug-in Hydrogen Refueling,6.6
+1228,Magnesium-ion,70.8,564,Level 1 Charging,7.4
+1229,Nickel-metal hydride,42,427,Vehicle-to-Home (V2H),3.1
+1230,Nickel-cobalt-aluminum,75.5,359,Overhead Pantograph Charging,11.7
+1231,Calcium-ion,131,295,Level 2 Charging,1.6
+1232,Nickel-metal hydride,111.8,593,Vehicle-to-Load (V2L),8.2
+1233,Lithium-iron phosphate,147.7,178,CHAdeMO,11.5
+1234,Flow batteries,102.1,194,NACS,8.9
+1235,Solid-state,131.2,158,Level 2 Charging,3.6
+1236,Lead-acid,62.1,106,DC Fast Charging (DCFC),3
+1237,Sodium-ion,115,504,Vehicle-to-Load (V2L),1
+1238,Sodium-ion,62.9,239,Level 1 Charging,7.1
+1239,Magnesium-ion,37.8,229,NACS,5.5
+1240,Zinc-air,51.7,466,Vehicle-to-Grid (V2G),10.9
+1241,Nickel-manganese-cobalt,136.1,218,DC Fast Charging (DCFC),9.7
+1242,Zinc-air,81.8,378,Vehicle-to-Grid (V2G),4.6
+1243,Lithium-sulfur,44.5,588,Mobile Charging,2.6
+1244,Flow batteries,79.3,571,Solar Charging,6
+1245,Nickel-manganese-cobalt,97.1,572,Solar Charging,10.7
+1246,Sodium-ion,60.9,212,Vehicle-to-Load (V2L),2.8
+1247,Nickel-metal hydride,94,294,Ultra-Fast Charging (350 kW+),4.2
+1248,Lithium-iron phosphate,75.5,220,DC Fast Charging (DCFC),10.3
+1249,Lithium-sulfur,146.4,485,Battery Swapping,10.6
+1250,Lithium-iron phosphate,117.9,224,Battery Swapping,3.7
+1251,Zinc-air,62.7,315,CHAdeMO,7.5
+1252,Lithium-ion,149.7,489,Vehicle-to-Home (V2H),2
+1253,Sodium-ion,81.4,399,CHAdeMO,10.4
+1254,Lithium-ion,127,172,Overhead Pantograph Charging,1.7
+1255,Flow batteries,129.1,593,Level 1 Charging,6.9
+1256,Lithium-titanate,62.5,298,Ultra-Fast Charging (350 kW+),1.5
+1257,Calcium-ion,52.3,258,Vehicle-to-Home (V2H),3.9
+1258,Calcium-ion,23.6,382,Mobile Charging,8.7
+1259,Aluminum-ion,57.2,338,Battery Swapping,2.7
+1260,Nickel-cobalt-aluminum,64,329,Mobile Charging,8.9
+1261,Nickel-cobalt-aluminum,94.6,155,Inductive (Wireless) Charging,2.9
+1262,Aluminum-ion,126.1,324,Vehicle-to-Grid (V2G),2.1
+1263,Solid-state,142.4,188,Ultra-Fast Charging (350 kW+),8.9
+1264,Solid-state,143.1,509,Level 1 Charging,1.5
+1265,Lithium-titanate,120.9,152,Vehicle-to-Load (V2L),7.9
+1266,Lead-acid,49.6,546,Vehicle-to-Home (V2H),2.3
+1267,Magnesium-ion,89.4,464,Battery Swapping,11
+1268,Lithium-ion,35.5,334,Level 2 Charging,3.2
+1269,Lithium-titanate,24.7,422,Ultra-Fast Charging (350 kW+),7.4
+1270,Nickel-metal hydride,137.7,584,Plug-in Hydrogen Refueling,9.1
+1271,Sodium-ion,109.1,233,Plug-in Hydrogen Refueling,10.3
+1272,Zinc-air,95.4,269,Level 1 Charging,3.6
+1273,Magnesium-ion,108.6,354,Battery Swapping,7.7
+1274,Nickel-manganese-cobalt,139.8,342,Mobile Charging,9.6
+1275,Flow batteries,68,471,NACS,2.2
+1276,Nickel-cobalt-aluminum,51.8,442,CHAdeMO,7.9
+1277,Flow batteries,91.7,149,Inductive (Wireless) Charging,2.9
+1278,Nickel-metal hydride,130.6,148,NACS,9.5
+1279,Lithium-sulfur,136.2,153,CCS,6.6
+1280,Zinc-air,140.6,568,Vehicle-to-Load (V2L),5.6
+1281,Nickel-cobalt-aluminum,114.1,211,Solar Charging,8.1
+1282,Lithium-sulfur,89.1,507,CCS,3.7
+1283,Zinc-air,97.2,413,Battery Swapping,7.1
+1284,Lithium-titanate,109.5,186,Level 1 Charging,1.2
+1285,Magnesium-ion,43.3,225,Ultra-Fast Charging (350 kW+),6.8
+1286,Nickel-cobalt-aluminum,89.4,321,NACS,10
+1287,Calcium-ion,82.9,560,DC Fast Charging (DCFC),6.3
+1288,Solid-state,44.7,439,NACS,2.8
+1289,Lithium-titanate,131.3,370,Vehicle-to-Load (V2L),4.2
+1290,Calcium-ion,95.7,103,CCS,10.3
+1291,Zinc-air,74.5,536,Ultra-Fast Charging (350 kW+),6.7
+1292,Lithium-titanate,143.9,304,Plug-in Hydrogen Refueling,9.3
+1293,Sodium-ion,49.1,239,Vehicle-to-Grid (V2G),7.7
+1294,Nickel-cobalt-aluminum,75,255,DC Fast Charging (DCFC),9.3
+1295,Lead-acid,65.8,416,Solar Charging,5.2
+1296,Sodium-ion,46.8,475,CCS,12
+1297,Magnesium-ion,71.3,105,Mobile Charging,11.6
+1298,Lead-acid,128.4,283,CCS,9.4
+1299,Calcium-ion,131.1,154,Overhead Pantograph Charging,5.3
+1300,Magnesium-ion,108.2,152,Overhead Pantograph Charging,7.9
+1301,Zinc-air,26.7,489,Vehicle-to-Load (V2L),11
+1302,Sodium-ion,135.5,162,Level 2 Charging,3.2
+1303,Lead-acid,137.3,305,Overhead Pantograph Charging,2.4
+1304,Aluminum-ion,75.3,191,NACS,11.3
+1305,Nickel-manganese-cobalt,137.1,255,Solar Charging,8.4
+1306,Calcium-ion,30.6,170,Solar Charging,4.3
+1307,Aluminum-ion,113.2,341,Ultra-Fast Charging (350 kW+),11.1
+1308,Sodium-ion,92,187,NACS,7.2
+1309,Solid-state,78.3,128,Mobile Charging,11
+1310,Lithium-iron phosphate,66.4,172,Solar Charging,5.5
+1311,Lithium-sulfur,57.6,561,Inductive (Wireless) Charging,0.9
+1312,Calcium-ion,103.8,570,NACS,5.4
+1313,Lithium-ion,57.1,384,Vehicle-to-Grid (V2G),2.6
+1314,Magnesium-ion,124.8,362,Level 2 Charging,1.7
+1315,Lithium-titanate,69.3,183,Plug-in Hydrogen Refueling,7.3
+1316,Aluminum-ion,64.4,412,Level 1 Charging,8.4
+1317,Solid-state,111.6,376,Vehicle-to-Grid (V2G),8.1
+1318,Lithium-titanate,79.5,289,Vehicle-to-Home (V2H),2.5
+1319,Nickel-metal hydride,29.3,481,Vehicle-to-Home (V2H),8.9
+1320,Magnesium-ion,95.5,253,Battery Swapping,11.1
+1321,Nickel-metal hydride,114.4,426,Level 1 Charging,2.9
+1322,Zinc-air,21.5,520,Level 1 Charging,9
+1323,Calcium-ion,75.3,316,Inductive (Wireless) Charging,3
+1324,Flow batteries,71.3,482,CCS,1.9
+1325,Sodium-ion,35.8,470,Vehicle-to-Grid (V2G),1
+1326,Lithium-iron phosphate,112.9,205,Plug-in Hydrogen Refueling,1.3
+1327,Lithium-titanate,97.9,390,Ultra-Fast Charging (350 kW+),2.9
+1328,Flow batteries,52,433,Mobile Charging,10.4
+1329,Flow batteries,99.7,437,CHAdeMO,10.1
+1330,Lithium-sulfur,43,142,Plug-in Hydrogen Refueling,9.8
+1331,Lead-acid,133.4,425,Solar Charging,5.2
+1332,Nickel-manganese-cobalt,74.6,316,CHAdeMO,11.2
+1333,Zinc-air,73.5,508,Level 2 Charging,5.3
+1334,Lead-acid,79.1,238,Mobile Charging,9.2
+1335,Lithium-ion,103.4,317,CCS,9.6
+1336,Lithium-iron phosphate,91.3,326,Overhead Pantograph Charging,11.6
+1337,Zinc-air,138.7,582,Overhead Pantograph Charging,2.7
+1338,Aluminum-ion,31,117,Overhead Pantograph Charging,5.7
+1339,Lithium-iron phosphate,40.7,290,Ultra-Fast Charging (350 kW+),10.2
+1340,Zinc-air,114.9,385,Vehicle-to-Load (V2L),2.2
+1341,Lithium-sulfur,21.8,526,Inductive (Wireless) Charging,2.5
+1342,Nickel-manganese-cobalt,21.6,379,Plug-in Hydrogen Refueling,5.7
+1343,Zinc-air,66.9,309,Level 1 Charging,0.6
+1344,Zinc-air,80,197,Level 2 Charging,8
+1345,Nickel-metal hydride,35.6,511,Battery Swapping,4.1
+1346,Lithium-sulfur,59.8,308,Level 2 Charging,11.8
+1347,Lithium-iron phosphate,138.5,238,DC Fast Charging (DCFC),2.1
+1348,Flow batteries,43.7,428,Overhead Pantograph Charging,4.1
+1349,Sodium-ion,127.5,283,Overhead Pantograph Charging,1.8
+1350,Aluminum-ion,72.6,487,Solar Charging,8.9
+1351,Lithium-ion,138,356,Battery Swapping,4.1
+1352,Lithium-sulfur,100.6,390,CHAdeMO,1.5
+1353,Magnesium-ion,62.4,217,Battery Swapping,6.7
+1354,Nickel-metal hydride,39.2,538,Level 1 Charging,2.4
+1355,Lithium-ion,22.7,380,Plug-in Hydrogen Refueling,3.4
+1356,Solid-state,52.8,307,Level 1 Charging,0.8
+1357,Flow batteries,89.2,495,Vehicle-to-Home (V2H),9
+1358,Lithium-iron phosphate,25.3,111,Battery Swapping,8.4
+1359,Flow batteries,98.5,430,Overhead Pantograph Charging,8.5
+1360,Lithium-iron phosphate,62.1,222,Battery Swapping,5.2
+1361,Lithium-titanate,27,129,CHAdeMO,3.6
+1362,Aluminum-ion,119.7,595,Level 1 Charging,2.2
+1363,Flow batteries,146.2,310,Solar Charging,2.3
+1364,Lead-acid,35.1,314,DC Fast Charging (DCFC),7.7
+1365,Lithium-iron phosphate,27.2,318,Vehicle-to-Grid (V2G),0.8
+1366,Nickel-cobalt-aluminum,28.9,145,CHAdeMO,0.8
+1367,Nickel-cobalt-aluminum,114.3,596,Solar Charging,8
+1368,Lithium-ion,67.6,468,Inductive (Wireless) Charging,11.6
+1369,Magnesium-ion,33.2,447,CHAdeMO,10
+1370,Calcium-ion,36.9,139,Vehicle-to-Home (V2H),10.7
+1371,Lithium-iron phosphate,67,118,Vehicle-to-Grid (V2G),11.7
+1372,Lithium-ion,59.9,314,Plug-in Hydrogen Refueling,6.8
+1373,Magnesium-ion,42.4,596,Plug-in Hydrogen Refueling,8.1
+1374,Lithium-iron phosphate,20.3,442,Vehicle-to-Grid (V2G),3.2
+1375,Magnesium-ion,74.6,111,Plug-in Hydrogen Refueling,5.2
+1376,Solid-state,124.3,195,Ultra-Fast Charging (350 kW+),10.4
+1377,Lithium-ion,46.3,131,Inductive (Wireless) Charging,1.7
+1378,Lithium-iron phosphate,33.9,453,Vehicle-to-Load (V2L),9.1
+1379,Magnesium-ion,148.8,469,Battery Swapping,1.6
+1380,Lithium-iron phosphate,63.9,184,CCS,0.8
+1381,Nickel-manganese-cobalt,34.6,312,CCS,5.4
+1382,Nickel-manganese-cobalt,83.8,161,Inductive (Wireless) Charging,6.1
+1383,Lithium-titanate,113.1,287,Overhead Pantograph Charging,5.9
+1384,Nickel-cobalt-aluminum,96.1,504,Plug-in Hydrogen Refueling,7.4
+1385,Nickel-cobalt-aluminum,100.6,160,Ultra-Fast Charging (350 kW+),7.1
+1386,Nickel-manganese-cobalt,140.6,211,Inductive (Wireless) Charging,4.7
+1387,Nickel-metal hydride,57.5,537,Solar Charging,6.3
+1388,Solid-state,67.9,136,Plug-in Hydrogen Refueling,6
+1389,Lithium-sulfur,91.5,147,Level 1 Charging,4.2
+1390,Sodium-ion,81.4,382,Mobile Charging,4.2
+1391,Nickel-manganese-cobalt,85.9,274,Overhead Pantograph Charging,3.5
+1392,Magnesium-ion,116,289,Battery Swapping,5.4
+1393,Magnesium-ion,54.3,433,Vehicle-to-Load (V2L),6.6
+1394,Lithium-sulfur,126.8,530,Solar Charging,6.3
+1395,Lead-acid,87.1,253,Level 2 Charging,5.7
+1396,Aluminum-ion,72.1,313,CHAdeMO,4.6
+1397,Zinc-air,108.3,190,Level 2 Charging,8.5
+1398,Lithium-titanate,30.9,563,Mobile Charging,7.4
+1399,Aluminum-ion,80.2,463,Mobile Charging,4.5
+1400,Lithium-titanate,128.8,333,Inductive (Wireless) Charging,2.6
+1401,Solid-state,75,129,Solar Charging,2.3
+1402,Lithium-ion,47,538,NACS,2.7
+1403,Nickel-manganese-cobalt,127.7,131,Vehicle-to-Grid (V2G),6.8
+1404,Flow batteries,21.4,116,Solar Charging,7.2
+1405,Nickel-cobalt-aluminum,147.3,568,Level 1 Charging,6.7
+1406,Lithium-iron phosphate,36.5,458,NACS,11.9
+1407,Lithium-ion,36.3,320,Vehicle-to-Grid (V2G),5.7
+1408,Zinc-air,68.6,331,Level 1 Charging,6.3
+1409,Lithium-titanate,139.9,389,NACS,7.3
+1410,Lithium-iron phosphate,42.5,180,Overhead Pantograph Charging,11.5
+1411,Calcium-ion,146.5,158,Ultra-Fast Charging (350 kW+),11.9
+1412,Lithium-iron phosphate,118.2,225,Inductive (Wireless) Charging,10.6
+1413,Nickel-metal hydride,128.1,503,Battery Swapping,9.2
+1414,Nickel-metal hydride,51.6,354,Plug-in Hydrogen Refueling,2.8
+1415,Solid-state,93.6,561,Vehicle-to-Home (V2H),4.4
+1416,Lithium-titanate,72.1,583,Vehicle-to-Grid (V2G),10.3
+1417,Nickel-cobalt-aluminum,35.7,514,Ultra-Fast Charging (350 kW+),0.8
+1418,Lithium-titanate,49.9,269,Overhead Pantograph Charging,0.6
+1419,Nickel-manganese-cobalt,102.9,233,Vehicle-to-Home (V2H),7.5
+1420,Magnesium-ion,34.2,192,Level 1 Charging,4
+1421,Solid-state,66.5,416,Level 2 Charging,2.4
+1422,Nickel-metal hydride,146.4,264,Vehicle-to-Grid (V2G),8.7
+1423,Calcium-ion,121.4,547,Mobile Charging,9
+1424,Aluminum-ion,102.6,186,Solar Charging,5.6
+1425,Lithium-sulfur,94.1,189,Level 1 Charging,9.6
+1426,Sodium-ion,75.9,194,DC Fast Charging (DCFC),6
+1427,Lead-acid,100.5,168,NACS,3.9
+1428,Lithium-ion,61.6,243,Plug-in Hydrogen Refueling,1.8
+1429,Zinc-air,62.3,337,NACS,2.8
+1430,Lithium-sulfur,56.8,147,Vehicle-to-Grid (V2G),3.9
+1431,Flow batteries,136.3,367,Overhead Pantograph Charging,6
+1432,Magnesium-ion,29,267,Mobile Charging,1.7
+1433,Lithium-sulfur,92.8,327,Solar Charging,3.6
+1434,Zinc-air,118.9,105,NACS,4.6
+1435,Nickel-metal hydride,45.7,322,Battery Swapping,1.2
+1436,Nickel-cobalt-aluminum,114.4,220,Mobile Charging,9.5
+1437,Flow batteries,73.4,148,Solar Charging,3.1
+1438,Lithium-sulfur,136.5,534,Vehicle-to-Home (V2H),2
+1439,Zinc-air,24.4,130,CHAdeMO,5.7
+1440,Lithium-sulfur,146.9,286,Vehicle-to-Grid (V2G),9.2
+1441,Nickel-manganese-cobalt,103.8,440,Inductive (Wireless) Charging,0.8
+1442,Zinc-air,22.1,362,Vehicle-to-Home (V2H),6.3
+1443,Nickel-cobalt-aluminum,46.6,448,NACS,8.5
+1444,Zinc-air,37.9,524,CCS,8.5
+1445,Nickel-metal hydride,129.1,490,DC Fast Charging (DCFC),5.1
+1446,Nickel-manganese-cobalt,35.6,178,Vehicle-to-Grid (V2G),8.6
+1447,Lithium-sulfur,42.3,400,Solar Charging,2.3
+1448,Lithium-sulfur,66.6,389,Vehicle-to-Grid (V2G),5.7
+1449,Nickel-metal hydride,144.6,239,Ultra-Fast Charging (350 kW+),7
+1450,Nickel-manganese-cobalt,85.3,574,Level 1 Charging,4.9
+1451,Calcium-ion,52.8,495,CHAdeMO,10.9
+1452,Flow batteries,58.8,328,Level 2 Charging,2.8
+1453,Calcium-ion,120.2,526,Solar Charging,10.2
+1454,Lithium-sulfur,31.5,314,Level 1 Charging,5.4
+1455,Lithium-ion,88.9,530,Level 1 Charging,3.3
+1456,Nickel-cobalt-aluminum,101.9,194,Battery Swapping,4.3
+1457,Nickel-cobalt-aluminum,97.6,399,DC Fast Charging (DCFC),11.3
+1458,Lithium-iron phosphate,99.3,432,Vehicle-to-Home (V2H),0.5
+1459,Lithium-sulfur,85.2,140,Vehicle-to-Home (V2H),9.6
+1460,Nickel-manganese-cobalt,149.8,227,Overhead Pantograph Charging,3.7
+1461,Nickel-cobalt-aluminum,56.9,137,CHAdeMO,4.8
+1462,Nickel-metal hydride,41.6,310,CHAdeMO,0.6
+1463,Aluminum-ion,115.8,505,Ultra-Fast Charging (350 kW+),3
+1464,Lithium-ion,59.1,226,Battery Swapping,6.5
+1465,Nickel-cobalt-aluminum,21.3,102,DC Fast Charging (DCFC),3.8
+1466,Calcium-ion,57,579,DC Fast Charging (DCFC),3
+1467,Lead-acid,76.5,267,Plug-in Hydrogen Refueling,3.9
+1468,Sodium-ion,128.1,115,Vehicle-to-Load (V2L),11.9
+1469,Calcium-ion,68.1,373,CHAdeMO,10.6
+1470,Nickel-metal hydride,118.5,433,Solar Charging,10.3
+1471,Calcium-ion,72.6,106,Level 2 Charging,6.2
+1472,Nickel-metal hydride,145.6,175,Mobile Charging,10.1
+1473,Magnesium-ion,58.2,258,Battery Swapping,10.2
+1474,Solid-state,140,553,Level 1 Charging,8.5
+1475,Flow batteries,41.6,375,Overhead Pantograph Charging,1.4
+1476,Lithium-titanate,30.3,477,CCS,4.2
+1477,Calcium-ion,81.5,125,Solar Charging,0.6
+1478,Nickel-metal hydride,43.2,511,Level 1 Charging,8.3
+1479,Lithium-titanate,116.7,437,Vehicle-to-Home (V2H),6.6
+1480,Lithium-titanate,50.8,469,Vehicle-to-Grid (V2G),2
+1481,Lithium-ion,85.7,594,Vehicle-to-Load (V2L),11.9
+1482,Aluminum-ion,147.3,543,Ultra-Fast Charging (350 kW+),1.4
+1483,Nickel-metal hydride,124,223,NACS,8.1
+1484,Zinc-air,137.6,447,Level 1 Charging,6
+1485,Magnesium-ion,28.3,299,DC Fast Charging (DCFC),10
+1486,Sodium-ion,111.4,395,Plug-in Hydrogen Refueling,11.1
+1487,Lithium-ion,48.1,298,Plug-in Hydrogen Refueling,1.1
+1488,Aluminum-ion,103.3,431,Vehicle-to-Grid (V2G),3.6
+1489,Flow batteries,23.7,286,CHAdeMO,0.8
+1490,Flow batteries,127.2,596,Plug-in Hydrogen Refueling,1
+1491,Flow batteries,96.8,170,Level 2 Charging,4.2
+1492,Zinc-air,70.6,422,Overhead Pantograph Charging,6.6
+1493,Nickel-manganese-cobalt,100.1,126,Mobile Charging,8.5
+1494,Nickel-manganese-cobalt,132.3,178,Vehicle-to-Grid (V2G),10.9
+1495,Nickel-manganese-cobalt,50,471,DC Fast Charging (DCFC),5.4
+1496,Lithium-iron phosphate,51.9,267,Solar Charging,5.6
+1497,Sodium-ion,113.9,163,DC Fast Charging (DCFC),9.2
+1498,Nickel-cobalt-aluminum,135.1,383,Ultra-Fast Charging (350 kW+),2.7
+1499,Lithium-iron phosphate,149.2,455,Vehicle-to-Load (V2L),10.2
+1500,Nickel-manganese-cobalt,51.4,197,CHAdeMO,8.4
+1501,Aluminum-ion,37.3,222,NACS,9.9
+1502,Lithium-titanate,89.5,273,CHAdeMO,1
+1503,Lead-acid,56.3,170,Inductive (Wireless) Charging,11.6
+1504,Sodium-ion,129.6,453,Mobile Charging,2
+1505,Lithium-titanate,128.2,503,Solar Charging,11.8
+1506,Lithium-iron phosphate,46.5,138,Vehicle-to-Grid (V2G),10.7
+1507,Lithium-ion,50.9,508,Level 2 Charging,4.4
+1508,Lithium-titanate,27,559,Vehicle-to-Load (V2L),3.6
+1509,Calcium-ion,40.8,531,Level 2 Charging,3.3
+1510,Zinc-air,78.2,261,Vehicle-to-Load (V2L),7.9
+1511,Magnesium-ion,30.1,406,Vehicle-to-Grid (V2G),0.9
+1512,Lithium-sulfur,48.1,167,Ultra-Fast Charging (350 kW+),11.7
+1513,Zinc-air,57.5,577,Mobile Charging,3.1
+1514,Lithium-titanate,139,580,Vehicle-to-Load (V2L),4
+1515,Nickel-metal hydride,138.2,165,Inductive (Wireless) Charging,5.7
+1516,Lithium-titanate,30,474,Inductive (Wireless) Charging,8.5
+1517,Nickel-cobalt-aluminum,109.3,419,Battery Swapping,7
+1518,Calcium-ion,90.6,393,CHAdeMO,5.3
+1519,Sodium-ion,84.9,574,Plug-in Hydrogen Refueling,4.2
+1520,Lead-acid,122.3,312,CHAdeMO,3.8
+1521,Zinc-air,81.4,251,Level 1 Charging,2.2
+1522,Lithium-titanate,28.3,110,Ultra-Fast Charging (350 kW+),5.2
+1523,Lithium-titanate,26.3,413,Ultra-Fast Charging (350 kW+),0.8
+1524,Calcium-ion,129.8,520,Vehicle-to-Load (V2L),2.1
+1525,Lithium-iron phosphate,66,494,Plug-in Hydrogen Refueling,9.1
+1526,Calcium-ion,101.6,380,Level 2 Charging,2.1
+1527,Lead-acid,56.4,530,Level 1 Charging,5.9
+1528,Zinc-air,67.5,585,CCS,8
+1529,Calcium-ion,98.8,502,Plug-in Hydrogen Refueling,8.5
+1530,Nickel-cobalt-aluminum,113.1,487,Battery Swapping,2.4
+1531,Lithium-iron phosphate,105.4,428,DC Fast Charging (DCFC),4.8
+1532,Zinc-air,91.3,528,Level 1 Charging,11.2
+1533,Lithium-iron phosphate,81.3,523,Level 2 Charging,0.9
+1534,Magnesium-ion,80.6,328,Mobile Charging,8.6
+1535,Lithium-titanate,47.3,363,DC Fast Charging (DCFC),4.6
+1536,Lead-acid,54.3,362,Vehicle-to-Home (V2H),5.2
+1537,Calcium-ion,63.4,145,CCS,2.3
+1538,Calcium-ion,83.5,568,Plug-in Hydrogen Refueling,5
+1539,Lead-acid,98.9,218,Ultra-Fast Charging (350 kW+),3.7
+1540,Nickel-manganese-cobalt,86.4,311,Ultra-Fast Charging (350 kW+),12
+1541,Sodium-ion,64.2,121,Mobile Charging,5.6
+1542,Lithium-sulfur,25.8,288,Inductive (Wireless) Charging,1.7
+1543,Lithium-iron phosphate,72.1,327,CCS,4.2
+1544,Flow batteries,146.6,511,Battery Swapping,4.6
+1545,Calcium-ion,22.8,321,Inductive (Wireless) Charging,11.3
+1546,Zinc-air,138.3,442,CHAdeMO,8.1
+1547,Lithium-sulfur,103.5,520,Ultra-Fast Charging (350 kW+),3.1
+1548,Nickel-manganese-cobalt,138.3,253,Solar Charging,9.6
+1549,Nickel-manganese-cobalt,54.8,577,CCS,5.4
+1550,Lithium-iron phosphate,122.4,253,Battery Swapping,8.2
+1551,Magnesium-ion,113.5,164,Plug-in Hydrogen Refueling,3.8
+1552,Solid-state,92.5,196,Vehicle-to-Grid (V2G),4.8
+1553,Lithium-sulfur,42.6,586,Level 2 Charging,2
+1554,Lead-acid,48.7,315,Vehicle-to-Load (V2L),4.6
+1555,Lithium-ion,100.2,208,Ultra-Fast Charging (350 kW+),9.4
+1556,Nickel-manganese-cobalt,117.7,294,Inductive (Wireless) Charging,1.3
+1557,Nickel-metal hydride,83.2,324,Plug-in Hydrogen Refueling,10.3
+1558,Solid-state,114.7,206,Battery Swapping,9.5
+1559,Lithium-iron phosphate,28.6,573,Overhead Pantograph Charging,3.7
+1560,Nickel-manganese-cobalt,88.4,338,Mobile Charging,3
+1561,Lithium-titanate,88.7,291,Level 2 Charging,1.2
+1562,Nickel-manganese-cobalt,89.5,187,CCS,11.4
+1563,Lithium-sulfur,36.8,489,Vehicle-to-Home (V2H),10.1
+1564,Nickel-metal hydride,111.9,200,Level 1 Charging,5.1
+1565,Nickel-metal hydride,57.5,148,CCS,3.8
+1566,Calcium-ion,72.2,557,Ultra-Fast Charging (350 kW+),2.9
+1567,Flow batteries,42.9,290,Plug-in Hydrogen Refueling,2.1
+1568,Lithium-iron phosphate,103.4,286,NACS,6.4
+1569,Nickel-metal hydride,85.1,252,Solar Charging,7.5
+1570,Nickel-cobalt-aluminum,117.5,425,Vehicle-to-Load (V2L),7.7
+1571,Sodium-ion,109.5,296,Plug-in Hydrogen Refueling,4.8
+1572,Lithium-sulfur,33.7,342,Overhead Pantograph Charging,3
+1573,Lithium-iron phosphate,93,457,Vehicle-to-Grid (V2G),2
+1574,Solid-state,64,141,NACS,7.9
+1575,Lead-acid,62.7,483,Vehicle-to-Grid (V2G),3.3
+1576,Solid-state,74,281,Ultra-Fast Charging (350 kW+),8.2
+1577,Nickel-manganese-cobalt,37,130,Vehicle-to-Load (V2L),8.4
+1578,Lithium-titanate,55.8,206,CCS,2
+1579,Lithium-titanate,95.2,525,NACS,5
+1580,Lithium-iron phosphate,71.4,393,Battery Swapping,6.3
+1581,Flow batteries,23.3,449,Ultra-Fast Charging (350 kW+),3
+1582,Zinc-air,55.4,399,Level 2 Charging,9.3
+1583,Lithium-sulfur,89.4,151,Solar Charging,1
+1584,Solid-state,149.2,565,DC Fast Charging (DCFC),1.7
+1585,Nickel-metal hydride,88.9,525,Vehicle-to-Grid (V2G),10.3
+1586,Calcium-ion,120.1,232,Mobile Charging,4
+1587,Calcium-ion,142.1,402,CCS,2.9
+1588,Zinc-air,108.6,574,Level 1 Charging,12
+1589,Nickel-manganese-cobalt,130.6,253,Mobile Charging,2.1
+1590,Lithium-iron phosphate,98.7,222,DC Fast Charging (DCFC),0.9
+1591,Sodium-ion,56.9,124,DC Fast Charging (DCFC),8.7
+1592,Lithium-sulfur,125.8,272,NACS,12
+1593,Zinc-air,90.6,460,Battery Swapping,6.5
+1594,Zinc-air,148.8,458,Mobile Charging,5.5
+1595,Nickel-metal hydride,70.7,168,Overhead Pantograph Charging,5.2
+1596,Lead-acid,104.3,592,Vehicle-to-Grid (V2G),10.4
+1597,Lithium-sulfur,148.5,511,CCS,6.1
+1598,Nickel-metal hydride,43.5,384,CHAdeMO,3.8
+1599,Solid-state,25.1,484,Battery Swapping,5.7
+1600,Aluminum-ion,38.9,492,CHAdeMO,11.1
+1601,Lithium-iron phosphate,23.8,574,Level 1 Charging,10.3
+1602,Aluminum-ion,105.3,247,Vehicle-to-Load (V2L),6.9
+1603,Magnesium-ion,64.8,567,Level 1 Charging,8.2
+1604,Zinc-air,21.8,516,Mobile Charging,6.9
+1605,Calcium-ion,74.5,593,Vehicle-to-Grid (V2G),7
+1606,Sodium-ion,74.6,223,Ultra-Fast Charging (350 kW+),5.7
+1607,Lithium-sulfur,96.4,382,Level 2 Charging,2.1
+1608,Magnesium-ion,128.9,540,NACS,4.2
+1609,Lithium-sulfur,30.4,463,CHAdeMO,4
+1610,Nickel-metal hydride,128.4,388,Plug-in Hydrogen Refueling,0.7
+1611,Zinc-air,57.8,192,Ultra-Fast Charging (350 kW+),10.3
+1612,Aluminum-ion,134.6,416,DC Fast Charging (DCFC),5.6
+1613,Sodium-ion,109,402,NACS,10.8
+1614,Nickel-metal hydride,85,254,Overhead Pantograph Charging,0.6
+1615,Zinc-air,83.3,409,Level 2 Charging,0.5
+1616,Solid-state,86.8,288,Overhead Pantograph Charging,11.7
+1617,Lithium-titanate,50.5,592,Plug-in Hydrogen Refueling,8
+1618,Zinc-air,58.4,487,Overhead Pantograph Charging,2.8
+1619,Nickel-manganese-cobalt,104.3,488,Vehicle-to-Grid (V2G),1.3
+1620,Nickel-metal hydride,37.2,135,CCS,5
+1621,Lithium-iron phosphate,108.9,163,Overhead Pantograph Charging,7.2
+1622,Lithium-sulfur,130,410,Solar Charging,2.7
+1623,Lithium-iron phosphate,38.6,323,Overhead Pantograph Charging,7.4
+1624,Nickel-manganese-cobalt,73.7,391,DC Fast Charging (DCFC),10.6
+1625,Lithium-titanate,75.6,249,NACS,5.5
+1626,Calcium-ion,67.5,300,Mobile Charging,11.2
+1627,Lithium-titanate,67.8,161,Level 1 Charging,4
+1628,Calcium-ion,107.4,543,Vehicle-to-Grid (V2G),9.3
+1629,Flow batteries,134.1,543,CHAdeMO,1.3
+1630,Lead-acid,147.9,453,Level 1 Charging,3.8
+1631,Flow batteries,99.4,168,DC Fast Charging (DCFC),3.9
+1632,Solid-state,113.3,302,Vehicle-to-Load (V2L),5.1
+1633,Nickel-metal hydride,134.8,522,CHAdeMO,0.8
+1634,Calcium-ion,78.7,395,Plug-in Hydrogen Refueling,0.8
+1635,Flow batteries,52.9,569,Solar Charging,10.7
+1636,Nickel-metal hydride,54,289,DC Fast Charging (DCFC),10.9
+1637,Lithium-titanate,109.8,462,Level 2 Charging,6.7
+1638,Lithium-iron phosphate,28.3,307,Plug-in Hydrogen Refueling,10.8
+1639,Nickel-manganese-cobalt,61.6,358,Level 2 Charging,2.8
+1640,Lithium-sulfur,24.7,592,Level 2 Charging,2.3
+1641,Solid-state,33.9,364,Plug-in Hydrogen Refueling,5.4
+1642,Lithium-iron phosphate,40.8,133,Vehicle-to-Load (V2L),10.5
+1643,Sodium-ion,77.2,176,Overhead Pantograph Charging,3.3
+1644,Sodium-ion,92.7,134,Mobile Charging,6.7
+1645,Nickel-metal hydride,137.1,336,NACS,6
+1646,Sodium-ion,36.4,365,Overhead Pantograph Charging,11.3
+1647,Flow batteries,79.4,524,Ultra-Fast Charging (350 kW+),6.9
+1648,Nickel-metal hydride,110.1,346,Plug-in Hydrogen Refueling,2.8
+1649,Lithium-sulfur,107.8,350,Inductive (Wireless) Charging,10.7
+1650,Flow batteries,81.7,292,Overhead Pantograph Charging,8.7
+1651,Calcium-ion,50.5,247,Battery Swapping,0.7
+1652,Lithium-iron phosphate,144.4,193,CHAdeMO,10.1
+1653,Lithium-ion,119.1,271,Vehicle-to-Load (V2L),9.6
+1654,Lithium-ion,85.5,168,Plug-in Hydrogen Refueling,4.5
+1655,Nickel-manganese-cobalt,136.3,407,NACS,1.7
+1656,Flow batteries,128.1,515,CHAdeMO,0.8
+1657,Lithium-sulfur,131.6,403,NACS,11.9
+1658,Lithium-ion,31.2,441,Plug-in Hydrogen Refueling,9.6
+1659,Aluminum-ion,103.8,471,Inductive (Wireless) Charging,11.9
+1660,Zinc-air,26.8,520,Ultra-Fast Charging (350 kW+),1.3
+1661,Lithium-titanate,143.7,133,Mobile Charging,6.8
+1662,Solid-state,51.5,313,Plug-in Hydrogen Refueling,2.5
+1663,Lithium-sulfur,121.4,557,Battery Swapping,9.3
+1664,Magnesium-ion,116.4,104,Vehicle-to-Grid (V2G),6.2
+1665,Lithium-iron phosphate,81.7,308,Overhead Pantograph Charging,7.9
+1666,Lead-acid,90.6,590,Inductive (Wireless) Charging,5.2
+1667,Nickel-metal hydride,97,194,Vehicle-to-Grid (V2G),5.5
+1668,Nickel-metal hydride,91.5,428,Level 1 Charging,5.8
+1669,Zinc-air,128.7,294,Solar Charging,0.8
+1670,Solid-state,136,499,Plug-in Hydrogen Refueling,4.3
+1671,Lead-acid,77.4,431,CCS,10.2
+1672,Lithium-titanate,103,367,Vehicle-to-Home (V2H),7
+1673,Solid-state,115,176,Mobile Charging,7.8
+1674,Nickel-metal hydride,41.1,535,Inductive (Wireless) Charging,5.2
+1675,Magnesium-ion,54,188,Plug-in Hydrogen Refueling,8
+1676,Aluminum-ion,121.6,147,Battery Swapping,4
+1677,Flow batteries,59.5,581,Overhead Pantograph Charging,3
+1678,Lithium-titanate,133.4,359,Inductive (Wireless) Charging,9.5
+1679,Nickel-cobalt-aluminum,127.9,365,Mobile Charging,3.3
+1680,Lead-acid,48.4,524,Battery Swapping,4
+1681,Magnesium-ion,27.7,469,Level 2 Charging,7.4
+1682,Nickel-manganese-cobalt,49.5,478,Vehicle-to-Load (V2L),10.9
+1683,Nickel-metal hydride,63.6,279,CCS,4.6
+1684,Aluminum-ion,28.4,565,Vehicle-to-Home (V2H),7.4
+1685,Nickel-metal hydride,51.1,280,Level 1 Charging,3.7
+1686,Lithium-titanate,26.6,286,Vehicle-to-Load (V2L),3.1
+1687,Zinc-air,50.2,148,DC Fast Charging (DCFC),6
+1688,Lead-acid,129.9,312,Vehicle-to-Home (V2H),2.8
+1689,Lithium-sulfur,134.8,188,Vehicle-to-Grid (V2G),0.8
+1690,Zinc-air,128.2,223,Level 1 Charging,9.6
+1691,Calcium-ion,96.7,173,CHAdeMO,11
+1692,Lead-acid,144.4,257,Overhead Pantograph Charging,10.3
+1693,Nickel-metal hydride,122.1,221,CCS,3.3
+1694,Flow batteries,53.6,558,DC Fast Charging (DCFC),6.5
+1695,Zinc-air,82.9,160,CCS,4.2
+1696,Lithium-iron phosphate,131.4,360,CCS,10.2
+1697,Zinc-air,137,502,Mobile Charging,5.6
+1698,Lithium-sulfur,65,404,DC Fast Charging (DCFC),4.8
+1699,Nickel-manganese-cobalt,92.1,117,Inductive (Wireless) Charging,9.1
+1700,Lithium-ion,98.6,468,Inductive (Wireless) Charging,3.6
+1701,Solid-state,135.5,525,CHAdeMO,5.6
+1702,Solid-state,50.6,436,NACS,4.7
+1703,Nickel-cobalt-aluminum,129.3,221,DC Fast Charging (DCFC),8
+1704,Lithium-ion,23,166,DC Fast Charging (DCFC),3.5
+1705,Flow batteries,89.3,410,Mobile Charging,1.7
+1706,Aluminum-ion,67.2,410,Vehicle-to-Load (V2L),2.1
+1707,Magnesium-ion,35.1,486,Vehicle-to-Grid (V2G),9.1
+1708,Sodium-ion,84.3,334,CCS,2.7
+1709,Lithium-sulfur,122.4,553,Plug-in Hydrogen Refueling,2.5
+1710,Flow batteries,107.2,291,NACS,3.9
+1711,Sodium-ion,69,600,Plug-in Hydrogen Refueling,7.3
+1712,Zinc-air,139.7,216,Plug-in Hydrogen Refueling,8.9
+1713,Nickel-manganese-cobalt,141.6,296,Mobile Charging,7.4
+1714,Nickel-metal hydride,86.8,243,Vehicle-to-Load (V2L),1.9
+1715,Zinc-air,114.8,528,Battery Swapping,10.1
+1716,Lead-acid,131,504,Mobile Charging,11.9
+1717,Magnesium-ion,109,590,Mobile Charging,5.2
+1718,Solid-state,74.4,256,Vehicle-to-Grid (V2G),3
+1719,Lead-acid,147.1,185,Level 2 Charging,1.8
+1720,Nickel-cobalt-aluminum,139.7,510,Ultra-Fast Charging (350 kW+),1.4
+1721,Nickel-metal hydride,98.2,483,Solar Charging,4.8
+1722,Nickel-manganese-cobalt,130.6,475,Inductive (Wireless) Charging,7.4
+1723,Lead-acid,134.5,134,Battery Swapping,10.1
+1724,Zinc-air,97.8,283,Battery Swapping,1.6
+1725,Nickel-cobalt-aluminum,87.8,477,Mobile Charging,9.4
+1726,Aluminum-ion,114.8,387,NACS,8.6
+1727,Aluminum-ion,75.7,114,Vehicle-to-Load (V2L),8.5
+1728,Lithium-titanate,100.2,550,Ultra-Fast Charging (350 kW+),9.8
+1729,Lithium-sulfur,41.9,489,Battery Swapping,2.3
+1730,Lithium-titanate,136.3,146,CCS,8.2
+1731,Sodium-ion,45,376,DC Fast Charging (DCFC),10.8
+1732,Calcium-ion,29.9,561,DC Fast Charging (DCFC),0.8
+1733,Nickel-cobalt-aluminum,112.4,321,Vehicle-to-Grid (V2G),7.4
+1734,Zinc-air,108,527,Ultra-Fast Charging (350 kW+),9.5
+1735,Magnesium-ion,59,364,Ultra-Fast Charging (350 kW+),11.5
+1736,Magnesium-ion,125.1,515,Solar Charging,2.5
+1737,Calcium-ion,128.3,395,Overhead Pantograph Charging,2.4
+1738,Calcium-ion,144.8,245,Mobile Charging,2.9
+1739,Magnesium-ion,96.5,240,CHAdeMO,6.8
+1740,Zinc-air,90.1,396,Battery Swapping,5.8
+1741,Nickel-manganese-cobalt,138.1,141,Level 1 Charging,11.6
+1742,Lithium-titanate,62.4,434,Mobile Charging,1.4
+1743,Zinc-air,135.4,322,Mobile Charging,0.7
+1744,Lithium-ion,37.6,464,Battery Swapping,10.9
+1745,Sodium-ion,27.2,541,Ultra-Fast Charging (350 kW+),6.7
+1746,Zinc-air,51.8,483,Vehicle-to-Grid (V2G),10.4
+1747,Nickel-manganese-cobalt,91.4,293,Mobile Charging,1.5
+1748,Lead-acid,68.9,343,Level 2 Charging,10.8
+1749,Zinc-air,53.6,360,Plug-in Hydrogen Refueling,9.1
+1750,Lithium-titanate,129.5,561,Level 2 Charging,5.7
+1751,Nickel-manganese-cobalt,90,456,Level 2 Charging,6.4
+1752,Calcium-ion,85.3,271,CHAdeMO,7.3
+1753,Lithium-ion,54.5,176,Level 1 Charging,11.5
+1754,Flow batteries,121,130,Level 2 Charging,9.6
+1755,Lithium-titanate,57.8,234,Mobile Charging,3.3
+1756,Lithium-ion,102.1,568,Level 1 Charging,10.4
+1757,Solid-state,30.2,452,Plug-in Hydrogen Refueling,10.1
+1758,Lithium-sulfur,114.9,340,Vehicle-to-Home (V2H),5.4
+1759,Aluminum-ion,39.1,414,Level 1 Charging,9
+1760,Lithium-titanate,50.1,473,NACS,7.1
+1761,Lithium-sulfur,27.1,134,Inductive (Wireless) Charging,10.6
+1762,Sodium-ion,41.8,333,Solar Charging,10.4
+1763,Lithium-iron phosphate,129,142,Vehicle-to-Grid (V2G),5.3
+1764,Nickel-metal hydride,66.2,291,Inductive (Wireless) Charging,3.6
+1765,Nickel-manganese-cobalt,91.5,267,Mobile Charging,10.6
+1766,Magnesium-ion,87.4,554,CCS,4.8
+1767,Aluminum-ion,113.1,121,Level 2 Charging,11.9
+1768,Nickel-manganese-cobalt,116.8,223,Level 2 Charging,10.2
+1769,Solid-state,45.6,142,Mobile Charging,10.7
+1770,Solid-state,107.3,151,Level 2 Charging,7.6
+1771,Lithium-titanate,124,266,Solar Charging,1.9
+1772,Lithium-sulfur,109,578,CCS,0.8
+1773,Flow batteries,52.5,509,CCS,5.2
+1774,Magnesium-ion,69.5,416,Plug-in Hydrogen Refueling,11.5
+1775,Magnesium-ion,102.4,572,Overhead Pantograph Charging,6.2
+1776,Nickel-manganese-cobalt,115.6,230,Inductive (Wireless) Charging,6.9
+1777,Aluminum-ion,102.1,364,Plug-in Hydrogen Refueling,0.7
+1778,Aluminum-ion,82,330,Plug-in Hydrogen Refueling,8.5
+1779,Nickel-cobalt-aluminum,145.2,232,Inductive (Wireless) Charging,0.9
+1780,Sodium-ion,75.3,566,Ultra-Fast Charging (350 kW+),1.4
+1781,Nickel-cobalt-aluminum,21.2,243,Vehicle-to-Load (V2L),10.1
+1782,Magnesium-ion,113.7,231,Mobile Charging,8.9
+1783,Lithium-iron phosphate,60,165,Ultra-Fast Charging (350 kW+),7.3
+1784,Nickel-manganese-cobalt,21,384,Battery Swapping,10.4
+1785,Flow batteries,89.5,195,NACS,6.5
+1786,Lead-acid,114.6,448,Vehicle-to-Grid (V2G),6.1
+1787,Zinc-air,62.3,394,Vehicle-to-Load (V2L),4.3
+1788,Lithium-titanate,100.9,240,Vehicle-to-Home (V2H),11.6
+1789,Solid-state,122.7,416,Vehicle-to-Load (V2L),5.4
+1790,Lead-acid,97.9,221,Level 1 Charging,11
+1791,Zinc-air,81.8,427,CHAdeMO,2.5
+1792,Lead-acid,26.3,421,Battery Swapping,5.5
+1793,Nickel-manganese-cobalt,117.2,291,Plug-in Hydrogen Refueling,5.1
+1794,Zinc-air,135.8,348,Battery Swapping,11.2
+1795,Zinc-air,109.8,463,Overhead Pantograph Charging,5.2
+1796,Lithium-iron phosphate,131.9,444,Vehicle-to-Load (V2L),5.7
+1797,Flow batteries,86.6,247,Plug-in Hydrogen Refueling,0.5
+1798,Nickel-manganese-cobalt,82.8,289,DC Fast Charging (DCFC),2.3
+1799,Zinc-air,90.4,366,Ultra-Fast Charging (350 kW+),6.4
+1800,Sodium-ion,59.4,413,Battery Swapping,8
+1801,Lithium-titanate,20.3,398,Battery Swapping,9.3
+1802,Solid-state,149.2,439,Level 2 Charging,1.8
+1803,Nickel-manganese-cobalt,37.4,280,Overhead Pantograph Charging,5.9
+1804,Sodium-ion,133.8,291,Vehicle-to-Home (V2H),3
+1805,Lithium-titanate,97.7,526,Vehicle-to-Load (V2L),4.7
+1806,Lithium-iron phosphate,116.4,435,Solar Charging,5.6
+1807,Zinc-air,83.6,514,Ultra-Fast Charging (350 kW+),11.7
+1808,Solid-state,80,197,Plug-in Hydrogen Refueling,1.7
+1809,Lithium-sulfur,94.7,350,Vehicle-to-Grid (V2G),8.6
+1810,Lead-acid,120.2,572,Vehicle-to-Grid (V2G),5.6
+1811,Lithium-ion,83.6,332,CHAdeMO,2
+1812,Zinc-air,80.9,538,Solar Charging,2.4
+1813,Lead-acid,145.2,200,Level 1 Charging,8.1
+1814,Nickel-metal hydride,143.3,442,Vehicle-to-Grid (V2G),3.2
+1815,Solid-state,31.5,164,CHAdeMO,11.5
+1816,Lead-acid,93.8,600,CHAdeMO,10.2
+1817,Nickel-metal hydride,68.7,519,Mobile Charging,3.7
+1818,Lithium-iron phosphate,86.5,109,Mobile Charging,2.2
+1819,Magnesium-ion,136.7,541,Vehicle-to-Load (V2L),11.3
+1820,Solid-state,44,186,Inductive (Wireless) Charging,11
+1821,Flow batteries,106.5,322,CCS,11.7
+1822,Flow batteries,74.1,590,CCS,6.2
+1823,Lithium-ion,49.4,523,NACS,5
+1824,Magnesium-ion,50,449,Level 1 Charging,4.9
+1825,Calcium-ion,106.1,158,Vehicle-to-Home (V2H),8.4
+1826,Lithium-sulfur,42.8,591,Mobile Charging,11.1
+1827,Lithium-titanate,140.8,112,Vehicle-to-Home (V2H),4.7
+1828,Lithium-iron phosphate,108.7,418,DC Fast Charging (DCFC),0.5
+1829,Solid-state,23.4,183,DC Fast Charging (DCFC),4
+1830,Zinc-air,21.6,212,Mobile Charging,9.8
+1831,Nickel-manganese-cobalt,138,557,Solar Charging,1.3
+1832,Lithium-iron phosphate,78.3,386,Battery Swapping,1.8
+1833,Flow batteries,129.6,576,Vehicle-to-Home (V2H),8.3
+1834,Lithium-titanate,127.7,471,Vehicle-to-Home (V2H),4.3
+1835,Lithium-sulfur,111.1,324,Inductive (Wireless) Charging,10.2
+1836,Calcium-ion,95.4,555,Solar Charging,9.7
+1837,Flow batteries,116.6,314,Mobile Charging,5.8
+1838,Zinc-air,21.4,359,Battery Swapping,11.5
+1839,Lithium-iron phosphate,87.5,576,Vehicle-to-Grid (V2G),9.5
+1840,Nickel-cobalt-aluminum,49,339,NACS,10.6
+1841,Nickel-cobalt-aluminum,42.4,438,Level 2 Charging,5.2
+1842,Aluminum-ion,49.9,243,Plug-in Hydrogen Refueling,0.8
+1843,Sodium-ion,105.1,197,Mobile Charging,5.5
+1844,Lithium-sulfur,89,523,Mobile Charging,3.8
+1845,Lithium-sulfur,137.6,371,Level 1 Charging,4.2
+1846,Nickel-cobalt-aluminum,23.6,192,Level 2 Charging,3.1
+1847,Nickel-cobalt-aluminum,145.4,572,Inductive (Wireless) Charging,11.4
+1848,Lithium-sulfur,124.2,512,Solar Charging,7
+1849,Lithium-iron phosphate,118.8,377,Level 1 Charging,5.9
+1850,Magnesium-ion,20.5,470,Vehicle-to-Load (V2L),4.6
+1851,Nickel-metal hydride,133.7,263,Level 1 Charging,9.5
+1852,Lithium-sulfur,115.5,577,Inductive (Wireless) Charging,2.8
+1853,Lithium-ion,123.4,542,Battery Swapping,4.4
+1854,Flow batteries,79.8,148,Overhead Pantograph Charging,1
+1855,Lithium-ion,35.5,387,CHAdeMO,6.8
+1856,Zinc-air,64.3,182,CCS,4.5
+1857,Aluminum-ion,122.4,271,Vehicle-to-Home (V2H),4
+1858,Sodium-ion,98.2,364,Ultra-Fast Charging (350 kW+),8.5
+1859,Nickel-metal hydride,134.6,232,Solar Charging,2.7
+1860,Sodium-ion,137.5,485,Solar Charging,3.1
+1861,Lithium-sulfur,36.3,341,Vehicle-to-Grid (V2G),11.6
+1862,Lithium-sulfur,134.3,307,Plug-in Hydrogen Refueling,8.5
+1863,Lithium-ion,97.4,143,Battery Swapping,11.1
+1864,Lithium-sulfur,138.5,232,Vehicle-to-Load (V2L),11.5
+1865,Magnesium-ion,59.8,180,Ultra-Fast Charging (350 kW+),10.1
+1866,Nickel-metal hydride,76.1,567,NACS,9
+1867,Lithium-ion,76.2,531,Vehicle-to-Home (V2H),5.2
+1868,Lithium-titanate,139.7,190,Ultra-Fast Charging (350 kW+),1.9
+1869,Lithium-iron phosphate,108.9,304,Level 1 Charging,3.7
+1870,Calcium-ion,123.8,361,CCS,10.8
+1871,Solid-state,129.9,178,Solar Charging,9.2
+1872,Aluminum-ion,29.4,124,CHAdeMO,3.4
+1873,Lithium-titanate,26.8,177,CHAdeMO,10.8
+1874,Nickel-metal hydride,61.7,361,Level 2 Charging,11.3
+1875,Zinc-air,144.9,576,DC Fast Charging (DCFC),7.6
+1876,Nickel-cobalt-aluminum,52,530,Vehicle-to-Grid (V2G),1.9
+1877,Calcium-ion,121.3,334,Vehicle-to-Grid (V2G),11.3
+1878,Nickel-manganese-cobalt,79.9,139,Solar Charging,2.7
+1879,Lithium-titanate,32.5,125,Inductive (Wireless) Charging,7.4
+1880,Lead-acid,88,308,Vehicle-to-Load (V2L),8.6
+1881,Sodium-ion,149.1,488,NACS,4.9
+1882,Nickel-manganese-cobalt,40.1,198,Vehicle-to-Home (V2H),2.9
+1883,Nickel-manganese-cobalt,143.8,366,Overhead Pantograph Charging,1.7
+1884,Nickel-cobalt-aluminum,69.3,363,Vehicle-to-Grid (V2G),5.7
+1885,Calcium-ion,72.3,255,Ultra-Fast Charging (350 kW+),11.2
+1886,Magnesium-ion,122.8,222,Vehicle-to-Load (V2L),8.6
+1887,Solid-state,68.3,380,Vehicle-to-Load (V2L),8.2
+1888,Lithium-sulfur,96.7,116,Level 2 Charging,8.2
+1889,Solid-state,70.9,106,Inductive (Wireless) Charging,9.7
+1890,Zinc-air,59.9,579,Ultra-Fast Charging (350 kW+),11.8
+1891,Nickel-metal hydride,86.6,354,Inductive (Wireless) Charging,4.6
+1892,Lithium-iron phosphate,24.9,214,Solar Charging,0.9
+1893,Calcium-ion,54.1,572,NACS,9.4
+1894,Nickel-metal hydride,83.4,383,Solar Charging,9.4
+1895,Calcium-ion,91.7,515,Solar Charging,4
+1896,Lithium-iron phosphate,132.9,220,Vehicle-to-Home (V2H),1.4
+1897,Zinc-air,125.6,571,Battery Swapping,9.6
+1898,Calcium-ion,95.4,509,CHAdeMO,8.9
+1899,Solid-state,145.9,212,Battery Swapping,1.4
+1900,Lithium-titanate,111.5,180,Mobile Charging,7.8
+1901,Nickel-manganese-cobalt,33,438,Vehicle-to-Home (V2H),6.6
+1902,Sodium-ion,106,341,Battery Swapping,9.6
+1903,Lithium-iron phosphate,99.1,462,Ultra-Fast Charging (350 kW+),5
+1904,Nickel-metal hydride,75.5,514,Vehicle-to-Home (V2H),4.5
+1905,Lead-acid,98.3,429,Mobile Charging,3.9
+1906,Zinc-air,59,387,Plug-in Hydrogen Refueling,9.4
+1907,Lithium-ion,148.5,571,Vehicle-to-Home (V2H),9.7
+1908,Nickel-manganese-cobalt,88.6,156,DC Fast Charging (DCFC),5.6
+1909,Magnesium-ion,66.4,534,Vehicle-to-Grid (V2G),5.6
+1910,Magnesium-ion,108.4,519,Inductive (Wireless) Charging,8.9
+1911,Lithium-titanate,34.5,478,Vehicle-to-Load (V2L),7.9
+1912,Aluminum-ion,139.4,505,Overhead Pantograph Charging,10.2
+1913,Lithium-titanate,30.2,573,Ultra-Fast Charging (350 kW+),3.6
+1914,Solid-state,82.1,217,Mobile Charging,5.8
+1915,Nickel-cobalt-aluminum,59.3,206,Vehicle-to-Home (V2H),0.7
+1916,Lithium-titanate,129.2,150,Plug-in Hydrogen Refueling,5.1
+1917,Lithium-ion,26.2,141,CCS,8.2
+1918,Flow batteries,86.9,171,DC Fast Charging (DCFC),10.3
+1919,Flow batteries,143.5,567,Plug-in Hydrogen Refueling,6
+1920,Sodium-ion,114.2,135,CHAdeMO,2
+1921,Nickel-manganese-cobalt,70,426,Ultra-Fast Charging (350 kW+),10
+1922,Calcium-ion,80.1,240,Level 1 Charging,10.1
+1923,Aluminum-ion,135.3,512,Plug-in Hydrogen Refueling,9.8
+1924,Nickel-metal hydride,137.9,312,Battery Swapping,3.5
+1925,Solid-state,60.2,597,Ultra-Fast Charging (350 kW+),3
+1926,Flow batteries,105.8,455,Level 2 Charging,9.4
+1927,Lithium-titanate,114.9,588,Plug-in Hydrogen Refueling,11.5
+1928,Lithium-sulfur,29.4,507,Level 1 Charging,2.5
+1929,Calcium-ion,95.3,490,Overhead Pantograph Charging,1.3
+1930,Aluminum-ion,79.3,211,Vehicle-to-Grid (V2G),2.2
+1931,Lithium-ion,123.5,378,Level 2 Charging,4.7
+1932,Aluminum-ion,129,187,CCS,1
+1933,Sodium-ion,39.4,101,Vehicle-to-Load (V2L),2
+1934,Nickel-manganese-cobalt,99.7,320,Inductive (Wireless) Charging,7.7
+1935,Lead-acid,34.9,255,Battery Swapping,8.7
+1936,Lithium-ion,40,434,Ultra-Fast Charging (350 kW+),0.5
+1937,Nickel-metal hydride,130.4,386,Level 1 Charging,10.4
+1938,Lithium-sulfur,21.2,205,Level 1 Charging,3.4
+1939,Magnesium-ion,115.5,382,Level 1 Charging,1.6
+1940,Lithium-sulfur,32.5,283,Level 1 Charging,4.2
+1941,Nickel-metal hydride,110.8,456,NACS,2
+1942,Lithium-titanate,130.6,256,Vehicle-to-Load (V2L),11.9
+1943,Lead-acid,109.2,527,NACS,5.8
+1944,Lithium-sulfur,138.1,283,Level 1 Charging,8.6
+1945,Flow batteries,115,405,NACS,1
+1946,Magnesium-ion,91.3,109,Solar Charging,9.2
+1947,Zinc-air,80.4,585,Level 2 Charging,9.7
+1948,Lithium-sulfur,79.6,448,DC Fast Charging (DCFC),2
+1949,Lithium-titanate,128.8,409,Vehicle-to-Load (V2L),7.1
+1950,Nickel-manganese-cobalt,117.3,551,Overhead Pantograph Charging,10.6
+1951,Lithium-titanate,51.6,464,Level 1 Charging,7.9
+1952,Aluminum-ion,103.5,229,Solar Charging,3.7
+1953,Magnesium-ion,78.8,281,CCS,8.4
+1954,Magnesium-ion,98.8,500,Vehicle-to-Grid (V2G),4.7
+1955,Calcium-ion,48.4,256,Level 2 Charging,6.1
+1956,Flow batteries,23.3,420,Level 1 Charging,6.2
+1957,Zinc-air,96.4,274,CHAdeMO,11.5
+1958,Lithium-iron phosphate,60.8,443,Mobile Charging,9.8
+1959,Lithium-sulfur,75.1,413,Mobile Charging,10.7
+1960,Nickel-manganese-cobalt,52.7,199,Vehicle-to-Grid (V2G),11.7
+1961,Zinc-air,32.1,425,CHAdeMO,6
+1962,Lithium-titanate,102.2,286,Plug-in Hydrogen Refueling,3.9
+1963,Nickel-cobalt-aluminum,47.6,270,Vehicle-to-Grid (V2G),0.6
+1964,Lithium-titanate,98.1,234,Vehicle-to-Grid (V2G),0.9
+1965,Nickel-metal hydride,39.5,388,Vehicle-to-Home (V2H),4.8
+1966,Flow batteries,34,119,Level 2 Charging,2.9
+1967,Flow batteries,45.2,221,Ultra-Fast Charging (350 kW+),7.3
+1968,Lithium-iron phosphate,23.2,143,NACS,2.5
+1969,Magnesium-ion,27,246,Mobile Charging,6.1
+1970,Nickel-metal hydride,74.8,395,Level 2 Charging,10.9
+1971,Calcium-ion,110,109,Vehicle-to-Grid (V2G),10.7
+1972,Nickel-manganese-cobalt,110.3,340,Vehicle-to-Load (V2L),6.8
+1973,Nickel-cobalt-aluminum,31.2,563,Vehicle-to-Home (V2H),11.5
+1974,Magnesium-ion,69.1,161,Vehicle-to-Home (V2H),0.8
+1975,Solid-state,109.7,593,Plug-in Hydrogen Refueling,4.8
+1976,Sodium-ion,51,291,Battery Swapping,1.5
+1977,Aluminum-ion,111.3,341,Level 1 Charging,8.5
+1978,Calcium-ion,57.1,245,Ultra-Fast Charging (350 kW+),3.1
+1979,Solid-state,31.9,574,Level 1 Charging,1.1
+1980,Lithium-sulfur,93.5,183,Ultra-Fast Charging (350 kW+),8.6
+1981,Lithium-sulfur,104.3,445,Mobile Charging,7.9
+1982,Flow batteries,108.5,490,Battery Swapping,8.2
+1983,Aluminum-ion,136.7,196,Ultra-Fast Charging (350 kW+),5.8
+1984,Aluminum-ion,69,569,Level 1 Charging,10.1
+1985,Lead-acid,30.2,239,Level 2 Charging,6.4
+1986,Lithium-ion,93.4,395,Vehicle-to-Grid (V2G),2.9
+1987,Sodium-ion,124.1,541,DC Fast Charging (DCFC),11.6
+1988,Lithium-iron phosphate,66.4,395,Vehicle-to-Grid (V2G),1.9
+1989,Calcium-ion,74.4,179,Overhead Pantograph Charging,7.6
+1990,Lithium-titanate,99.3,595,DC Fast Charging (DCFC),10.3
+1991,Solid-state,82.6,380,Battery Swapping,8.3
+1992,Calcium-ion,136.6,316,Vehicle-to-Home (V2H),10.4
+1993,Sodium-ion,86.7,552,Vehicle-to-Home (V2H),9.2
+1994,Lithium-titanate,62.7,408,Vehicle-to-Grid (V2G),2.6
+1995,Calcium-ion,56.2,600,Solar Charging,9.6
+1996,Lithium-titanate,37.2,571,Ultra-Fast Charging (350 kW+),10.5
+1997,Lithium-ion,37.1,166,Vehicle-to-Home (V2H),7.8
+1998,Flow batteries,41.1,252,Vehicle-to-Home (V2H),10.5
+1999,Calcium-ion,44.2,562,Vehicle-to-Load (V2L),6.7
+2000,Lithium-iron phosphate,66,266,Solar Charging,1.4
+2001,Nickel-cobalt-aluminum,76.3,121,Mobile Charging,10.1
+2002,Aluminum-ion,24.7,178,Level 2 Charging,3.3
+2003,Lithium-iron phosphate,132.8,583,Plug-in Hydrogen Refueling,6.5
+2004,Nickel-manganese-cobalt,38.7,336,Plug-in Hydrogen Refueling,11.8
+2005,Nickel-metal hydride,106.6,216,Ultra-Fast Charging (350 kW+),3.6
+2006,Lithium-sulfur,63,273,Overhead Pantograph Charging,8.6
+2007,Lithium-sulfur,112.2,503,Battery Swapping,1
+2008,Flow batteries,25,153,CCS,5.3
+2009,Nickel-cobalt-aluminum,129.4,547,Mobile Charging,4.9
+2010,Calcium-ion,29.2,453,NACS,3.8
+2011,Zinc-air,129.2,446,Battery Swapping,11.5
+2012,Calcium-ion,144.2,394,Level 1 Charging,8.5
+2013,Aluminum-ion,135.4,496,DC Fast Charging (DCFC),0.9
+2014,Flow batteries,105.3,351,NACS,6.4
+2015,Sodium-ion,93.9,413,Overhead Pantograph Charging,11.7
+2016,Sodium-ion,133.8,590,Solar Charging,10.8
+2017,Aluminum-ion,106.9,371,NACS,9.4
+2018,Lithium-titanate,58.5,176,Level 2 Charging,9.7
+2019,Lithium-ion,44.5,473,Overhead Pantograph Charging,8.4
+2020,Lithium-iron phosphate,149.8,323,Ultra-Fast Charging (350 kW+),3.8
+2021,Nickel-manganese-cobalt,94.3,398,Level 2 Charging,8.6
+2022,Lithium-ion,31.2,560,DC Fast Charging (DCFC),11.5
+2023,Zinc-air,119.7,419,Vehicle-to-Grid (V2G),8.5
+2024,Zinc-air,31.2,456,Inductive (Wireless) Charging,6.3
+2025,Nickel-cobalt-aluminum,108.1,254,Overhead Pantograph Charging,2.3
+2026,Lithium-titanate,126.2,205,CCS,5.6
+2027,Solid-state,21.5,435,Inductive (Wireless) Charging,8.4
+2028,Lithium-iron phosphate,113.9,500,NACS,0.8
+2029,Sodium-ion,27.5,466,Vehicle-to-Load (V2L),5.7
+2030,Flow batteries,84.7,428,DC Fast Charging (DCFC),1.6
+2031,Lithium-ion,75.2,545,Vehicle-to-Home (V2H),0.8
+2032,Lithium-iron phosphate,109.7,130,Level 1 Charging,6.2
+2033,Lithium-iron phosphate,52.5,210,Solar Charging,3
+2034,Zinc-air,133.8,187,Ultra-Fast Charging (350 kW+),5.9
+2035,Lithium-titanate,55.7,261,CCS,2.9
+2036,Lithium-titanate,83.6,302,Inductive (Wireless) Charging,2.2
+2037,Nickel-cobalt-aluminum,115.9,583,Battery Swapping,1.6
+2038,Nickel-cobalt-aluminum,24.9,233,Overhead Pantograph Charging,6.4
+2039,Lithium-titanate,47.8,294,DC Fast Charging (DCFC),1.3
+2040,Lithium-titanate,117.3,500,Mobile Charging,4.4
+2041,Nickel-manganese-cobalt,78.8,236,Level 1 Charging,2.8
+2042,Lithium-ion,50,103,DC Fast Charging (DCFC),1.6
+2043,Lithium-titanate,32.9,538,Vehicle-to-Home (V2H),9.1
+2044,Magnesium-ion,96.1,232,Level 1 Charging,9.5
+2045,Lithium-iron phosphate,55.8,370,Battery Swapping,7
+2046,Lithium-sulfur,125.5,404,Overhead Pantograph Charging,3.4
+2047,Nickel-metal hydride,81.7,186,Level 1 Charging,11.6
+2048,Nickel-metal hydride,50.5,445,CCS,9.9
+2049,Solid-state,77.8,338,CCS,1.9
+2050,Lithium-titanate,139.7,247,NACS,7.7
+2051,Flow batteries,89.5,341,Overhead Pantograph Charging,10.4
+2052,Lithium-titanate,81.4,523,DC Fast Charging (DCFC),4.4
+2053,Lithium-titanate,95,159,Vehicle-to-Grid (V2G),1.9
+2054,Sodium-ion,124,188,Solar Charging,10.5
+2055,Lead-acid,107.7,597,Vehicle-to-Load (V2L),5.8
+2056,Nickel-metal hydride,118.1,307,Vehicle-to-Load (V2L),7.1
+2057,Calcium-ion,94.2,284,Vehicle-to-Home (V2H),1.2
+2058,Calcium-ion,118.4,403,Level 1 Charging,5.6
+2059,Nickel-manganese-cobalt,124.1,506,Level 2 Charging,7.1
+2060,Nickel-manganese-cobalt,132.5,578,NACS,7.6
+2061,Nickel-cobalt-aluminum,66.9,241,DC Fast Charging (DCFC),9.4
+2062,Magnesium-ion,37.2,176,Level 2 Charging,2.6
+2063,Aluminum-ion,68.3,326,Ultra-Fast Charging (350 kW+),3.3
+2064,Lead-acid,64.6,431,CHAdeMO,3.6
+2065,Calcium-ion,129,207,Plug-in Hydrogen Refueling,8.8
+2066,Nickel-metal hydride,120.5,494,Ultra-Fast Charging (350 kW+),5.9
+2067,Calcium-ion,119.7,457,Level 2 Charging,0.6
+2068,Lithium-iron phosphate,135.3,200,CCS,7.8
+2069,Flow batteries,139.8,237,Vehicle-to-Home (V2H),3
+2070,Flow batteries,70.2,289,Overhead Pantograph Charging,4
+2071,Lithium-sulfur,23.9,205,CHAdeMO,7.7
+2072,Magnesium-ion,94.4,213,Vehicle-to-Home (V2H),7.6
+2073,Calcium-ion,107.6,593,Overhead Pantograph Charging,9.7
+2074,Flow batteries,79.5,252,Vehicle-to-Load (V2L),5.3
+2075,Lithium-iron phosphate,88.6,194,Solar Charging,2.2
+2076,Nickel-cobalt-aluminum,49.6,409,Battery Swapping,7.6
+2077,Solid-state,81.1,362,Vehicle-to-Load (V2L),3
+2078,Flow batteries,116.6,185,Overhead Pantograph Charging,9
+2079,Zinc-air,147.4,318,Plug-in Hydrogen Refueling,0.6
+2080,Nickel-cobalt-aluminum,60.2,573,Vehicle-to-Home (V2H),9.4
+2081,Flow batteries,23,201,Vehicle-to-Load (V2L),1.6
+2082,Zinc-air,128.6,230,Vehicle-to-Load (V2L),9.6
+2083,Sodium-ion,70.6,276,DC Fast Charging (DCFC),6.9
+2084,Calcium-ion,54.3,122,Plug-in Hydrogen Refueling,6.3
+2085,Nickel-cobalt-aluminum,124.3,587,NACS,3.6
+2086,Lithium-ion,126.9,358,Vehicle-to-Home (V2H),1.2
+2087,Nickel-manganese-cobalt,72.3,325,Battery Swapping,5.8
+2088,Calcium-ion,108.5,457,Mobile Charging,11.8
+2089,Sodium-ion,87.7,213,Inductive (Wireless) Charging,3
+2090,Nickel-metal hydride,96.2,502,Vehicle-to-Load (V2L),2.7
+2091,Lithium-ion,70,568,DC Fast Charging (DCFC),7.4
+2092,Zinc-air,32.3,516,Ultra-Fast Charging (350 kW+),10.1
+2093,Lithium-sulfur,99.3,175,Inductive (Wireless) Charging,8.6
+2094,Zinc-air,48.6,516,CHAdeMO,1.4
+2095,Calcium-ion,107.9,579,Vehicle-to-Load (V2L),6.2
+2096,Magnesium-ion,146.9,167,Level 2 Charging,8
+2097,Nickel-cobalt-aluminum,26.2,429,DC Fast Charging (DCFC),6.7
+2098,Sodium-ion,66.4,547,Vehicle-to-Load (V2L),7.2
+2099,Aluminum-ion,95.7,298,CCS,7.1
+2100,Lead-acid,35.9,502,Battery Swapping,9.4
+2101,Aluminum-ion,33.3,119,Ultra-Fast Charging (350 kW+),3.6
+2102,Lithium-titanate,142.8,234,Mobile Charging,5.1
+2103,Lithium-sulfur,38.6,416,Level 1 Charging,3.8
+2104,Zinc-air,31.1,407,Overhead Pantograph Charging,2.7
+2105,Sodium-ion,95.7,107,CHAdeMO,11.6
+2106,Nickel-cobalt-aluminum,76.6,493,Inductive (Wireless) Charging,4
+2107,Nickel-cobalt-aluminum,68,180,Vehicle-to-Load (V2L),9.1
+2108,Nickel-metal hydride,55.6,592,Inductive (Wireless) Charging,4.4
+2109,Nickel-metal hydride,34,589,Level 2 Charging,4.4
+2110,Lithium-ion,62.8,591,Ultra-Fast Charging (350 kW+),3.8
+2111,Lithium-titanate,34.2,516,Battery Swapping,11
+2112,Calcium-ion,102.6,548,Vehicle-to-Load (V2L),7.3
+2113,Nickel-manganese-cobalt,101,389,DC Fast Charging (DCFC),6.3
+2114,Flow batteries,63.2,358,Vehicle-to-Load (V2L),5.7
+2115,Nickel-metal hydride,60.9,251,NACS,2
+2116,Lithium-iron phosphate,52.7,287,Ultra-Fast Charging (350 kW+),6.9
+2117,Lead-acid,91,353,Solar Charging,4.2
+2118,Calcium-ion,126.8,466,Plug-in Hydrogen Refueling,6.9
+2119,Magnesium-ion,144.1,212,Level 1 Charging,7.8
+2120,Lithium-sulfur,55.3,204,Inductive (Wireless) Charging,1.3
+2121,Nickel-metal hydride,100.9,531,Vehicle-to-Home (V2H),0.8
+2122,Lithium-titanate,73.7,135,DC Fast Charging (DCFC),10.1
+2123,Nickel-cobalt-aluminum,147.1,212,CHAdeMO,6.1
+2124,Lithium-ion,57.7,205,CCS,11.8
+2125,Lithium-iron phosphate,72.3,310,Overhead Pantograph Charging,5.1
+2126,Solid-state,95.5,575,Inductive (Wireless) Charging,10.4
+2127,Aluminum-ion,58.9,498,Overhead Pantograph Charging,7.9
+2128,Solid-state,43.6,229,Battery Swapping,2.9
+2129,Lithium-sulfur,43.6,114,Plug-in Hydrogen Refueling,9.1
+2130,Solid-state,30.8,310,Mobile Charging,7.2
+2131,Magnesium-ion,45.7,153,Inductive (Wireless) Charging,9.3
+2132,Zinc-air,47.2,503,Vehicle-to-Grid (V2G),1.3
+2133,Nickel-cobalt-aluminum,122.3,537,CHAdeMO,2.7
+2134,Solid-state,63.5,369,Level 1 Charging,4
+2135,Calcium-ion,114.4,586,Plug-in Hydrogen Refueling,1.6
+2136,Lithium-iron phosphate,88.9,572,Level 1 Charging,4.9
+2137,Magnesium-ion,43.6,199,Vehicle-to-Home (V2H),2.6
+2138,Nickel-manganese-cobalt,33.5,532,Overhead Pantograph Charging,4.7
+2139,Calcium-ion,145.5,446,Vehicle-to-Load (V2L),2.9
+2140,Lithium-ion,140.6,368,Mobile Charging,8.2
+2141,Lithium-sulfur,55.3,354,Level 2 Charging,2.4
+2142,Lead-acid,77.8,479,Plug-in Hydrogen Refueling,4.9
+2143,Flow batteries,24.7,426,CHAdeMO,3.4
+2144,Flow batteries,101.1,270,Level 1 Charging,3.2
+2145,Lithium-titanate,89.4,573,Plug-in Hydrogen Refueling,7.2
+2146,Lithium-iron phosphate,79.6,128,Battery Swapping,1.5
+2147,Sodium-ion,87.1,545,Vehicle-to-Home (V2H),7.8
+2148,Lithium-iron phosphate,130.6,587,CHAdeMO,10.9
+2149,Aluminum-ion,31.5,191,Vehicle-to-Load (V2L),5.5
+2150,Flow batteries,81,365,Inductive (Wireless) Charging,12
+2151,Zinc-air,47.3,274,Level 1 Charging,11.4
+2152,Magnesium-ion,81.2,346,DC Fast Charging (DCFC),7.8
+2153,Lithium-iron phosphate,84,229,Overhead Pantograph Charging,7.4
+2154,Magnesium-ion,147.3,350,DC Fast Charging (DCFC),9.2
+2155,Nickel-manganese-cobalt,88.6,489,Solar Charging,5.6
+2156,Lithium-sulfur,109.7,103,Solar Charging,10.6
+2157,Lithium-iron phosphate,116.1,142,Vehicle-to-Grid (V2G),6.2
+2158,Lithium-titanate,96.4,112,Inductive (Wireless) Charging,12
+2159,Lithium-titanate,67,205,Level 2 Charging,10.8
+2160,Lithium-ion,147.2,115,Vehicle-to-Home (V2H),7.4
+2161,Zinc-air,66.4,147,Mobile Charging,0.6
+2162,Lithium-sulfur,88.7,163,Level 2 Charging,7
+2163,Nickel-manganese-cobalt,135,400,CHAdeMO,3.6
+2164,Calcium-ion,38,577,Battery Swapping,10.3
+2165,Sodium-ion,137.7,402,Level 2 Charging,3.3
+2166,Solid-state,107.8,273,Level 1 Charging,10
+2167,Lithium-sulfur,57.5,464,Solar Charging,1
+2168,Calcium-ion,63.2,361,DC Fast Charging (DCFC),10.4
+2169,Sodium-ion,94.7,192,Overhead Pantograph Charging,3.8
+2170,Lithium-ion,84.1,463,Solar Charging,10.6
+2171,Nickel-metal hydride,45.7,388,Mobile Charging,9.6
+2172,Zinc-air,115.5,110,Plug-in Hydrogen Refueling,4
+2173,Solid-state,84.5,575,Level 2 Charging,1.1
+2174,Nickel-cobalt-aluminum,149,589,Inductive (Wireless) Charging,2.8
+2175,Lead-acid,74.3,467,Level 2 Charging,3.9
+2176,Lithium-iron phosphate,49,384,Plug-in Hydrogen Refueling,10.7
+2177,Flow batteries,23.2,145,Level 2 Charging,4.7
+2178,Lithium-ion,99.4,197,Ultra-Fast Charging (350 kW+),8.6
+2179,Nickel-metal hydride,142.7,587,DC Fast Charging (DCFC),6.9
+2180,Aluminum-ion,129.6,169,Level 1 Charging,6.8
+2181,Lithium-sulfur,130.3,231,Vehicle-to-Home (V2H),8
+2182,Lithium-titanate,91.5,327,Solar Charging,3.6
+2183,Lithium-titanate,63.5,147,Mobile Charging,4.3
+2184,Magnesium-ion,144.2,298,Plug-in Hydrogen Refueling,5.3
+2185,Nickel-cobalt-aluminum,92.8,170,NACS,10.9
+2186,Lead-acid,73.8,570,Solar Charging,8.6
+2187,Magnesium-ion,78.4,304,Overhead Pantograph Charging,10
+2188,Nickel-cobalt-aluminum,53.9,230,Battery Swapping,3
+2189,Lithium-ion,28,177,DC Fast Charging (DCFC),11.8
+2190,Lead-acid,65.2,583,Level 1 Charging,9.8
+2191,Aluminum-ion,44.1,195,Vehicle-to-Load (V2L),10.8
+2192,Lithium-ion,72.3,571,DC Fast Charging (DCFC),9
+2193,Zinc-air,97.8,270,CHAdeMO,5.9
+2194,Lithium-sulfur,142.5,103,Vehicle-to-Load (V2L),6
+2195,Lead-acid,96.4,247,Mobile Charging,9.7
+2196,Lithium-sulfur,52.4,144,NACS,5.3
+2197,Lithium-sulfur,79,269,Mobile Charging,2.2
+2198,Lithium-ion,21,591,Overhead Pantograph Charging,10.9
+2199,Solid-state,110.7,146,Plug-in Hydrogen Refueling,5.7
+2200,Lead-acid,56.6,398,Mobile Charging,11.6
+2201,Nickel-metal hydride,55.3,302,Battery Swapping,5.2
+2202,Lead-acid,85.6,498,Mobile Charging,1.6
+2203,Lithium-titanate,120.4,458,Solar Charging,2.7
+2204,Flow batteries,39.1,502,Vehicle-to-Home (V2H),0.6
+2205,Aluminum-ion,138.5,519,Vehicle-to-Load (V2L),1.6
+2206,Lithium-titanate,50.8,452,Ultra-Fast Charging (350 kW+),0.9
+2207,Zinc-air,47.5,555,Plug-in Hydrogen Refueling,3.8
+2208,Calcium-ion,39.4,478,Mobile Charging,7.1
+2209,Nickel-metal hydride,133,340,Mobile Charging,5.4
+2210,Solid-state,92.9,362,Level 1 Charging,9
+2211,Flow batteries,80.8,125,Inductive (Wireless) Charging,11.9
+2212,Magnesium-ion,26.5,242,Vehicle-to-Home (V2H),2
+2213,Nickel-manganese-cobalt,78.4,425,Mobile Charging,11.6
+2214,Calcium-ion,140.6,526,Vehicle-to-Home (V2H),9.7
+2215,Nickel-cobalt-aluminum,103.1,196,Overhead Pantograph Charging,6.7
+2216,Calcium-ion,148,575,Mobile Charging,8
+2217,Zinc-air,46,456,Plug-in Hydrogen Refueling,10.8
+2218,Sodium-ion,51.1,119,Inductive (Wireless) Charging,7.7
+2219,Lithium-iron phosphate,50.6,531,Mobile Charging,2.5
+2220,Lead-acid,40.5,402,Inductive (Wireless) Charging,3.8
+2221,Nickel-cobalt-aluminum,63.6,577,Level 1 Charging,9.6
+2222,Nickel-manganese-cobalt,59.1,137,CHAdeMO,8.2
+2223,Nickel-metal hydride,137,335,NACS,1.1
+2224,Lithium-iron phosphate,95,308,Plug-in Hydrogen Refueling,10.7
+2225,Magnesium-ion,33.8,502,DC Fast Charging (DCFC),0.7
+2226,Magnesium-ion,29.2,379,Vehicle-to-Grid (V2G),7.5
+2227,Lead-acid,59.9,357,DC Fast Charging (DCFC),1.7
+2228,Nickel-metal hydride,59.2,581,Mobile Charging,10.9
+2229,Flow batteries,52.5,245,Level 1 Charging,6.1
+2230,Lithium-titanate,106.1,313,Level 2 Charging,9.7
+2231,Solid-state,53.8,490,DC Fast Charging (DCFC),9
+2232,Lithium-sulfur,106.4,143,Mobile Charging,3.6
+2233,Aluminum-ion,76,488,Mobile Charging,6.8
+2234,Nickel-metal hydride,42.1,516,CCS,7.9
+2235,Calcium-ion,86.7,285,Plug-in Hydrogen Refueling,10.9
+2236,Lithium-sulfur,135.7,177,Level 2 Charging,7.6
+2237,Nickel-metal hydride,80.2,581,CCS,3.3
+2238,Lithium-titanate,34.8,435,Level 1 Charging,10.8
+2239,Lithium-sulfur,141.4,598,Level 1 Charging,8.9
+2240,Lithium-iron phosphate,141.8,595,Battery Swapping,2.3
+2241,Lithium-titanate,138.3,318,Plug-in Hydrogen Refueling,11
+2242,Lithium-iron phosphate,128.2,457,Level 2 Charging,10.6
+2243,Lithium-sulfur,43.8,277,Solar Charging,10.7
+2244,Lithium-iron phosphate,92.2,152,NACS,9.6
+2245,Aluminum-ion,147.9,570,Level 2 Charging,3.7
+2246,Calcium-ion,30.5,318,NACS,8.3
+2247,Lithium-titanate,92.6,570,Solar Charging,7
+2248,Magnesium-ion,29.2,379,Level 1 Charging,9.8
+2249,Sodium-ion,33.1,518,Inductive (Wireless) Charging,8.6
+2250,Zinc-air,73.4,258,Mobile Charging,1.7
+2251,Nickel-manganese-cobalt,50.9,552,CHAdeMO,2.1
+2252,Calcium-ion,90.8,171,DC Fast Charging (DCFC),5.6
+2253,Aluminum-ion,38.1,520,CCS,1.3
+2254,Solid-state,136.7,373,Plug-in Hydrogen Refueling,2.4
+2255,Magnesium-ion,22.4,460,Vehicle-to-Grid (V2G),3.9
+2256,Solid-state,78.2,168,Battery Swapping,11.7
+2257,Nickel-manganese-cobalt,132,537,Level 1 Charging,2.9
+2258,Lithium-ion,73.5,133,Level 2 Charging,9.8
+2259,Zinc-air,59.4,124,Vehicle-to-Load (V2L),9.2
+2260,Nickel-cobalt-aluminum,123.3,139,Vehicle-to-Load (V2L),8.7
+2261,Solid-state,36.7,209,DC Fast Charging (DCFC),6.6
+2262,Lithium-sulfur,61.5,478,Vehicle-to-Grid (V2G),11.2
+2263,Lithium-titanate,108.1,226,CCS,4.5
+2264,Lithium-ion,67,242,Solar Charging,7.4
+2265,Lithium-ion,38.2,127,Vehicle-to-Home (V2H),11.6
+2266,Lithium-titanate,63.8,212,Mobile Charging,3.6
+2267,Lithium-titanate,136.7,169,CCS,9.3
+2268,Magnesium-ion,42.6,306,CCS,8.4
+2269,Solid-state,87.8,231,Battery Swapping,2.2
+2270,Solid-state,85.3,338,Level 1 Charging,3.2
+2271,Flow batteries,75,371,Vehicle-to-Load (V2L),8.1
+2272,Zinc-air,97.3,479,CHAdeMO,3.5
+2273,Lithium-iron phosphate,37.7,142,Battery Swapping,11.1
+2274,Lithium-ion,51.9,223,Vehicle-to-Home (V2H),3.6
+2275,Solid-state,133.8,443,CHAdeMO,2.9
+2276,Solid-state,52.2,305,Inductive (Wireless) Charging,1.1
+2277,Calcium-ion,46,235,CHAdeMO,4.1
+2278,Lithium-titanate,38.4,505,DC Fast Charging (DCFC),6.6
+2279,Lead-acid,33.8,535,Solar Charging,11.6
+2280,Lithium-titanate,141.3,270,NACS,6.3
+2281,Aluminum-ion,37.1,192,Battery Swapping,8.6
+2282,Magnesium-ion,26.9,322,Level 1 Charging,4.9
+2283,Nickel-manganese-cobalt,80.1,216,Overhead Pantograph Charging,10.9
+2284,Magnesium-ion,147.1,474,Inductive (Wireless) Charging,7.4
+2285,Lithium-ion,77.2,173,Plug-in Hydrogen Refueling,11.5
+2286,Calcium-ion,50,448,Solar Charging,3.3
+2287,Solid-state,122.2,355,Battery Swapping,7.1
+2288,Nickel-manganese-cobalt,114.3,471,CCS,6.2
+2289,Lithium-iron phosphate,71.2,440,CHAdeMO,6
+2290,Solid-state,41.2,293,Ultra-Fast Charging (350 kW+),6.3
+2291,Nickel-manganese-cobalt,120.7,249,Mobile Charging,7.3
+2292,Lithium-iron phosphate,138.4,217,Vehicle-to-Home (V2H),2.7
+2293,Lithium-ion,21.5,294,Level 1 Charging,6.1
+2294,Magnesium-ion,140.4,275,Inductive (Wireless) Charging,10.6
+2295,Nickel-manganese-cobalt,48.9,440,Overhead Pantograph Charging,1.1
+2296,Sodium-ion,26.7,492,NACS,8.4
+2297,Nickel-metal hydride,42.5,387,Vehicle-to-Load (V2L),1.5
+2298,Lithium-iron phosphate,47.3,516,Mobile Charging,9.8
+2299,Calcium-ion,141.7,369,Level 2 Charging,9.6
+2300,Nickel-manganese-cobalt,86.7,379,Vehicle-to-Grid (V2G),6.2
+2301,Sodium-ion,25.6,416,Vehicle-to-Home (V2H),2.5
+2302,Magnesium-ion,109.7,120,Solar Charging,9.6
+2303,Aluminum-ion,70.2,439,Inductive (Wireless) Charging,11.2
+2304,Lead-acid,136.3,386,Vehicle-to-Grid (V2G),7
+2305,Flow batteries,39.7,319,Solar Charging,11.4
+2306,Lithium-sulfur,94.7,549,CCS,5.5
+2307,Lithium-ion,58.1,347,Inductive (Wireless) Charging,5
+2308,Flow batteries,146,471,NACS,5.9
+2309,Lead-acid,121.5,334,Overhead Pantograph Charging,9.6
+2310,Aluminum-ion,83.8,375,Inductive (Wireless) Charging,5.2
+2311,Zinc-air,87,322,Battery Swapping,7.6
+2312,Nickel-manganese-cobalt,55.4,293,CCS,10.1
+2313,Aluminum-ion,143.5,200,Plug-in Hydrogen Refueling,6.9
+2314,Calcium-ion,20.8,266,Battery Swapping,11.7
+2315,Nickel-manganese-cobalt,85.8,551,Ultra-Fast Charging (350 kW+),7.7
+2316,Lithium-iron phosphate,112.8,395,NACS,1.9
+2317,Lithium-sulfur,140,279,Vehicle-to-Grid (V2G),5.7
+2318,Nickel-cobalt-aluminum,91.2,528,Ultra-Fast Charging (350 kW+),7.1
+2319,Nickel-cobalt-aluminum,72.1,228,Vehicle-to-Load (V2L),11.7
+2320,Aluminum-ion,61.7,194,DC Fast Charging (DCFC),6.1
+2321,Lithium-titanate,55.9,185,Level 1 Charging,5.5
+2322,Lithium-sulfur,24.5,294,Vehicle-to-Load (V2L),2.1
+2323,Lithium-titanate,44.7,390,Ultra-Fast Charging (350 kW+),3.3
+2324,Lead-acid,84.8,290,CHAdeMO,8.5
+2325,Lithium-iron phosphate,61.3,579,Vehicle-to-Home (V2H),11.5
+2326,Lithium-iron phosphate,125,377,Overhead Pantograph Charging,8.7
+2327,Zinc-air,117.5,156,Vehicle-to-Grid (V2G),2
+2328,Nickel-cobalt-aluminum,88.3,285,CCS,6.1
+2329,Calcium-ion,30,488,Level 2 Charging,8.3
+2330,Solid-state,94.4,424,Battery Swapping,10.8
+2331,Nickel-cobalt-aluminum,48.2,505,Ultra-Fast Charging (350 kW+),7.4
+2332,Lithium-sulfur,21.9,127,Vehicle-to-Load (V2L),4.1
+2333,Magnesium-ion,143.2,125,Vehicle-to-Load (V2L),3.7
+2334,Nickel-metal hydride,54.4,102,Solar Charging,11.2
+2335,Magnesium-ion,133.1,343,Ultra-Fast Charging (350 kW+),6.1
+2336,Nickel-manganese-cobalt,141.9,192,Plug-in Hydrogen Refueling,5.2
+2337,Solid-state,64.9,578,CCS,2.9
+2338,Nickel-metal hydride,135.9,515,Vehicle-to-Home (V2H),5.9
+2339,Nickel-manganese-cobalt,65.1,224,Overhead Pantograph Charging,4.1
+2340,Lithium-titanate,107.5,406,DC Fast Charging (DCFC),1
+2341,Magnesium-ion,123.3,401,DC Fast Charging (DCFC),3.4
+2342,Nickel-metal hydride,80,124,Vehicle-to-Home (V2H),11.1
+2343,Lithium-ion,136.9,440,Vehicle-to-Grid (V2G),2.9
+2344,Nickel-cobalt-aluminum,35.7,184,Solar Charging,11.6
+2345,Lithium-sulfur,142,494,DC Fast Charging (DCFC),4.3
+2346,Zinc-air,107.7,283,Overhead Pantograph Charging,11
+2347,Nickel-metal hydride,94,302,Battery Swapping,6.4
+2348,Flow batteries,67.9,468,Inductive (Wireless) Charging,5.7
+2349,Calcium-ion,81.3,379,DC Fast Charging (DCFC),3
+2350,Nickel-metal hydride,41.6,426,Overhead Pantograph Charging,0.9
+2351,Zinc-air,27.1,379,Vehicle-to-Home (V2H),6.7
+2352,Nickel-cobalt-aluminum,76,300,Plug-in Hydrogen Refueling,7.5
+2353,Lithium-titanate,66.3,473,Level 1 Charging,6.6
+2354,Magnesium-ion,138.7,173,Mobile Charging,5.7
+2355,Lithium-titanate,108.7,339,NACS,2.7
+2356,Solid-state,91.1,293,Plug-in Hydrogen Refueling,2.4
+2357,Magnesium-ion,52,578,Overhead Pantograph Charging,1.5
+2358,Lead-acid,52.2,114,CCS,5
+2359,Zinc-air,91.6,101,DC Fast Charging (DCFC),9.4
+2360,Lithium-iron phosphate,95.4,286,CHAdeMO,3
+2361,Nickel-metal hydride,83.1,193,Ultra-Fast Charging (350 kW+),1.9
+2362,Flow batteries,61.6,562,Level 1 Charging,0.6
+2363,Lithium-iron phosphate,53.4,211,Vehicle-to-Load (V2L),1.8
+2364,Nickel-metal hydride,82.7,372,NACS,10.9
+2365,Lithium-titanate,93.8,158,NACS,10.1
+2366,Lithium-iron phosphate,38,476,Overhead Pantograph Charging,2.6
+2367,Zinc-air,65,248,NACS,6.6
+2368,Magnesium-ion,76.3,572,Vehicle-to-Home (V2H),9.6
+2369,Nickel-cobalt-aluminum,77.5,499,Level 1 Charging,2.5
+2370,Lithium-ion,66.9,201,DC Fast Charging (DCFC),7.5
+2371,Lead-acid,57.9,575,Vehicle-to-Load (V2L),5.6
+2372,Flow batteries,78.4,239,Solar Charging,10.1
+2373,Zinc-air,147.6,224,CHAdeMO,6.8
+2374,Aluminum-ion,45.4,296,Level 1 Charging,1.3
+2375,Calcium-ion,143.6,510,DC Fast Charging (DCFC),8.8
+2376,Flow batteries,105.5,183,Battery Swapping,10
+2377,Zinc-air,28.1,163,CCS,12
+2378,Lithium-sulfur,93.4,477,Level 1 Charging,1.6
+2379,Lithium-iron phosphate,92.2,228,Overhead Pantograph Charging,11.5
+2380,Zinc-air,103.8,193,Battery Swapping,6.5
+2381,Lithium-titanate,81.4,450,Level 1 Charging,2.4
+2382,Lead-acid,57.2,169,Vehicle-to-Home (V2H),3.4
+2383,Nickel-manganese-cobalt,72.7,503,CHAdeMO,5.9
+2384,Lithium-sulfur,121.3,159,Battery Swapping,8.4
+2385,Lead-acid,74.5,554,Inductive (Wireless) Charging,2.7
+2386,Solid-state,30.1,339,Mobile Charging,3.5
+2387,Calcium-ion,101.3,253,Plug-in Hydrogen Refueling,3.2
+2388,Flow batteries,70.4,191,Vehicle-to-Home (V2H),2.5
+2389,Lithium-ion,80.4,514,CCS,3.5
+2390,Nickel-manganese-cobalt,125.7,385,NACS,3.5
+2391,Flow batteries,127.4,296,NACS,4
+2392,Magnesium-ion,132.4,420,Vehicle-to-Grid (V2G),3.3
+2393,Lithium-ion,70.1,104,Vehicle-to-Grid (V2G),1.4
+2394,Nickel-cobalt-aluminum,25.7,565,Battery Swapping,9.3
+2395,Lithium-ion,92,554,DC Fast Charging (DCFC),3.5
+2396,Lead-acid,133.8,183,Level 2 Charging,11.2
+2397,Lithium-titanate,129.7,569,Vehicle-to-Grid (V2G),1.3
+2398,Nickel-manganese-cobalt,110.7,209,Vehicle-to-Load (V2L),8.6
+2399,Nickel-manganese-cobalt,76.5,340,Solar Charging,8.8
+2400,Lithium-ion,146.8,274,Vehicle-to-Grid (V2G),9
+2401,Lithium-iron phosphate,66.4,446,Vehicle-to-Home (V2H),10.9
+2402,Nickel-metal hydride,69.4,529,Solar Charging,11
+2403,Nickel-cobalt-aluminum,68.6,272,NACS,9.7
+2404,Aluminum-ion,49.1,548,Battery Swapping,6.9
+2405,Calcium-ion,57.8,334,Level 2 Charging,1.4
+2406,Aluminum-ion,41.1,502,Plug-in Hydrogen Refueling,6.2
+2407,Lithium-ion,92.8,488,DC Fast Charging (DCFC),4.4
+2408,Lithium-titanate,149.1,445,Vehicle-to-Load (V2L),4.8
+2409,Sodium-ion,38.3,303,Ultra-Fast Charging (350 kW+),2.9
+2410,Zinc-air,136.1,196,Inductive (Wireless) Charging,8.5
+2411,Lithium-iron phosphate,28,517,Overhead Pantograph Charging,3.9
+2412,Lithium-iron phosphate,81.3,383,Level 2 Charging,8.9
+2413,Lithium-iron phosphate,130.9,275,Vehicle-to-Home (V2H),4.8
+2414,Sodium-ion,120.3,469,CCS,1.7
+2415,Lithium-titanate,52.4,434,DC Fast Charging (DCFC),2.9
+2416,Lithium-ion,76.2,509,Vehicle-to-Grid (V2G),0.7
+2417,Lithium-sulfur,93.1,225,Battery Swapping,8.1
+2418,Sodium-ion,41.8,117,NACS,3.1
+2419,Magnesium-ion,92.7,557,DC Fast Charging (DCFC),7.3
+2420,Zinc-air,28.7,461,Battery Swapping,4.1
+2421,Sodium-ion,42.1,546,CHAdeMO,11.8
+2422,Zinc-air,109.4,491,Level 2 Charging,1.9
+2423,Lithium-titanate,36.7,357,Level 1 Charging,1.2
+2424,Lithium-iron phosphate,33.8,150,Ultra-Fast Charging (350 kW+),8.1
+2425,Sodium-ion,57.5,191,Inductive (Wireless) Charging,10.5
+2426,Lead-acid,141.6,135,Overhead Pantograph Charging,4.6
+2427,Zinc-air,51.1,578,Ultra-Fast Charging (350 kW+),5
+2428,Nickel-cobalt-aluminum,147.9,195,CHAdeMO,3.5
+2429,Nickel-manganese-cobalt,129.9,556,Solar Charging,6.9
+2430,Zinc-air,75.2,214,Level 2 Charging,4.5
+2431,Nickel-cobalt-aluminum,52.6,220,Level 1 Charging,11.3
+2432,Zinc-air,127.3,541,Vehicle-to-Grid (V2G),3.3
+2433,Lithium-iron phosphate,21.6,196,Overhead Pantograph Charging,5.3
+2434,Magnesium-ion,58.7,104,Level 2 Charging,3
+2435,Lithium-iron phosphate,117.3,266,CHAdeMO,8.4
+2436,Calcium-ion,75.8,522,Mobile Charging,6.3
+2437,Magnesium-ion,30.2,348,Level 1 Charging,9.8
+2438,Lithium-iron phosphate,40.6,587,Mobile Charging,7.2
+2439,Lithium-ion,128.2,351,Overhead Pantograph Charging,3
+2440,Calcium-ion,32.8,423,Mobile Charging,1
+2441,Sodium-ion,39.7,534,Solar Charging,9.6
+2442,Sodium-ion,35.7,400,Vehicle-to-Home (V2H),5.6
+2443,Nickel-metal hydride,111.4,512,Plug-in Hydrogen Refueling,1.7
+2444,Magnesium-ion,58.5,443,Battery Swapping,9
+2445,Magnesium-ion,115.8,551,Level 2 Charging,8.6
+2446,Lithium-titanate,122,286,Inductive (Wireless) Charging,4.9
+2447,Lithium-iron phosphate,73.3,461,Vehicle-to-Load (V2L),6.7
+2448,Nickel-metal hydride,21.5,567,Vehicle-to-Grid (V2G),5.1
+2449,Nickel-cobalt-aluminum,82.8,335,CCS,7.2
+2450,Sodium-ion,53.9,519,Vehicle-to-Home (V2H),2.8
+2451,Lithium-titanate,105.9,486,Overhead Pantograph Charging,6.5
+2452,Calcium-ion,134.7,165,Mobile Charging,3.6
+2453,Solid-state,128.2,411,Vehicle-to-Home (V2H),9.3
+2454,Lithium-sulfur,71,569,Ultra-Fast Charging (350 kW+),7.8
+2455,Solid-state,94.7,262,Plug-in Hydrogen Refueling,6.2
+2456,Sodium-ion,101.9,153,DC Fast Charging (DCFC),11.6
+2457,Solid-state,127.3,260,Vehicle-to-Home (V2H),7.6
+2458,Nickel-manganese-cobalt,70.6,320,Level 2 Charging,11.9
+2459,Zinc-air,126.4,340,Inductive (Wireless) Charging,6.6
+2460,Lithium-iron phosphate,102.4,546,Vehicle-to-Home (V2H),8.6
+2461,Lithium-iron phosphate,49,543,CCS,1.4
+2462,Calcium-ion,49.6,571,CHAdeMO,6.6
+2463,Lithium-ion,69.1,350,Vehicle-to-Load (V2L),1.8
+2464,Lithium-sulfur,94.9,312,Vehicle-to-Load (V2L),11.4
+2465,Nickel-metal hydride,147.8,265,CHAdeMO,8.8
+2466,Aluminum-ion,52.5,218,Overhead Pantograph Charging,1.4
+2467,Lithium-iron phosphate,85.5,207,DC Fast Charging (DCFC),10.4
+2468,Nickel-cobalt-aluminum,46.4,223,Inductive (Wireless) Charging,9.4
+2469,Lithium-titanate,81.2,371,CHAdeMO,5.1
+2470,Lead-acid,117.2,299,NACS,8.7
+2471,Lithium-iron phosphate,109,276,Battery Swapping,5.9
+2472,Magnesium-ion,123.2,593,NACS,11.2
+2473,Aluminum-ion,85.2,240,Mobile Charging,4.7
+2474,Aluminum-ion,50.2,305,Ultra-Fast Charging (350 kW+),0.8
+2475,Nickel-cobalt-aluminum,66.8,151,Vehicle-to-Grid (V2G),10
+2476,Nickel-cobalt-aluminum,137.9,260,Plug-in Hydrogen Refueling,3.9
+2477,Lead-acid,77.1,366,Solar Charging,5
+2478,Nickel-metal hydride,116.7,595,CHAdeMO,6.4
+2479,Solid-state,76.3,222,Battery Swapping,10.3
+2480,Nickel-metal hydride,148,597,CHAdeMO,6.5
+2481,Aluminum-ion,94.7,138,CCS,7.8
+2482,Calcium-ion,70.6,103,Solar Charging,5.3
+2483,Lithium-sulfur,29.4,112,Vehicle-to-Grid (V2G),5
+2484,Aluminum-ion,108.8,178,Inductive (Wireless) Charging,9.4
+2485,Lead-acid,68.7,186,Ultra-Fast Charging (350 kW+),8.1
+2486,Nickel-manganese-cobalt,119.3,230,Vehicle-to-Home (V2H),7.1
+2487,Flow batteries,137.1,136,Overhead Pantograph Charging,9.5
+2488,Nickel-cobalt-aluminum,98.9,185,Mobile Charging,11.6
+2489,Lithium-ion,52.1,593,NACS,4.7
+2490,Lithium-ion,118.6,576,Ultra-Fast Charging (350 kW+),6
+2491,Lithium-iron phosphate,148.1,367,Vehicle-to-Grid (V2G),7.9
+2492,Lithium-ion,118,239,Vehicle-to-Load (V2L),8.1
+2493,Nickel-manganese-cobalt,52.9,231,Vehicle-to-Load (V2L),7.1
+2494,Nickel-cobalt-aluminum,88.6,555,Battery Swapping,11
+2495,Lithium-iron phosphate,71.2,473,Level 2 Charging,9.3
+2496,Lead-acid,103.1,282,CHAdeMO,9.6
+2497,Zinc-air,120.6,268,Vehicle-to-Load (V2L),11.7
+2498,Lead-acid,29,261,CHAdeMO,3.5
+2499,Lithium-ion,47.2,419,Overhead Pantograph Charging,3.3
+2500,Lithium-sulfur,111.6,115,DC Fast Charging (DCFC),1.5
+2501,Calcium-ion,80.2,241,Level 2 Charging,7.1
+2502,Nickel-cobalt-aluminum,32.2,575,Level 2 Charging,8.1
+2503,Lithium-sulfur,125.3,461,Vehicle-to-Load (V2L),11.6
+2504,Nickel-manganese-cobalt,124.2,446,Vehicle-to-Grid (V2G),11.5
+2505,Calcium-ion,63.1,384,Vehicle-to-Grid (V2G),5.7
+2506,Nickel-metal hydride,130.4,488,Overhead Pantograph Charging,11
+2507,Lead-acid,121.2,548,Overhead Pantograph Charging,2.7
+2508,Calcium-ion,36,484,Battery Swapping,3.4
+2509,Nickel-cobalt-aluminum,25.9,222,CCS,1.1
+2510,Nickel-metal hydride,78.9,205,Battery Swapping,3.5
+2511,Nickel-cobalt-aluminum,102,549,Mobile Charging,11.9
+2512,Calcium-ion,111.1,196,CHAdeMO,4.6
+2513,Nickel-manganese-cobalt,57.6,214,Level 1 Charging,3.5
+2514,Sodium-ion,39.2,497,Level 1 Charging,5.5
+2515,Calcium-ion,123.6,251,NACS,12
+2516,Nickel-cobalt-aluminum,37.6,542,NACS,10.3
+2517,Lithium-sulfur,135.2,164,Mobile Charging,5.3
+2518,Lithium-titanate,138,263,Overhead Pantograph Charging,0.9
+2519,Lithium-ion,126,464,Vehicle-to-Grid (V2G),4.9
+2520,Zinc-air,56.1,271,Ultra-Fast Charging (350 kW+),8.6
+2521,Nickel-manganese-cobalt,49.2,159,Ultra-Fast Charging (350 kW+),4.8
+2522,Solid-state,23.9,105,Overhead Pantograph Charging,8.2
+2523,Solid-state,36.5,197,Mobile Charging,11.2
+2524,Sodium-ion,76,117,Plug-in Hydrogen Refueling,8
+2525,Aluminum-ion,87.7,401,Mobile Charging,3
+2526,Nickel-manganese-cobalt,75,181,CCS,2.8
+2527,Nickel-metal hydride,130.1,504,Battery Swapping,10.9
+2528,Zinc-air,92.6,239,Level 2 Charging,9.4
+2529,Nickel-manganese-cobalt,118,407,Ultra-Fast Charging (350 kW+),0.6
+2530,Solid-state,54.8,198,Inductive (Wireless) Charging,3.8
+2531,Flow batteries,87.4,521,Vehicle-to-Grid (V2G),9.8
+2532,Aluminum-ion,37.8,425,DC Fast Charging (DCFC),2.3
+2533,Zinc-air,88.1,197,Plug-in Hydrogen Refueling,9.4
+2534,Lithium-ion,132.1,176,Level 1 Charging,3.3
+2535,Calcium-ion,131.9,362,CCS,2.9
+2536,Lithium-sulfur,65.7,370,Plug-in Hydrogen Refueling,2.2
+2537,Aluminum-ion,83.6,230,CCS,11
+2538,Calcium-ion,85.5,395,Ultra-Fast Charging (350 kW+),4.1
+2539,Lead-acid,140.6,163,NACS,0.7
+2540,Lithium-iron phosphate,73.9,220,DC Fast Charging (DCFC),9.8
+2541,Calcium-ion,117.3,586,Level 2 Charging,2.4
+2542,Sodium-ion,132.8,109,CHAdeMO,9.1
+2543,Solid-state,24,211,NACS,11.4
+2544,Nickel-manganese-cobalt,82.7,424,CHAdeMO,9.1
+2545,Nickel-metal hydride,71.3,505,DC Fast Charging (DCFC),7.9
+2546,Zinc-air,49.4,415,CHAdeMO,2
+2547,Magnesium-ion,87.8,549,Overhead Pantograph Charging,2.6
+2548,Nickel-manganese-cobalt,90.5,358,Solar Charging,2.5
+2549,Lithium-sulfur,78.1,343,Level 2 Charging,10.6
+2550,Solid-state,130.8,464,Vehicle-to-Load (V2L),7.3
+2551,Lithium-titanate,73.9,570,DC Fast Charging (DCFC),10.5
+2552,Nickel-metal hydride,49.9,423,Mobile Charging,11.6
+2553,Aluminum-ion,128,249,Vehicle-to-Load (V2L),8.3
+2554,Magnesium-ion,23.9,480,Battery Swapping,2.5
+2555,Lithium-sulfur,132.7,492,Level 2 Charging,7
+2556,Nickel-metal hydride,105.7,347,Solar Charging,10.6
+2557,Solid-state,96.2,179,Mobile Charging,1.2
+2558,Nickel-manganese-cobalt,77.8,228,CHAdeMO,5
+2559,Solid-state,53.4,340,Vehicle-to-Load (V2L),1.4
+2560,Nickel-cobalt-aluminum,71.1,462,Vehicle-to-Grid (V2G),7.4
+2561,Lead-acid,105.3,225,Level 2 Charging,3
+2562,Nickel-manganese-cobalt,46.9,473,Level 1 Charging,6
+2563,Lithium-titanate,108.2,581,DC Fast Charging (DCFC),2.6
+2564,Sodium-ion,71.3,252,Battery Swapping,3.1
+2565,Lithium-iron phosphate,70.7,464,CCS,9.6
+2566,Lithium-iron phosphate,116.3,286,Inductive (Wireless) Charging,10.5
+2567,Nickel-manganese-cobalt,80.9,131,Mobile Charging,4.6
+2568,Lithium-titanate,91.4,598,Vehicle-to-Load (V2L),0.6
+2569,Calcium-ion,54,110,NACS,1.2
+2570,Lithium-sulfur,42.5,420,Overhead Pantograph Charging,1.2
+2571,Lithium-iron phosphate,110.1,285,CHAdeMO,8.4
+2572,Zinc-air,140.7,508,Ultra-Fast Charging (350 kW+),4.6
+2573,Nickel-manganese-cobalt,142.6,310,Solar Charging,10.3
+2574,Lead-acid,143.4,471,Level 2 Charging,6.6
+2575,Solid-state,104.6,263,Level 1 Charging,1.8
+2576,Lithium-iron phosphate,78,515,Vehicle-to-Grid (V2G),4.8
+2577,Nickel-cobalt-aluminum,146.6,201,Vehicle-to-Load (V2L),7.1
+2578,Lithium-sulfur,46.9,553,Vehicle-to-Load (V2L),3.3
+2579,Lithium-ion,101.2,542,Vehicle-to-Grid (V2G),2.4
+2580,Zinc-air,34.9,385,DC Fast Charging (DCFC),5.5
+2581,Lead-acid,117.2,449,Overhead Pantograph Charging,10.9
+2582,Aluminum-ion,76.6,532,Mobile Charging,2.6
+2583,Nickel-manganese-cobalt,68,562,DC Fast Charging (DCFC),9.5
+2584,Calcium-ion,97.3,427,Level 1 Charging,11.1
+2585,Lithium-titanate,93.7,392,Ultra-Fast Charging (350 kW+),3.7
+2586,Aluminum-ion,138.3,496,Vehicle-to-Grid (V2G),4.4
+2587,Lead-acid,44.2,460,CCS,7.3
+2588,Lithium-iron phosphate,80.5,580,Vehicle-to-Grid (V2G),3.3
+2589,Zinc-air,149.4,357,Mobile Charging,11.2
+2590,Nickel-metal hydride,142.9,558,Level 1 Charging,8.4
+2591,Lithium-sulfur,70.2,108,Mobile Charging,7.6
+2592,Nickel-metal hydride,56.1,426,Mobile Charging,6.9
+2593,Lithium-titanate,91.6,101,Overhead Pantograph Charging,2.8
+2594,Solid-state,123.7,536,Level 2 Charging,5.2
+2595,Nickel-manganese-cobalt,132.5,366,Mobile Charging,3.1
+2596,Solid-state,82.3,101,Vehicle-to-Grid (V2G),8.4
+2597,Nickel-manganese-cobalt,41,374,Plug-in Hydrogen Refueling,5.4
+2598,Solid-state,125.4,263,Vehicle-to-Home (V2H),6
+2599,Flow batteries,90.3,263,Mobile Charging,6.6
+2600,Lithium-ion,123.1,143,Overhead Pantograph Charging,1.2
+2601,Solid-state,64.6,287,Plug-in Hydrogen Refueling,11.6
+2602,Lead-acid,59.1,585,CHAdeMO,2
+2603,Flow batteries,65.3,456,Level 2 Charging,11.1
+2604,Lithium-ion,88.1,213,Ultra-Fast Charging (350 kW+),4.5
+2605,Zinc-air,24.6,120,Level 2 Charging,3.5
+2606,Flow batteries,41.5,261,CCS,4
+2607,Lead-acid,145.9,554,Plug-in Hydrogen Refueling,11.7
+2608,Solid-state,67.4,151,Plug-in Hydrogen Refueling,3.4
+2609,Nickel-cobalt-aluminum,97.2,331,Plug-in Hydrogen Refueling,2.5
+2610,Lithium-ion,102,431,Vehicle-to-Home (V2H),1.9
+2611,Lithium-sulfur,128.5,494,Battery Swapping,5.6
+2612,Aluminum-ion,122.9,478,Solar Charging,8.9
+2613,Nickel-manganese-cobalt,127.7,169,Level 1 Charging,7.4
+2614,Nickel-cobalt-aluminum,20.3,510,Vehicle-to-Load (V2L),3.7
+2615,Nickel-metal hydride,62.3,274,Plug-in Hydrogen Refueling,1.5
+2616,Flow batteries,65.7,576,CHAdeMO,10.5
+2617,Flow batteries,134,572,NACS,8.5
+2618,Lead-acid,141.7,475,Ultra-Fast Charging (350 kW+),2.2
+2619,Sodium-ion,138.5,506,CCS,7.2
+2620,Zinc-air,99.4,503,DC Fast Charging (DCFC),2.8
+2621,Aluminum-ion,109.3,217,Plug-in Hydrogen Refueling,8
+2622,Nickel-manganese-cobalt,78.5,107,Mobile Charging,3.3
+2623,Nickel-cobalt-aluminum,56.3,518,Level 1 Charging,2.3
+2624,Lithium-sulfur,120.7,442,Ultra-Fast Charging (350 kW+),7
+2625,Lithium-ion,85,533,NACS,3.2
+2626,Aluminum-ion,140.1,272,CCS,7.8
+2627,Solid-state,27.8,248,Level 2 Charging,1.4
+2628,Zinc-air,149.8,344,Overhead Pantograph Charging,2.6
+2629,Aluminum-ion,125.2,577,NACS,1.8
+2630,Zinc-air,21.3,557,CHAdeMO,0.8
+2631,Nickel-manganese-cobalt,101.1,466,NACS,1.2
+2632,Flow batteries,108.3,593,Mobile Charging,3.4
+2633,Sodium-ion,98,332,Level 2 Charging,1.2
+2634,Sodium-ion,147.1,432,Overhead Pantograph Charging,8
+2635,Zinc-air,27,196,CCS,5.6
+2636,Magnesium-ion,118.5,444,Vehicle-to-Grid (V2G),7.2
+2637,Calcium-ion,141.7,185,NACS,9.8
+2638,Solid-state,58.1,562,CHAdeMO,2.7
+2639,Magnesium-ion,34.3,440,Overhead Pantograph Charging,0.8
+2640,Magnesium-ion,74.2,215,Overhead Pantograph Charging,7.4
+2641,Solid-state,27.1,312,Mobile Charging,9
+2642,Lithium-ion,67.7,143,Vehicle-to-Load (V2L),4.4
+2643,Lead-acid,80.4,567,CCS,5.1
+2644,Nickel-metal hydride,58.1,512,Solar Charging,11.9
+2645,Aluminum-ion,139.9,449,Vehicle-to-Grid (V2G),5.1
+2646,Nickel-cobalt-aluminum,134.8,145,Vehicle-to-Home (V2H),0.8
+2647,Calcium-ion,104.5,332,NACS,0.8
+2648,Magnesium-ion,130.8,576,Mobile Charging,3.8
+2649,Lithium-sulfur,119.1,188,Solar Charging,11.5
+2650,Nickel-metal hydride,36.5,587,Level 2 Charging,7.9
+2651,Solid-state,101.6,273,CHAdeMO,3.2
+2652,Nickel-cobalt-aluminum,117.8,238,Mobile Charging,0.6
+2653,Nickel-cobalt-aluminum,116.6,504,Ultra-Fast Charging (350 kW+),7.8
+2654,Lithium-titanate,68.8,157,Ultra-Fast Charging (350 kW+),11.8
+2655,Sodium-ion,148.1,524,Vehicle-to-Load (V2L),3.4
+2656,Lithium-ion,53,102,Inductive (Wireless) Charging,5.9
+2657,Zinc-air,22.8,470,Overhead Pantograph Charging,0.9
+2658,Lithium-titanate,134.2,410,NACS,3.8
+2659,Flow batteries,136,413,Level 1 Charging,6.4
+2660,Nickel-metal hydride,134.2,176,NACS,2.9
+2661,Nickel-cobalt-aluminum,42.7,335,CCS,11.5
+2662,Lithium-titanate,83.7,230,NACS,10.9
+2663,Sodium-ion,104.4,333,DC Fast Charging (DCFC),7.6
+2664,Calcium-ion,137.5,513,Level 1 Charging,10.4
+2665,Lithium-iron phosphate,79.8,278,Vehicle-to-Home (V2H),2.2
+2666,Solid-state,33.3,554,DC Fast Charging (DCFC),3.3
+2667,Lead-acid,128.2,516,Solar Charging,8.7
+2668,Magnesium-ion,61.8,460,Vehicle-to-Load (V2L),1.2
+2669,Lithium-iron phosphate,82.4,186,CCS,3.1
+2670,Solid-state,101.2,138,Vehicle-to-Home (V2H),10.2
+2671,Lead-acid,36,214,Inductive (Wireless) Charging,5.6
+2672,Aluminum-ion,50.2,282,Mobile Charging,8
+2673,Flow batteries,117,364,Mobile Charging,1.2
+2674,Nickel-manganese-cobalt,29.1,290,Vehicle-to-Grid (V2G),9.4
+2675,Flow batteries,135.7,457,Plug-in Hydrogen Refueling,3
+2676,Zinc-air,51.8,205,CCS,10.2
+2677,Nickel-cobalt-aluminum,32.7,375,CHAdeMO,10.6
+2678,Nickel-metal hydride,58.8,386,Battery Swapping,11.2
+2679,Lithium-titanate,135.8,296,Vehicle-to-Home (V2H),7.7
+2680,Sodium-ion,110.4,459,Mobile Charging,0.6
+2681,Lithium-titanate,78.1,480,DC Fast Charging (DCFC),10
+2682,Sodium-ion,74.6,508,Battery Swapping,0.6
+2683,Solid-state,49.1,231,DC Fast Charging (DCFC),4
+2684,Sodium-ion,60.2,231,Level 1 Charging,11.7
+2685,Magnesium-ion,47.4,474,Vehicle-to-Home (V2H),4.5
+2686,Nickel-cobalt-aluminum,27.9,594,Inductive (Wireless) Charging,6.6
+2687,Flow batteries,68.5,385,CCS,4.7
+2688,Lithium-sulfur,82.5,511,Vehicle-to-Load (V2L),10.4
+2689,Nickel-manganese-cobalt,72.3,129,NACS,4.7
+2690,Flow batteries,60.1,582,Ultra-Fast Charging (350 kW+),2.6
+2691,Nickel-manganese-cobalt,117.3,266,DC Fast Charging (DCFC),8.8
+2692,Sodium-ion,130.6,542,Battery Swapping,10.8
+2693,Nickel-manganese-cobalt,71.6,426,Vehicle-to-Load (V2L),5.3
+2694,Nickel-manganese-cobalt,35.9,164,Vehicle-to-Home (V2H),4
+2695,Nickel-metal hydride,69.5,229,CHAdeMO,4.4
+2696,Zinc-air,35.2,421,Overhead Pantograph Charging,10.2
+2697,Magnesium-ion,77.9,594,Vehicle-to-Load (V2L),11
+2698,Sodium-ion,67.9,244,Battery Swapping,7.6
+2699,Lithium-sulfur,143.5,236,Battery Swapping,4.6
+2700,Lithium-ion,150,560,Mobile Charging,11.4
+2701,Lead-acid,134.5,354,Level 2 Charging,11.4
+2702,Nickel-metal hydride,121.1,322,Solar Charging,3.5
+2703,Sodium-ion,49.1,353,Vehicle-to-Home (V2H),8.3
+2704,Nickel-cobalt-aluminum,95.7,111,Vehicle-to-Load (V2L),9.7
+2705,Nickel-manganese-cobalt,101.2,172,Inductive (Wireless) Charging,1.1
+2706,Lithium-sulfur,50.1,525,Vehicle-to-Grid (V2G),7.1
+2707,Aluminum-ion,99.4,160,CCS,7.9
+2708,Aluminum-ion,32.3,322,Overhead Pantograph Charging,7.3
+2709,Flow batteries,76.3,396,Battery Swapping,2.3
+2710,Nickel-cobalt-aluminum,51.5,468,Vehicle-to-Load (V2L),3.3
+2711,Magnesium-ion,30.3,332,Inductive (Wireless) Charging,9.9
+2712,Lithium-sulfur,107.8,459,Ultra-Fast Charging (350 kW+),8.4
+2713,Magnesium-ion,42.3,369,Vehicle-to-Grid (V2G),5.6
+2714,Zinc-air,69,417,Plug-in Hydrogen Refueling,4.1
+2715,Solid-state,111.6,104,Vehicle-to-Home (V2H),9.8
+2716,Lead-acid,140,249,Plug-in Hydrogen Refueling,3.1
+2717,Lithium-sulfur,68,326,Ultra-Fast Charging (350 kW+),11.5
+2718,Aluminum-ion,143.6,284,Vehicle-to-Grid (V2G),11.4
+2719,Nickel-manganese-cobalt,125.5,437,Level 2 Charging,1.5
+2720,Aluminum-ion,53.9,100,Vehicle-to-Grid (V2G),1.4
+2721,Lead-acid,113.8,527,Battery Swapping,10
+2722,Lithium-titanate,51.5,135,CCS,7.1
+2723,Zinc-air,76.8,125,Mobile Charging,3.5
+2724,Calcium-ion,53.9,129,Plug-in Hydrogen Refueling,7.3
+2725,Magnesium-ion,84.9,506,CCS,4
+2726,Aluminum-ion,83.7,385,NACS,5.1
+2727,Magnesium-ion,38.8,307,Vehicle-to-Load (V2L),9.6
+2728,Nickel-cobalt-aluminum,86.3,549,Vehicle-to-Home (V2H),1
+2729,Nickel-manganese-cobalt,104.9,122,Vehicle-to-Grid (V2G),6.7
+2730,Lithium-ion,60.7,162,Vehicle-to-Home (V2H),9.5
+2731,Aluminum-ion,78.3,342,Battery Swapping,2.6
+2732,Nickel-metal hydride,109.4,409,NACS,9.7
+2733,Nickel-manganese-cobalt,143.8,481,Overhead Pantograph Charging,7.7
+2734,Nickel-metal hydride,109.3,123,Overhead Pantograph Charging,7.3
+2735,Flow batteries,120.6,275,Plug-in Hydrogen Refueling,9.7
+2736,Calcium-ion,72.4,432,NACS,8.8
+2737,Nickel-cobalt-aluminum,77,293,DC Fast Charging (DCFC),5.5
+2738,Lithium-iron phosphate,147.5,292,Vehicle-to-Load (V2L),2.7
+2739,Zinc-air,77.1,509,Vehicle-to-Home (V2H),9.9
+2740,Flow batteries,20.6,299,Mobile Charging,6.7
+2741,Lithium-titanate,73.8,462,Vehicle-to-Load (V2L),10.7
+2742,Lithium-sulfur,81.1,164,Vehicle-to-Load (V2L),8
+2743,Aluminum-ion,101,574,Mobile Charging,11
+2744,Lead-acid,41.4,266,Level 1 Charging,5.6
+2745,Lithium-iron phosphate,62.8,229,Vehicle-to-Home (V2H),1.4
+2746,Lead-acid,23.2,483,DC Fast Charging (DCFC),9.9
+2747,Zinc-air,138.8,208,Inductive (Wireless) Charging,9.7
+2748,Lithium-iron phosphate,25.5,579,CHAdeMO,8.3
+2749,Lithium-sulfur,127.8,533,CCS,2.8
+2750,Lithium-sulfur,133.1,320,Solar Charging,2.9
+2751,Magnesium-ion,35.3,116,Mobile Charging,11.9
+2752,Flow batteries,118.8,165,Inductive (Wireless) Charging,0.6
+2753,Magnesium-ion,38.9,113,CHAdeMO,6.2
+2754,Flow batteries,39.9,121,NACS,5.8
+2755,Calcium-ion,92.1,369,CHAdeMO,2.8
+2756,Flow batteries,109.4,285,CCS,6.5
+2757,Aluminum-ion,148.1,189,DC Fast Charging (DCFC),10.6
+2758,Nickel-manganese-cobalt,96.4,259,NACS,4.7
+2759,Lithium-sulfur,33.1,412,Vehicle-to-Home (V2H),11.9
+2760,Lithium-sulfur,138.1,333,Level 2 Charging,11.4
+2761,Nickel-metal hydride,70.3,193,CCS,3
+2762,Flow batteries,108.9,213,Level 1 Charging,6.6
+2763,Lithium-titanate,134,369,Vehicle-to-Load (V2L),0.8
+2764,Lithium-titanate,30.1,519,NACS,11.7
+2765,Lead-acid,40.7,215,Level 2 Charging,4.5
+2766,Aluminum-ion,21.8,158,Mobile Charging,5.6
+2767,Aluminum-ion,64.7,537,Solar Charging,2.2
+2768,Nickel-manganese-cobalt,100.1,122,Vehicle-to-Grid (V2G),8.2
+2769,Lithium-iron phosphate,148.6,415,CHAdeMO,9.7
+2770,Zinc-air,73.6,320,DC Fast Charging (DCFC),1.2
+2771,Nickel-metal hydride,73.4,346,Ultra-Fast Charging (350 kW+),7.7
+2772,Magnesium-ion,76.4,245,Level 2 Charging,7
+2773,Lithium-ion,27.1,342,Battery Swapping,10.3
+2774,Sodium-ion,106.5,381,Vehicle-to-Home (V2H),8.4
+2775,Lithium-titanate,78.2,421,Plug-in Hydrogen Refueling,9.1
+2776,Lithium-sulfur,42.9,334,Vehicle-to-Grid (V2G),10.9
+2777,Nickel-manganese-cobalt,135.5,444,Battery Swapping,1.4
+2778,Sodium-ion,97.9,560,Vehicle-to-Load (V2L),11.1
+2779,Lithium-ion,124.8,150,Plug-in Hydrogen Refueling,11.1
+2780,Flow batteries,120.7,216,Ultra-Fast Charging (350 kW+),9.4
+2781,Nickel-manganese-cobalt,36.8,425,Plug-in Hydrogen Refueling,8.8
+2782,Nickel-manganese-cobalt,101.6,505,DC Fast Charging (DCFC),0.8
+2783,Solid-state,36.7,164,Vehicle-to-Grid (V2G),4.6
+2784,Sodium-ion,103.6,340,DC Fast Charging (DCFC),4.7
+2785,Lithium-iron phosphate,139.5,240,Level 2 Charging,8.7
+2786,Sodium-ion,141.3,376,Battery Swapping,10.4
+2787,Nickel-metal hydride,71.1,426,CHAdeMO,1.6
+2788,Lithium-ion,68.1,114,Vehicle-to-Home (V2H),0.8
+2789,Calcium-ion,119.2,203,CHAdeMO,5.4
+2790,Zinc-air,140.2,355,Vehicle-to-Load (V2L),8.1
+2791,Lithium-sulfur,54.8,543,Ultra-Fast Charging (350 kW+),11.8
+2792,Sodium-ion,98.4,395,Mobile Charging,2.4
+2793,Nickel-manganese-cobalt,94.6,496,Ultra-Fast Charging (350 kW+),1.3
+2794,Sodium-ion,102,172,CCS,9.7
+2795,Magnesium-ion,20.6,161,CHAdeMO,11.3
+2796,Lithium-iron phosphate,42.2,384,Vehicle-to-Home (V2H),7.8
+2797,Zinc-air,81.8,199,DC Fast Charging (DCFC),1.4
+2798,Lithium-iron phosphate,115.3,258,Solar Charging,3.4
+2799,Lithium-sulfur,107,383,Battery Swapping,0.6
+2800,Sodium-ion,20.7,327,Level 2 Charging,4.2
+2801,Nickel-metal hydride,149.6,344,Overhead Pantograph Charging,7.2
+2802,Lithium-titanate,63.3,466,Battery Swapping,3.2
+2803,Sodium-ion,74.5,428,Plug-in Hydrogen Refueling,4.7
+2804,Lithium-ion,123,510,CHAdeMO,3.3
+2805,Calcium-ion,68.8,526,Mobile Charging,3
+2806,Lithium-titanate,88.7,425,Vehicle-to-Grid (V2G),2.2
+2807,Lithium-ion,48.6,533,Vehicle-to-Home (V2H),1.2
+2808,Lithium-iron phosphate,33.5,394,Solar Charging,5.2
+2809,Lithium-ion,86.7,484,Vehicle-to-Load (V2L),6.7
+2810,Lithium-titanate,70.9,451,Vehicle-to-Grid (V2G),12
+2811,Lithium-sulfur,83.5,270,Overhead Pantograph Charging,0.7
+2812,Solid-state,56,374,NACS,10.9
+2813,Lithium-ion,93.8,443,NACS,8.1
+2814,Solid-state,86.6,138,Ultra-Fast Charging (350 kW+),4.9
+2815,Magnesium-ion,65.1,512,DC Fast Charging (DCFC),4.3
+2816,Magnesium-ion,129.4,405,Level 2 Charging,0.7
+2817,Solid-state,33.4,488,Vehicle-to-Home (V2H),8.4
+2818,Nickel-metal hydride,56.4,447,Level 1 Charging,3.4
+2819,Sodium-ion,28.4,502,Vehicle-to-Grid (V2G),1.6
+2820,Zinc-air,55.2,594,Overhead Pantograph Charging,10.4
+2821,Aluminum-ion,101,168,CHAdeMO,5.6
+2822,Zinc-air,105.6,284,Overhead Pantograph Charging,3.5
+2823,Nickel-cobalt-aluminum,98.3,498,CCS,8.2
+2824,Lead-acid,118.6,412,Vehicle-to-Load (V2L),3.3
+2825,Lithium-titanate,46.6,278,Vehicle-to-Load (V2L),9.6
+2826,Magnesium-ion,62.4,367,Level 2 Charging,12
+2827,Lithium-titanate,65.1,325,NACS,7.1
+2828,Nickel-cobalt-aluminum,22.5,130,Overhead Pantograph Charging,4.5
+2829,Sodium-ion,45.7,169,Vehicle-to-Home (V2H),9.1
+2830,Lithium-titanate,83.4,221,Vehicle-to-Home (V2H),11.9
+2831,Lithium-titanate,39.5,500,Ultra-Fast Charging (350 kW+),11.8
+2832,Solid-state,40.6,267,Plug-in Hydrogen Refueling,2.3
+2833,Zinc-air,109.3,297,CCS,2.9
+2834,Lithium-sulfur,64.2,118,Plug-in Hydrogen Refueling,8.1
+2835,Lead-acid,68.5,353,CCS,9.1
+2836,Zinc-air,69.8,253,DC Fast Charging (DCFC),2.1
+2837,Magnesium-ion,24,135,DC Fast Charging (DCFC),10.7
+2838,Lithium-ion,86,270,Solar Charging,3.5
+2839,Magnesium-ion,143.9,497,DC Fast Charging (DCFC),8.7
+2840,Sodium-ion,144.6,292,Battery Swapping,2.5
+2841,Solid-state,36,593,Plug-in Hydrogen Refueling,4.6
+2842,Magnesium-ion,117.7,257,NACS,8.6
+2843,Nickel-cobalt-aluminum,48.4,538,Battery Swapping,1.8
+2844,Lithium-ion,146.6,522,DC Fast Charging (DCFC),5.8
+2845,Lithium-iron phosphate,106.1,588,Level 2 Charging,2.5
+2846,Calcium-ion,111.6,517,Plug-in Hydrogen Refueling,0.9
+2847,Lithium-titanate,109.1,553,Overhead Pantograph Charging,3.1
+2848,Lithium-sulfur,69.1,161,Vehicle-to-Load (V2L),3.3
+2849,Lithium-ion,132.4,578,CHAdeMO,3.9
+2850,Lithium-ion,48.9,296,Ultra-Fast Charging (350 kW+),8.1
+2851,Lithium-sulfur,33.3,172,Plug-in Hydrogen Refueling,6.1
+2852,Aluminum-ion,148.1,544,Overhead Pantograph Charging,6.4
+2853,Lithium-ion,38.3,186,Level 1 Charging,1.6
+2854,Nickel-manganese-cobalt,146,161,NACS,5
+2855,Lithium-titanate,98.5,320,Overhead Pantograph Charging,5.4
+2856,Solid-state,135.7,524,Ultra-Fast Charging (350 kW+),4.9
+2857,Lithium-sulfur,63.8,132,Solar Charging,4.7
+2858,Nickel-manganese-cobalt,45.5,261,Vehicle-to-Grid (V2G),11
+2859,Sodium-ion,27.4,367,CCS,3.5
+2860,Lithium-ion,41.8,285,NACS,4.4
+2861,Aluminum-ion,29,289,Battery Swapping,8.3
+2862,Lithium-iron phosphate,47.5,534,Plug-in Hydrogen Refueling,7.6
+2863,Magnesium-ion,129.3,295,Solar Charging,4.9
+2864,Lithium-ion,116.8,139,Solar Charging,3.3
+2865,Lithium-ion,38.8,276,Mobile Charging,9.3
+2866,Magnesium-ion,73.2,526,CCS,6.7
+2867,Lithium-iron phosphate,22,321,Vehicle-to-Load (V2L),3
+2868,Nickel-manganese-cobalt,80.3,305,CHAdeMO,8.5
+2869,Nickel-manganese-cobalt,58.1,566,Solar Charging,4.5
+2870,Lithium-sulfur,51.9,495,Mobile Charging,9.1
+2871,Nickel-metal hydride,113.1,211,NACS,11.6
+2872,Magnesium-ion,146.8,573,Battery Swapping,1.2
+2873,Solid-state,103.3,483,Vehicle-to-Grid (V2G),0.9
+2874,Lithium-sulfur,114.8,210,Vehicle-to-Home (V2H),3.4
+2875,Magnesium-ion,76.9,387,CHAdeMO,5.3
+2876,Lithium-sulfur,35.7,522,Mobile Charging,11.2
+2877,Nickel-metal hydride,72.6,218,Vehicle-to-Load (V2L),7.8
+2878,Lead-acid,115.7,555,CCS,5.2
+2879,Magnesium-ion,143.5,166,Solar Charging,3.8
+2880,Magnesium-ion,125.1,527,Inductive (Wireless) Charging,1.4
+2881,Lithium-sulfur,64.1,432,Ultra-Fast Charging (350 kW+),0.5
+2882,Lithium-iron phosphate,92.9,598,Vehicle-to-Grid (V2G),6.9
+2883,Sodium-ion,136.7,437,NACS,4.7
+2884,Lithium-sulfur,29.4,471,Vehicle-to-Load (V2L),9.2
+2885,Lead-acid,29.2,273,Level 1 Charging,3.4
+2886,Zinc-air,49,487,Level 2 Charging,9.4
+2887,Sodium-ion,51.9,496,Vehicle-to-Grid (V2G),7.3
+2888,Nickel-cobalt-aluminum,124,444,NACS,3.2
+2889,Calcium-ion,39.6,554,Level 1 Charging,3.4
+2890,Nickel-metal hydride,47.8,329,Vehicle-to-Grid (V2G),8.6
+2891,Solid-state,111.8,308,Level 2 Charging,5.4
+2892,Lithium-titanate,128.5,290,Vehicle-to-Grid (V2G),9.5
+2893,Lithium-sulfur,145.4,358,Ultra-Fast Charging (350 kW+),5.3
+2894,Lithium-ion,56.7,237,Battery Swapping,4.2
+2895,Magnesium-ion,34.1,101,Ultra-Fast Charging (350 kW+),5.5
+2896,Solid-state,101.3,323,Level 1 Charging,6.4
+2897,Lithium-iron phosphate,101.2,205,DC Fast Charging (DCFC),3.2
+2898,Sodium-ion,61.5,254,Plug-in Hydrogen Refueling,2.9
+2899,Nickel-manganese-cobalt,47.3,467,Solar Charging,1.8
+2900,Nickel-manganese-cobalt,69.2,110,NACS,3.9
+2901,Calcium-ion,100.6,331,Mobile Charging,5.8
+2902,Calcium-ion,88.2,180,Solar Charging,7.5
+2903,Lead-acid,24.7,155,Solar Charging,7.9
+2904,Zinc-air,27.3,184,NACS,8
+2905,Calcium-ion,112.7,269,Vehicle-to-Home (V2H),7.5
+2906,Flow batteries,47.3,314,Overhead Pantograph Charging,5.6
+2907,Nickel-manganese-cobalt,82.8,294,Vehicle-to-Load (V2L),7.5
+2908,Zinc-air,74.8,260,Mobile Charging,9.5
+2909,Lithium-iron phosphate,92.8,477,CHAdeMO,4.8
+2910,Zinc-air,148.7,300,Level 1 Charging,6.5
+2911,Lithium-sulfur,99.3,451,Solar Charging,9.6
+2912,Lithium-ion,98.2,229,Vehicle-to-Home (V2H),10
+2913,Magnesium-ion,20.9,329,NACS,11.8
+2914,Nickel-manganese-cobalt,82.4,100,Vehicle-to-Load (V2L),4.6
+2915,Magnesium-ion,107.9,301,Ultra-Fast Charging (350 kW+),1.6
+2916,Solid-state,72.5,219,Ultra-Fast Charging (350 kW+),9.3
+2917,Lithium-ion,99.3,306,Plug-in Hydrogen Refueling,4.7
+2918,Solid-state,37.2,434,Vehicle-to-Home (V2H),4.9
+2919,Magnesium-ion,107.6,183,Level 1 Charging,4.6
+2920,Nickel-metal hydride,134,196,DC Fast Charging (DCFC),9.5
+2921,Nickel-manganese-cobalt,75,313,DC Fast Charging (DCFC),8
+2922,Solid-state,91.7,231,Mobile Charging,5.6
+2923,Solid-state,21.8,139,Solar Charging,1.2
+2924,Lithium-sulfur,75.8,132,CHAdeMO,9.9
+2925,Calcium-ion,118,416,NACS,8.6
+2926,Flow batteries,113,519,Vehicle-to-Grid (V2G),1.9
+2927,Lithium-titanate,79.1,270,DC Fast Charging (DCFC),3.3
+2928,Aluminum-ion,145.9,442,Battery Swapping,1.1
+2929,Solid-state,101.2,500,Overhead Pantograph Charging,9.4
+2930,Magnesium-ion,97.5,228,Battery Swapping,10.8
+2931,Zinc-air,66.1,573,Level 2 Charging,11.5
+2932,Lithium-titanate,101,550,Plug-in Hydrogen Refueling,2.1
+2933,Nickel-manganese-cobalt,68.3,507,Overhead Pantograph Charging,8.9
+2934,Lead-acid,85.6,280,Vehicle-to-Home (V2H),6.8
+2935,Nickel-manganese-cobalt,87.4,106,DC Fast Charging (DCFC),6.9
+2936,Magnesium-ion,58,544,Vehicle-to-Grid (V2G),2.3
+2937,Lead-acid,78.8,268,Level 2 Charging,9.6
+2938,Aluminum-ion,80.2,247,Inductive (Wireless) Charging,7.2
+2939,Magnesium-ion,53.2,558,Battery Swapping,0.6
+2940,Magnesium-ion,45.5,303,Vehicle-to-Load (V2L),11
+2941,Flow batteries,74.6,347,DC Fast Charging (DCFC),11.9
+2942,Aluminum-ion,136.4,484,Inductive (Wireless) Charging,0.6
+2943,Calcium-ion,144.1,251,DC Fast Charging (DCFC),9.8
+2944,Nickel-cobalt-aluminum,83.8,208,CHAdeMO,10.3
+2945,Nickel-manganese-cobalt,138,370,NACS,1.3
+2946,Flow batteries,32.4,131,Overhead Pantograph Charging,9.3
+2947,Nickel-cobalt-aluminum,101.7,545,Mobile Charging,7.8
+2948,Lead-acid,56.7,466,Plug-in Hydrogen Refueling,4.1
+2949,Nickel-metal hydride,23.4,337,Level 2 Charging,0.5
+2950,Lithium-iron phosphate,88.8,274,DC Fast Charging (DCFC),1.7
+2951,Lithium-iron phosphate,109.1,543,Level 1 Charging,6.8
+2952,Nickel-metal hydride,120.3,357,Level 1 Charging,4
+2953,Solid-state,111.3,364,CCS,0.5
+2954,Lithium-iron phosphate,127.7,331,CCS,1.3
+2955,Sodium-ion,133.7,530,Solar Charging,5.4
+2956,Magnesium-ion,117.9,448,Overhead Pantograph Charging,1.5
+2957,Flow batteries,114.2,551,Overhead Pantograph Charging,8.7
+2958,Lithium-iron phosphate,27.5,257,Vehicle-to-Load (V2L),11
+2959,Magnesium-ion,121.1,496,Solar Charging,1.6
+2960,Lithium-ion,106,505,Inductive (Wireless) Charging,0.8
+2961,Sodium-ion,76.6,131,Vehicle-to-Load (V2L),5.6
+2962,Magnesium-ion,89.8,481,Solar Charging,3.3
+2963,Zinc-air,113.5,426,NACS,7.2
+2964,Nickel-manganese-cobalt,137.8,214,CCS,10.4
+2965,Lithium-sulfur,123.7,418,Vehicle-to-Home (V2H),11.7
+2966,Magnesium-ion,34.9,403,NACS,1.3
+2967,Lithium-titanate,101.4,267,Level 1 Charging,7.7
+2968,Lithium-sulfur,35,379,Ultra-Fast Charging (350 kW+),1.9
+2969,Sodium-ion,36.5,522,CCS,4.9
+2970,Solid-state,103.8,396,CCS,0.9
+2971,Lead-acid,52.6,386,Level 1 Charging,8.3
+2972,Calcium-ion,128.4,102,CCS,8.3
+2973,Lithium-titanate,40.8,389,Level 2 Charging,10.4
+2974,Nickel-cobalt-aluminum,52.7,164,Vehicle-to-Grid (V2G),7.9
+2975,Lithium-ion,92.1,286,Level 1 Charging,8.2
+2976,Lead-acid,146.4,543,Vehicle-to-Load (V2L),7.7
+2977,Zinc-air,115.9,581,NACS,2.9
+2978,Lithium-ion,77.9,529,CHAdeMO,5.7
+2979,Magnesium-ion,130.8,256,NACS,8.6
+2980,Solid-state,26.9,172,Ultra-Fast Charging (350 kW+),11.3
+2981,Lead-acid,126.1,149,Vehicle-to-Grid (V2G),1.4
+2982,Lithium-titanate,96.1,442,Level 2 Charging,11.8
+2983,Zinc-air,121.5,360,CCS,3.7
+2984,Lithium-sulfur,89.7,347,Battery Swapping,7.2
+2985,Flow batteries,44.1,110,Level 2 Charging,6.9
+2986,Aluminum-ion,100.2,269,Overhead Pantograph Charging,11.9
+2987,Lithium-ion,33.5,455,CCS,2
+2988,Nickel-metal hydride,146.5,276,CCS,7.1
+2989,Calcium-ion,57.3,345,Vehicle-to-Load (V2L),3.8
+2990,Lithium-iron phosphate,54.7,335,Solar Charging,7.7
+2991,Aluminum-ion,64.8,227,Inductive (Wireless) Charging,11.8
+2992,Nickel-cobalt-aluminum,92.5,581,Plug-in Hydrogen Refueling,10.6
+2993,Nickel-manganese-cobalt,34.5,123,Level 2 Charging,1.1
+2994,Flow batteries,101.5,360,Solar Charging,3.8
+2995,Lithium-ion,75.6,565,Mobile Charging,8
+2996,Zinc-air,56.3,191,CCS,8.1
+2997,Lithium-titanate,110.2,326,Vehicle-to-Home (V2H),3.9
+2998,Solid-state,149.3,214,Vehicle-to-Grid (V2G),7.1
+2999,Nickel-cobalt-aluminum,30.6,423,DC Fast Charging (DCFC),8.6
+3000,Sodium-ion,41.1,134,Vehicle-to-Home (V2H),10.1
+3001,Lithium-ion,38.2,421,Solar Charging,11.2
+3002,Lithium-ion,84.5,223,Vehicle-to-Home (V2H),10.5
+3003,Nickel-metal hydride,125.4,454,Level 2 Charging,11.6
+3004,Solid-state,138.4,244,CHAdeMO,6.4
+3005,Lithium-ion,145.1,101,Vehicle-to-Load (V2L),5
+3006,Lithium-sulfur,29.6,306,NACS,7.3
+3007,Sodium-ion,131.1,148,Vehicle-to-Load (V2L),2
+3008,Flow batteries,134.9,172,Ultra-Fast Charging (350 kW+),4.3
+3009,Zinc-air,22.2,236,Overhead Pantograph Charging,8
+3010,Lead-acid,123.3,440,Ultra-Fast Charging (350 kW+),3
+3011,Zinc-air,121.1,252,Plug-in Hydrogen Refueling,7.2
+3012,Flow batteries,70.5,395,Solar Charging,0.6
+3013,Lead-acid,97.4,413,Level 2 Charging,7.9
+3014,Lithium-iron phosphate,22.4,304,Ultra-Fast Charging (350 kW+),8.4
+3015,Magnesium-ion,124.4,532,Solar Charging,11.8
+3016,Lithium-ion,113.1,167,Solar Charging,11.2
+3017,Lithium-ion,23.5,197,CHAdeMO,5.6
+3018,Sodium-ion,49.9,182,Mobile Charging,11.7
+3019,Lithium-ion,136.9,375,Vehicle-to-Home (V2H),5.8
+3020,Lithium-iron phosphate,136.5,221,Plug-in Hydrogen Refueling,1.1
+3021,Nickel-metal hydride,96.4,249,Mobile Charging,9.8
+3022,Lithium-sulfur,76.2,404,NACS,2.4

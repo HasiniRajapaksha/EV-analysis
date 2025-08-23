@@ -1,0 +1,3023 @@
+Vehicle_ID,Manufacturer,Model,Year,Country_of_Manufacture,Color
+1,Acura,ZDX (with GM Ultium),2015,UK,Matte White
+2,Lamborghini,Revuelto (PHEV),2025,Netherlands,White
+3,NIO,ET7,2020,UK,Beige
+4,Audi,e-tron,2025,Argentina,Sunset Orange
+5,Acura,ZDX (with GM Ultium),2023,United Arab Emirates,Ice Silver
+6,XPeng,G9,2016,Australia,Ruby Red
+7,Jeep,Recon (upcoming),2024,Sweden,Orange
+8,Changan,Q05,2019,Mexico,Bronze
+9,Citroen,C4,2023,Sweden,Metallic Silver
+10,Rimac,Nevera,2015,UK,Matte Green
+11,Volkswagen,ID.Buzz,2022,Denmark,Stealth Gray
+12,Jaguar,I-PACE,2018,South Korea,Cosmic Purple
+13,Mini,Mini Cooper SE,2018,Denmark,Tan
+14,BMW,iX3,2025,Denmark,Metallic Silver
+15,Faraday Future,FF 91,2015,Belgium,Rose Gold
+16,Tesla,Model Y,2019,United Arab Emirates,Burgundy
+17,Maserati,Grecale Folgore,2020,Norway,Rose Gold
+18,Polestar,Polestar 2,2024,Hungary,Cosmic Purple
+19,Tesla,Model Y,2024,China,Teal
+20,Faraday Future,FF 91,2025,France,Orange
+21,Skoda,Elroq (upcoming),2019,Japan,Bronze
+22,Geely,Emgrand EV,2021,United Arab Emirates,Matte Blue
+23,Skoda,Enyaq,2025,Netherlands,Forest Green
+24,Faraday Future,FF 91,2019,Denmark,Crimson Red
+25,Mini,Mini Electric,2021,Saudi Arabia,Sky Blue
+26,Chevrolet,Bolt EV,2024,India,Orange
+27,Skoda,Elroq (upcoming),2025,Poland,Orange
+28,Lucid Motors,Lucid Gravity,2025,USA,Matte Gray
+29,Geely,Geometry C,2025,Finland,Lime Green
+30,Chevrolet,Bolt EUV,2022,India,Metallic Silver
+31,Porsche,Cayenne Electric (upcoming),2015,South Africa,Lime Green
+32,Lamborghini,Lanzador (upcoming EV),2017,South Africa,Bronze
+33,Toyota,Lexus RZ,2020,Switzerland,Cosmic Purple
+34,Li Auto,MEGA,2024,India,Magenta
+35,Volvo,EX30,2021,Finland,Gray
+36,Changan,SL03,2015,Portugal,Beige
+37,Maserati,Grecale Folgore,2020,Germany,Metallic Silver
+38,Seat,Avenger,2020,France,Magenta
+39,Lucid Motors,Lucid Air,2024,Ireland,Sky Blue
+40,MG,MG5 EV,2015,Australia,Titanium
+41,Faraday Future,FF 91,2022,Portugal,Green
+42,Nissan,Ariya,2020,Portugal,Ice Silver
+43,Lamborghini,Revuelto (PHEV),2022,Belgium,Ice Silver
+44,Lamborghini,Lanzador (upcoming EV),2020,Canada,Purple
+45,Jeep,Wagoneer S,2016,Italy,Matte White
+46,Tesla,Cybertruck,2019,Canada,Aurora Blue
+47,Ford,E-Transit,2016,South Africa,Crimson Red
+48,GMC,Hummer EV Pickup,2024,Netherlands,Green
+49,Cadillac,Celestiq,2019,Austria,Sky Blue
+50,Maserati,Grecale Folgore,2025,Ireland,Magenta
+51,XPeng,G9,2023,Spain,Gun Metal
+52,Citroen,Ami,2019,Norway,Bronze
+53,Li Auto,L9,2020,Thailand,Lime Green
+54,Jaguar,I-PACE,2023,Finland,Turquoise
+55,Volkswagen,ID.5,2022,Netherlands,Forest Green
+56,Jaguar,I-PACE,2022,Belgium,Aurora Blue
+57,Toyota,Lexus RZ,2020,Israel,Matte Blue
+58,Lamborghini,Lanzador (upcoming EV),2022,Indonesia,Navy Blue
+59,VinFast,VF 7,2022,France,Candy Apple Red
+60,Great Wall Motors,ORA Lightning Cat,2020,Saudi Arabia,Rose Gold
+61,GMC,Hummer EV Pickup,2018,France,Yellow
+62,Mazda,Mazda EV (upcoming models),2020,Norway,Pearl White
+63,Ford,F-150 Lightning,2022,Saudi Arabia,Copper
+64,Honda,Honda Prologue,2019,Singapore,Teal
+65,Tesla,Cybertruck,2025,Austria,Navy Blue
+66,Kia,Soul EV,2019,Hungary,Copper
+67,Toyota,bZ4X,2019,Australia,Orange
+68,BYD,Han EV,2021,Israel,Gold
+69,GMC,Hummer EV SUV,2024,Canada,Tan
+70,Polestar,Polestar 3,2021,France,Tan
+71,Geely,Geometry C,2018,South Korea,Teal
+72,Rivian,EDV (Electric Delivery Van),2025,Switzerland,Matte Green
+73,Opel,Corsa-e,2024,Germany,Orange
+74,Porsche,Panamera EV,2015,Argentina,Navy Blue
+75,VinFast,VFe34 (discontinued),2019,France,Brown
+76,Audi,e-tron GT,2019,Australia,Copper
+77,Rivian,R1S,2022,Vietnam,Purple
+78,Hyundai,Kona Electric,2021,United Arab Emirates,Matte Gray
+79,Cadillac,Celestiq,2020,Brazil,Yellow
+80,Opel,Grandland Electric,2024,Poland,Stealth Gray
+81,Ford,Mustang Mach-E,2016,Hungary,Magenta
+82,BMW,iX3,2016,Turkey,Electric Blue
+83,Lotus,Evija,2019,Italy,Electric Blue
+84,Volkswagen,ID.6,2023,Vietnam,Silver
+85,XPeng,P5,2019,Argentina,Sunset Orange
+86,Hyundai,Ioniq 7 (upcoming),2019,Turkey,Matte Black
+87,Kia,Niro EV,2019,Australia,Champagne
+88,Rimac,Nevera,2022,Turkey,Teal
+89,Audi,e-tron,2024,Denmark,Ruby Red
+90,Dacia,Jogger Hybrid,2023,Netherlands,Sapphire Blue
+91,VinFast,VF 8,2016,Ireland,Lime Green
+92,Seat,Avenger,2017,Italy,Pink
+93,BYD,Han EV,2020,Italy,Crimson Red
+94,Mini,Mini Cooper SE,2024,Netherlands,Sapphire Blue
+95,Mazda,Mazda EV (upcoming models),2018,Singapore,Sky Blue
+96,Mercedes-Benz,EQB,2024,South Africa,Yellow
+97,Zeekr,Zeekr 001,2018,Belgium,Turquoise
+98,Genesis,GV80 Electric,2017,New Zealand,Cosmic Purple
+99,Lamborghini,Lanzador (upcoming EV),2016,Finland,Burgundy
+100,MG,MG4 Electric,2017,UK,Lime Green
+101,Nissan,Ariya,2022,Brazil,Red
+102,Chevrolet,Volt (PHEV),2023,Italy,Midnight Black
+103,VinFast,VF 7,2015,Japan,Gold
+104,Jaguar,I-PACE,2021,Russia,Ice Silver
+105,Zeekr,Zeekr X,2023,Vietnam,Gun Metal
+106,Zeekr,Zeekr 009,2025,Netherlands,Sky Blue
+107,Audi,e-tron GT,2025,Argentina,Turquoise
+108,Toyota,bZ4X,2016,Spain,Navy Blue
+109,Volkswagen,ID.2all,2016,Hungary,Rose Gold
+110,Dacia,Jogger Hybrid,2020,United Arab Emirates,Turquoise
+111,Subaru,Solterra,2022,Malaysia,Red
+112,Opel,Corsa-e,2021,Hungary,Pearl White
+113,Lucid Motors,Lucid DreamDrive,2023,Sweden,Matte Blue
+114,Hyundai,Kona Electric,2025,Germany,Emerald Green
+115,Faraday Future,FF 91,2019,Mexico,Electric Blue
+116,Citroen,??-Spacetourer,2023,France,Charcoal
+117,Canoo,Pickup,2024,Poland,Champagne
+118,Fisker,Ocean,2015,Vietnam,Yellow
+119,XPeng,P7,2024,United Arab Emirates,Stealth Gray
+120,VinFast,VF 8,2023,Mexico,Gray
+121,GMC,Hummer EV SUV,2017,Saudi Arabia,Graphite Gray
+122,Jaguar,I-PACE,2024,Israel,Ruby Red
+123,Canoo,MPDV,2018,Sweden,Tan
+124,Volkswagen,ID.7,2018,Australia,Midnight Black
+125,Great Wall Motors,ORA Good Cat,2018,Russia,Ice Silver
+126,Jaguar,I-PACE,2021,UK,Cosmic Purple
+127,Toyota,Lexus UX 300e,2019,Austria,Matte Black
+128,Opel,Corsa-e,2015,New Zealand,Aurora Blue
+129,Maserati,Grecale Folgore,2017,Norway,Champagne
+130,Kia,EV6,2019,Australia,Graphite Gray
+131,Porsche,Taycan,2020,Vietnam,Cream
+132,Rimac,Nevera,2015,Singapore,Volcanic Yellow
+133,Subaru,Solterra,2021,Argentina,Copper
+134,Li Auto,MEGA,2023,UK,Burgundy
+135,BMW,iX1,2023,Switzerland,Orange
+136,MG,MG ES5,2022,USA,Platinum
+137,BMW,i3,2022,Indonesia,Ruby Red
+138,Skoda,Elroq (upcoming),2023,Italy,Matte Black
+139,Renault,Kangoo E-Tech,2023,Canada,Volcanic Yellow
+140,Audi,e-tron,2024,Austria,Candy Apple Red
+141,Ferrari,Ferrari EV (2025+),2025,Poland,Tan
+142,Mahindra,XUV400,2020,India,Magenta
+143,BMW,iX1,2021,UK,Ruby Red
+144,NIO,ET5,2016,Poland,Pink
+145,Citroen,??-Spacetourer,2018,Czech Republic,Navy Blue
+146,Changan,SL03,2022,Austria,Matte Green
+147,Ford,F-150 Lightning,2020,Mexico,Sky Blue
+148,Renault,Scenic E-Tech,2017,South Korea,Ruby Red
+149,Acura,ZDX (with GM Ultium),2016,Finland,Lime Green
+150,Tesla,Model S,2023,Vietnam,Sky Blue
+151,Lucid Motors,Lucid DreamDrive,2023,Singapore,Sunset Orange
+152,XPeng,P5,2021,Vietnam,Rose Gold
+153,Volvo,C40 Recharge,2024,Singapore,Matte White
+154,Citroen,Ami,2021,Saudi Arabia,Sky Blue
+155,Peugeot,e-3008,2015,Thailand,Gun Metal
+156,Fisker,Pear (upcoming),2021,Belgium,Cobalt Blue
+157,NIO,ES8,2020,Italy,Yellow
+158,Nissan,Leaf,2020,India,Tan
+159,Mercedes-Benz,EQS SUV,2017,Indonesia,Bronze
+160,GMC,Hummer EV Pickup,2022,Mexico,Cobalt Blue
+161,Rimac,Nevera,2022,Singapore,Champagne
+162,Ferrari,SF90 Stradale (PHEV),2024,Switzerland,Cosmic Purple
+163,Mahindra,XUV400,2025,Malaysia,Red
+164,Chevrolet,Volt (PHEV),2023,Netherlands,Teal
+165,VinFast,VF 9,2016,Israel,Navy Blue
+166,Li Auto,L7,2016,South Africa,Electric Blue
+167,Subaru,Solterra,2016,Belgium,Racing Red
+168,Acura,ZDX (with GM Ultium),2017,Israel,Candy Apple Red
+169,Kia,Niro EV,2020,Hungary,Emerald Green
+170,Porsche,Panamera EV,2024,Argentina,Midnight Black
+171,Porsche,Cayenne Electric (upcoming),2025,Norway,Gray
+172,Lucid Motors,Lucid Gravity,2023,Netherlands,Champagne
+173,Volvo,EX30,2017,Portugal,Orange
+174,Rivian,R1S,2016,Spain,Candy Apple Red
+175,Jeep,Wagoneer S,2024,South Korea,Cobalt Blue
+176,Ferrari,Roma PHEV,2023,Portugal,Blue
+177,Citroen,Ami,2021,UK,Red
+178,Rimac,Nevera,2016,Switzerland,Cream
+179,Ferrari,SF90 Stradale (PHEV),2024,Australia,Titanium
+180,Lucid Motors,Lucid DreamDrive,2017,Argentina,Green
+181,Genesis,GV60,2016,USA,Candy Apple Red
+182,Audi,e-tron GT,2021,India,Gray
+183,Tesla,Cybertruck,2025,Finland,Tan
+184,NIO,ES8,2021,Ireland,Gun Metal
+185,Lotus,Evija,2023,Russia,Forest Green
+186,Rimac,Nevera,2021,China,Aurora Blue
+187,MG,MG5 EV,2025,Saudi Arabia,Matte White
+188,Maserati,GranTurismo Folgore,2021,Belgium,Rose Gold
+189,Subaru,Solterra,2016,South Africa,Matte Black
+190,Jaguar,I-PACE,2020,China,Emerald Green
+191,Mercedes-Benz,EQA,2016,USA,Silver
+192,Faraday Future,FF 91,2018,Canada,Turquoise
+193,Changan,Deepal S07,2019,Poland,Burgundy
+194,Maserati,Grecale Folgore,2017,USA,Ice Silver
+195,Rivian,EDV (Electric Delivery Van),2018,South Africa,Crimson Red
+196,Volkswagen,ID.Buzz,2021,Spain,Copper
+197,Volvo,XC40 Recharge,2018,Hungary,Sunset Orange
+198,Honda,e:Ny1,2016,UK,Charcoal
+199,Canoo,Lifestyle Vehicle,2015,Italy,Burgundy
+200,Canoo,Pickup,2020,China,Platinum
+201,Faraday Future,FF 91,2016,Thailand,Volcanic Yellow
+202,Toyota,Lexus RZ,2017,New Zealand,Matte Gray
+203,Acura,ZDX (with GM Ultium),2021,India,Purple
+204,Lotus,Emeya,2024,South Korea,Platinum
+205,Porsche,Macan EV,2024,Brazil,Ice Silver
+206,Porsche,Cayenne Electric (upcoming),2015,Finland,Pink
+207,Ford,F-150 Lightning,2016,Israel,Cream
+208,Mahindra,Born Electric (upcoming range),2017,India,Midnight Black
+209,Opel,Grandland Electric,2015,Sweden,Champagne
+210,Mini,Mini Aceman,2020,France,Burgundy
+211,NIO,ES8,2023,Japan,Rose Gold
+212,Mercedes-Benz,EQS,2023,Netherlands,Ruby Red
+213,Seat,Avenger,2025,Sweden,Champagne
+214,Lucid Motors,Lucid Air,2015,Thailand,Burgundy
+215,NIO,ES8,2017,South Korea,Matte Green
+216,Li Auto,L8,2023,Singapore,Aurora Blue
+217,Ferrari,Ferrari EV (2025+),2024,Switzerland,Pearl White
+218,Canoo,MPDV,2017,Hungary,Matte Gray
+219,VinFast,VF 9,2016,Czech Republic,Yellow
+220,Cadillac,Celestiq,2015,Belgium,Pink
+221,Canoo,Pickup,2019,Malaysia,Magenta
+222,Geely,Geometry A,2021,China,Pearl White
+223,Porsche,Macan EV,2018,Portugal,Metallic Silver
+224,BYD,Dolphin,2024,Spain,Pearl White
+225,Ferrari,SF90 Stradale (PHEV),2018,USA,Navy Blue
+226,Cadillac,Celestiq,2025,South Africa,Magenta
+227,Genesis,GV80 Electric,2019,Spain,Bronze
+228,XPeng,G9,2025,Thailand,Tan
+229,Dacia,Jogger Hybrid,2025,United Arab Emirates,Titanium
+230,Skoda,Enyaq Coupe,2025,Spain,Turquoise
+231,GMC,Hummer EV Pickup,2022,Sweden,Rose Gold
+232,Rimac,Nevera,2016,Switzerland,Bronze
+233,Zeekr,Zeekr 007,2021,USA,Turquoise
+234,Seat,Avenger,2019,Czech Republic,Magenta
+235,Mahindra,Born Electric (upcoming range),2018,Switzerland,Gray
+236,Acura,ZDX (with GM Ultium),2023,Canada,Ice Silver
+237,Seat,Avenger,2019,France,Tan
+238,Cadillac,Lyriq,2019,United Arab Emirates,Silver
+239,Mini,Mini Electric,2016,France,Red
+240,BMW,i3,2017,Canada,Racing Red
+241,Genesis,GV70 Electric,2020,Mexico,Platinum
+242,Genesis,GV70 Electric,2016,Singapore,Aurora Blue
+243,Renault,5 E-Tech,2022,Hungary,Ruby Red
+244,Ferrari,SF90 Stradale (PHEV),2025,Brazil,Aurora Blue
+245,Genesis,GV70 Electric,2023,Mexico,Forest Green
+246,Hyundai,Ioniq 7 (upcoming),2022,Germany,Champagne
+247,GMC,Hummer EV SUV,2023,Austria,Blue
+248,Geely,Geometry A,2016,Czech Republic,Cobalt Blue
+249,Volkswagen,ID.2all,2021,Australia,Electric Blue
+250,Skoda,Elroq (upcoming),2016,South Korea,Racing Red
+251,Jeep,Grand Cherokee 4xe (PHEV),2017,Belgium,Gun Metal
+252,Cadillac,Optiq (upcoming),2023,Switzerland,Emerald Green
+253,Genesis,GV70 Electric,2023,Singapore,Matte Blue
+254,Faraday Future,FF 91,2023,Netherlands,Stealth Gray
+255,Citroen,Ami,2015,Turkey,Forest Green
+256,VinFast,VF 8,2023,Austria,Candy Apple Red
+257,Cadillac,Lyriq,2018,Canada,Graphite Gray
+258,Tesla,Model X,2022,Finland,Navy Blue
+259,Rimac,Nevera,2017,Brazil,Green
+260,Lotus,Emeya,2023,Finland,Forest Green
+261,NIO,ES7,2023,Japan,Champagne
+262,Maserati,Grecale Folgore,2025,Switzerland,Yellow
+263,Skoda,Enyaq,2015,United Arab Emirates,Gold
+264,Acura,ZDX (with GM Ultium),2021,China,Sapphire Blue
+265,Mazda,Mazda EV (upcoming models),2024,New Zealand,Black
+266,Ford,E-Transit,2025,Sweden,Matte Gray
+267,Subaru,Solterra,2020,Spain,Titanium
+268,Genesis,GV60,2019,Brazil,Pink
+269,Rimac,Nevera,2022,Vietnam,Purple
+270,BYD,Tang EV,2025,United Arab Emirates,Champagne
+271,Maserati,Grecale Folgore,2019,Germany,Emerald Green
+272,Maserati,GranTurismo Folgore,2025,Czech Republic,Rose Gold
+273,Tesla,Roadster (upcoming),2018,Norway,Pearl White
+274,Chevrolet,Bolt EUV,2022,Argentina,Burgundy
+275,Dacia,Bigster EV (upcoming),2019,China,Ruby Red
+276,Mahindra,Born Electric (upcoming range),2024,Portugal,Ruby Red
+277,Faraday Future,FF 91,2016,Germany,Tan
+278,Ferrari,SF90 Stradale (PHEV),2015,Czech Republic,Black
+279,Li Auto,L8,2024,Ireland,Sunset Orange
+280,MG,MG ES5,2017,Canada,Stealth Gray
+281,Genesis,G80 Electric,2023,India,Burgundy
+282,Volkswagen,ID.5,2022,Spain,Tan
+283,Lotus,Eletre,2021,Israel,Brown
+284,Li Auto,MEGA,2017,Thailand,Navy Blue
+285,Rivian,EDV (Electric Delivery Van),2021,UK,White
+286,BYD,Han EV,2024,Ireland,Cosmic Purple
+287,Lucid Motors,Lucid DreamDrive,2023,Belgium,Turquoise
+288,XPeng,P5,2024,United Arab Emirates,Volcanic Yellow
+289,Changan,Deepal S07,2024,Canada,Pink
+290,Geely,Geometry C,2024,Israel,Sunset Orange
+291,Seat,Avenger,2020,UK,Copper
+292,Rimac,Nevera,2018,Belgium,Racing Red
+293,Opel,Corsa-e,2016,Japan,Matte White
+294,Porsche,Panamera EV,2021,Japan,Matte White
+295,Lotus,Emeya,2020,Finland,Turquoise
+296,Porsche,Cayenne Electric (upcoming),2021,Norway,Candy Apple Red
+297,Lamborghini,Lanzador (upcoming EV),2021,Russia,Tan
+298,Subaru,Solterra,2023,Spain,Platinum
+299,Lamborghini,Lanzador (upcoming EV),2020,Norway,Matte White
+300,NIO,ES7,2022,Finland,Tan
+301,Mazda,Mazda EV (upcoming models),2024,Israel,Racing Red
+302,Polestar,Polestar 4,2016,South Korea,Matte Gray
+303,GMC,Hummer EV Pickup,2016,Italy,Candy Apple Red
+304,Great Wall Motors,ORA Lightning Cat,2023,Israel,Midnight Black
+305,Acura,ZDX (with GM Ultium),2020,Sweden,Gold
+306,Great Wall Motors,ORA Ballet Cat,2015,Czech Republic,Cobalt Blue
+307,Polestar,Polestar 3,2025,Finland,Matte Black
+308,Lucid Motors,Lucid Air,2017,Russia,Sapphire Blue
+309,Mazda,Mazda EV (upcoming models),2017,Mexico,Electric Blue
+310,Citroen,??-C4,2015,India,Gold
+311,Peugeot,e-208,2018,Hungary,Magenta
+312,Great Wall Motors,ORA Ballet Cat,2019,Hungary,Brown
+313,Chevrolet,Equinox EV,2022,Finland,Sky Blue
+314,Volkswagen,ID.6,2018,Germany,Metallic Silver
+315,Geely,Emgrand EV,2019,Portugal,Sunset Orange
+316,Geely,Geometry C,2019,Argentina,Sapphire Blue
+317,Lucid Motors,Lucid DreamDrive,2025,France,Orange
+318,Kia,EV9,2018,Israel,Ice Silver
+319,Mahindra,XUV400,2022,Finland,Blue
+320,Kia,Soul EV,2018,United Arab Emirates,Matte Gray
+321,Mini,Mini Cooper SE,2016,Ireland,Matte White
+322,Citroen,Ami,2021,United Arab Emirates,Navy Blue
+323,Chevrolet,Volt (PHEV),2024,Hungary,Electric Blue
+324,Lamborghini,Revuelto (PHEV),2016,Austria,Forest Green
+325,Rimac,Nevera,2017,Singapore,Volcanic Yellow
+326,Opel,Corsa-e,2025,Saudi Arabia,Purple
+327,Citroen,Ami,2024,UK,Pink
+328,Zeekr,Zeekr X,2017,South Africa,Sapphire Blue
+329,Jaguar,I-PACE,2021,Netherlands,Magenta
+330,Chevrolet,Bolt EUV,2018,Sweden,Sapphire Blue
+331,Great Wall Motors,ORA Good Cat,2020,New Zealand,Matte Gray
+332,Lotus,Eletre,2019,China,White
+333,Mazda,Mazda EV (upcoming models),2018,Saudi Arabia,Gun Metal
+334,Polestar,Polestar 4,2020,Poland,Emerald Green
+335,Canoo,Lifestyle Vehicle,2023,South Africa,Beige
+336,Ford,Explorer EV (Europe),2019,Denmark,Matte White
+337,Genesis,GV70 Electric,2020,Germany,Charcoal
+338,Opel,Corsa-e,2016,Austria,Gun Metal
+339,Cadillac,Celestiq,2025,Japan,Crimson Red
+340,Audi,e-tron GT,2022,Thailand,Brown
+341,Peugeot,e-208,2023,Thailand,Matte White
+342,Mazda,Mazda EV (upcoming models),2021,South Korea,Sapphire Blue
+343,Porsche,Macan EV,2021,Australia,Metallic Silver
+344,Renault,Megane E-Tech,2016,Turkey,Volcanic Yellow
+345,Mini,Mini Electric,2017,Malaysia,Navy Blue
+346,Citroen,??-Spacetourer,2015,Israel,Electric Blue
+347,Polestar,Polestar 4,2024,Brazil,Ruby Red
+348,Hyundai,Kona Electric,2016,Singapore,Gun Metal
+349,Opel,Mokka-e,2020,Czech Republic,Red
+350,Rivian,EDV (Electric Delivery Van),2018,Czech Republic,Burgundy
+351,GMC,Hummer EV SUV,2023,Denmark,Copper
+352,Li Auto,MEGA,2015,Spain,Copper
+353,Pininfarina,Battista,2021,Mexico,Titanium
+354,Ford,Explorer EV (Europe),2023,Poland,Matte Black
+355,Pininfarina,Battista,2016,Netherlands,Titanium
+356,Chevrolet,Volt (PHEV),2021,South Africa,Electric Blue
+357,Geely,Emgrand EV,2015,South Africa,Volcanic Yellow
+358,Renault,Megane E-Tech,2022,Ireland,Sky Blue
+359,Peugeot,e-3008,2015,Saudi Arabia,Bronze
+360,Tesla,Cybertruck,2023,Czech Republic,Cosmic Purple
+361,BMW,iX,2015,Norway,Cream
+362,Pininfarina,Battista,2025,Australia,Cobalt Blue
+363,Volvo,C40 Recharge,2024,Hungary,Burgundy
+364,Mazda,Mazda EV (upcoming models),2024,United Arab Emirates,Purple
+365,Polestar,Polestar 3,2022,Mexico,Burgundy
+366,Jaguar,I-PACE,2020,France,Gun Metal
+367,Rivian,R1T,2024,Saudi Arabia,Candy Apple Red
+368,Ferrari,Ferrari EV (2025+),2019,Turkey,Sapphire Blue
+369,Tesla,Roadster (upcoming),2023,Israel,Ice Silver
+370,Mini,Mini Electric,2022,Italy,Lime Green
+371,Zeekr,Zeekr X,2016,Finland,Brown
+372,Porsche,Cayenne Electric (upcoming),2024,Singapore,Matte White
+373,Seat,Avenger,2017,UK,Sapphire Blue
+374,Subaru,Solterra,2020,Mexico,Volcanic Yellow
+375,Subaru,Solterra,2015,Finland,Racing Red
+376,Volkswagen,ID.7,2019,Sweden,Racing Red
+377,Porsche,Taycan,2020,India,Tan
+378,Genesis,GV80 Electric,2016,Saudi Arabia,Stealth Gray
+379,Tesla,Model X,2022,Vietnam,Teal
+380,Genesis,G80 Electric,2022,Hungary,Midnight Black
+381,Lotus,Eletre,2025,UK,Sapphire Blue
+382,Jaguar,I-PACE,2016,Czech Republic,Gold
+383,Mini,Mini Cooper SE,2019,Spain,Blue
+384,XPeng,G6,2025,Spain,Candy Apple Red
+385,Mahindra,XUV400,2025,Singapore,Cream
+386,Renault,Megane E-Tech,2023,Mexico,Teal
+387,Maserati,GranTurismo Folgore,2016,India,Silver
+388,Hyundai,Ioniq 7 (upcoming),2018,Poland,Matte White
+389,Pininfarina,Battista,2021,Sweden,Matte White
+390,Genesis,GV60,2022,South Korea,Midnight Black
+391,Jaguar,I-PACE,2024,Thailand,Racing Red
+392,Porsche,Panamera EV,2016,Malaysia,Pearl White
+393,Nissan,Ariya,2016,Indonesia,Copper
+394,Geely,Geometry C,2018,Poland,Green
+395,BYD,Atto 3,2023,Sweden,Burgundy
+396,BYD,Seal,2018,Norway,Matte White
+397,Jeep,Wagoneer S,2021,France,Crimson Red
+398,Jeep,Recon (upcoming),2015,Denmark,Sunset Orange
+399,Toyota,bZ4X,2016,Ireland,Copper
+400,Hyundai,Ioniq 7 (upcoming),2023,Vietnam,Volcanic Yellow
+401,Ferrari,SF90 Stradale (PHEV),2021,France,Cobalt Blue
+402,Volkswagen,ID.5,2019,Australia,Cosmic Purple
+403,XPeng,G6,2020,Mexico,Ice Silver
+404,VinFast,VF 7,2025,South Korea,Turquoise
+405,Genesis,GV60,2023,Israel,Aurora Blue
+406,Toyota,Lexus UX 300e,2025,Canada,Matte Black
+407,BYD,Seagull,2016,China,Copper
+408,Lotus,Evija,2015,Germany,Racing Red
+409,Jeep,Wagoneer S,2025,Poland,Burgundy
+410,Fisker,Pear (upcoming),2022,Sweden,Cosmic Purple
+411,BYD,Tang EV,2018,Saudi Arabia,Candy Apple Red
+412,Changan,Deepal S07,2017,Singapore,Copper
+413,Great Wall Motors,ORA Good Cat,2017,Brazil,Candy Apple Red
+414,VinFast,VF 8,2018,Thailand,Graphite Gray
+415,Ford,Explorer EV (Europe),2020,UK,Matte Gray
+416,Faraday Future,FF 91,2021,Mexico,Matte Black
+417,Acura,ZDX (with GM Ultium),2021,United Arab Emirates,Copper
+418,Nissan,Leaf,2017,Indonesia,Copper
+419,Audi,A6 e-tron (upcoming),2020,Canada,Ice Silver
+420,Ford,E-Transit,2022,Brazil,Emerald Green
+421,Opel,Grandland Electric,2017,Poland,Platinum
+422,Canoo,Lifestyle Vehicle,2015,France,Pearl White
+423,Dacia,Jogger Hybrid,2021,Argentina,Magenta
+424,Dacia,Bigster EV (upcoming),2015,Poland,Crimson Red
+425,Nissan,Ariya,2021,China,Silver
+426,Lucid Motors,Lucid Air,2025,Turkey,Pearl White
+427,Lotus,Eletre,2018,Turkey,Electric Blue
+428,Fisker,Pear (upcoming),2021,Canada,Sunset Orange
+429,Rimac,Nevera,2016,United Arab Emirates,Crimson Red
+430,BYD,Tang EV,2015,Canada,Green
+431,BYD,Tang EV,2020,Portugal,Champagne
+432,Great Wall Motors,ORA Ballet Cat,2024,Spain,Orange
+433,Mahindra,XUV400,2017,China,Stealth Gray
+434,Mahindra,Born Electric (upcoming range),2023,Canada,Brown
+435,Lamborghini,Lanzador (upcoming EV),2017,Russia,Sky Blue
+436,BMW,i7,2019,Germany,Blue
+437,Citroen,Ami,2020,Belgium,Forest Green
+438,Pininfarina,Battista,2015,Germany,Bronze
+439,Ferrari,SF90 Stradale (PHEV),2022,Mexico,Lime Green
+440,Rivian,R1S,2019,Israel,Green
+441,Zeekr,Zeekr X,2020,Saudi Arabia,Lime Green
+442,Nissan,Leaf,2024,Finland,Cobalt Blue
+443,BYD,Dolphin,2017,China,Titanium
+444,Cadillac,Lyriq,2021,Russia,Sunset Orange
+445,Volkswagen,ID.3,2019,Russia,Volcanic Yellow
+446,Audi,Q8 e-tron,2020,Belgium,Gray
+447,Honda,Honda Prologue,2016,Belgium,Beige
+448,Honda,Honda e (discontinued),2015,Belgium,Sky Blue
+449,Cadillac,Lyriq,2025,Argentina,Emerald Green
+450,XPeng,G9,2019,Malaysia,Pearl White
+451,Great Wall Motors,ORA Ballet Cat,2021,Netherlands,Platinum
+452,Rimac,Nevera,2015,USA,Gray
+453,Lotus,Evija,2025,Italy,Aurora Blue
+454,Li Auto,L9,2017,Finland,Matte Gray
+455,XPeng,X9,2021,South Africa,White
+456,Canoo,Pickup,2019,Czech Republic,Platinum
+457,Honda,e:Ny1,2024,Thailand,Purple
+458,Kia,Soul EV,2015,Ireland,Cobalt Blue
+459,Mini,Mini Cooper SE,2017,Australia,Pink
+460,Rimac,Nevera,2017,Spain,Copper
+461,Mahindra,XUV400,2023,Norway,Crimson Red
+462,Chevrolet,Silverado EV,2020,Canada,Charcoal
+463,Ferrari,Ferrari EV (2025+),2024,China,Tan
+464,Skoda,Enyaq,2021,Australia,Green
+465,Tesla,Model X,2015,Singapore,Cobalt Blue
+466,Peugeot,e-208,2023,UK,Cream
+467,Citroen,Ami,2017,Ireland,Sky Blue
+468,Geely,Geometry C,2022,Norway,Sapphire Blue
+469,Skoda,Elroq (upcoming),2017,New Zealand,Cobalt Blue
+470,Mazda,MX-30,2023,Singapore,Sunset Orange
+471,Jaguar,I-PACE,2017,Hungary,Magenta
+472,Rivian,R1T,2016,Canada,Cream
+473,Mahindra,Born Electric (upcoming range),2024,USA,Gray
+474,Genesis,GV70 Electric,2025,New Zealand,Charcoal
+475,Great Wall Motors,ORA Good Cat,2022,Vietnam,Emerald Green
+476,Mahindra,Born Electric (upcoming range),2022,Vietnam,Black
+477,Mahindra,Born Electric (upcoming range),2022,Austria,Candy Apple Red
+478,Mazda,Mazda EV (upcoming models),2021,Netherlands,Rose Gold
+479,Porsche,Macan EV,2017,Switzerland,Forest Green
+480,Canoo,MPDV,2015,Russia,Crimson Red
+481,Seat,Avenger,2015,Finland,Yellow
+482,Acura,ZDX (with GM Ultium),2018,France,Champagne
+483,Opel,Corsa-e,2018,Indonesia,Turquoise
+484,Volkswagen,ID.2all,2021,Argentina,Sky Blue
+485,Hyundai,Ioniq 6,2020,Sweden,Lime Green
+486,Li Auto,MEGA,2025,South Africa,Bronze
+487,VinFast,VFe34 (discontinued),2025,Japan,Green
+488,Mazda,MX-30,2016,Saudi Arabia,Black
+489,Renault,Megane E-Tech,2020,Malaysia,Orange
+490,Dacia,Jogger Hybrid,2020,France,Forest Green
+491,Dacia,Bigster EV (upcoming),2021,South Africa,Turquoise
+492,Acura,ZDX (with GM Ultium),2022,Russia,Gray
+493,Rivian,R1S,2022,Indonesia,Rose Gold
+494,BYD,Seal,2020,Poland,Blue
+495,Fisker,Ocean,2015,Ireland,Aurora Blue
+496,Renault,Scenic E-Tech,2016,Saudi Arabia,Pink
+497,Dacia,Jogger Hybrid,2024,UK,Matte Gray
+498,Citroen,??-Spacetourer,2023,Belgium,Electric Blue
+499,Jeep,Wrangler 4xe (PHEV),2022,Hungary,Matte Black
+500,Ford,F-150 Lightning,2019,Norway,Purple
+501,Rimac,Nevera,2021,Russia,Forest Green
+502,Lamborghini,Lanzador (upcoming EV),2016,Israel,Matte Gray
+503,Li Auto,MEGA,2016,Belgium,Burgundy
+504,GMC,Hummer EV SUV,2025,India,Sky Blue
+505,Peugeot,e-208,2019,Switzerland,Brown
+506,Geely,Geometry C,2018,Italy,Black
+507,Porsche,Cayenne Electric (upcoming),2023,China,Ruby Red
+508,NIO,ET9,2015,Portugal,Black
+509,Volvo,C40 Recharge,2022,Thailand,Emerald Green
+510,Mini,Mini Aceman,2024,Italy,Red
+511,Skoda,Enyaq,2025,South Korea,Sky Blue
+512,Lotus,Emeya,2022,Malaysia,Matte White
+513,Peugeot,e-2008,2021,France,Emerald Green
+514,Polestar,Polestar 2,2022,China,Forest Green
+515,Jaguar,I-PACE,2015,Malaysia,Cobalt Blue
+516,BMW,i4,2021,Finland,Lime Green
+517,Genesis,GV60,2022,Israel,Red
+518,Li Auto,MEGA,2024,Turkey,Brown
+519,Subaru,Solterra,2019,United Arab Emirates,Titanium
+520,Pininfarina,Battista,2025,Finland,Pink
+521,Tesla,Roadster (upcoming),2018,Mexico,Platinum
+522,Audi,Q4 e-tron,2015,Argentina,Stealth Gray
+523,Renault,5 E-Tech,2020,Germany,Yellow
+524,Subaru,Solterra,2018,Vietnam,Sapphire Blue
+525,Maserati,GranTurismo Folgore,2020,Denmark,Matte Blue
+526,MG,MG ES5,2018,Turkey,Ruby Red
+527,Great Wall Motors,ORA Ballet Cat,2022,Belgium,Candy Apple Red
+528,Lamborghini,Revuelto (PHEV),2017,Finland,Graphite Gray
+529,NIO,ET5,2017,Turkey,Titanium
+530,Audi,Q4 e-tron,2015,Portugal,Navy Blue
+531,Tesla,Model X,2019,New Zealand,White
+532,Volvo,EX90,2022,Switzerland,Tan
+533,Tesla,Model Y,2025,Saudi Arabia,Stealth Gray
+534,Ferrari,Ferrari EV (2025+),2024,China,Cream
+535,Mercedes-Benz,EQS,2025,Czech Republic,Beige
+536,Lotus,Eletre,2017,Indonesia,Matte White
+537,Subaru,Solterra,2025,Australia,Sky Blue
+538,Lotus,Emeya,2024,Brazil,Sunset Orange
+539,Porsche,Cayenne Electric (upcoming),2022,Netherlands,Forest Green
+540,Li Auto,L7,2020,Turkey,Electric Blue
+541,Pininfarina,Battista,2018,Australia,Lime Green
+542,Great Wall Motors,ORA Lightning Cat,2017,Thailand,Racing Red
+543,Porsche,Macan EV,2015,South Africa,Cobalt Blue
+544,BMW,iX1,2015,Denmark,Forest Green
+545,Mini,Mini Electric,2018,France,Graphite Gray
+546,Zeekr,Zeekr 001,2018,India,White
+547,Audi,e-tron GT,2021,Singapore,Rose Gold
+548,Opel,Grandland Electric,2017,Mexico,Red
+549,Jeep,Wrangler 4xe (PHEV),2018,Belgium,Stealth Gray
+550,Rivian,EDV (Electric Delivery Van),2015,Hungary,Bronze
+551,Volvo,EX30,2020,Ireland,Crimson Red
+552,Audi,e-tron GT,2015,Switzerland,Matte Gray
+553,Zeekr,Zeekr X,2024,New Zealand,Burgundy
+554,Zeekr,Zeekr 007,2017,Poland,Green
+555,Changan,Deepal S07,2021,Denmark,Charcoal
+556,Li Auto,MEGA,2020,India,Orange
+557,Dacia,Bigster EV (upcoming),2025,New Zealand,Forest Green
+558,Mini,Mini Aceman,2017,Netherlands,Lime Green
+559,Jeep,Wrangler 4xe (PHEV),2023,Turkey,Magenta
+560,Hyundai,Kona Electric,2025,Thailand,Racing Red
+561,Opel,Grandland Electric,2021,Italy,Cosmic Purple
+562,Lucid Motors,Lucid Air,2017,Netherlands,Yellow
+563,Jeep,Grand Cherokee 4xe (PHEV),2022,Israel,White
+564,Lotus,Emeya,2022,Hungary,Pink
+565,Faraday Future,FF 91,2015,Portugal,Matte Black
+566,Li Auto,L8,2015,Hungary,Silver
+567,Zeekr,Zeekr 007,2025,South Africa,Charcoal
+568,Lamborghini,Lanzador (upcoming EV),2017,Netherlands,Electric Blue
+569,Rimac,Nevera,2019,Italy,Lime Green
+570,Ferrari,Ferrari EV (2025+),2016,Vietnam,Rose Gold
+571,Peugeot,e-2008,2016,Poland,White
+572,Faraday Future,FF 91,2023,Hungary,Sunset Orange
+573,Cadillac,Celestiq,2017,Canada,Ice Silver
+574,Dacia,Bigster EV (upcoming),2015,South Korea,Crimson Red
+575,Lamborghini,Lanzador (upcoming EV),2020,Czech Republic,Copper
+576,Citroen,Ami,2015,New Zealand,Candy Apple Red
+577,Renault,Megane E-Tech,2025,Netherlands,Titanium
+578,Genesis,GV80 Electric,2024,Russia,Cream
+579,Canoo,MPDV,2021,Russia,Orange
+580,Seat,Avenger,2024,China,Purple
+581,Canoo,MPDV,2023,Canada,Lime Green
+582,Jaguar,I-PACE,2017,UK,Silver
+583,Tesla,Model 3,2019,Russia,Matte Green
+584,Rivian,EDV (Electric Delivery Van),2016,Switzerland,Titanium
+585,GMC,Hummer EV SUV,2016,Vietnam,Gold
+586,Seat,Avenger,2020,Vietnam,Burgundy
+587,Lamborghini,Lanzador (upcoming EV),2016,Austria,Cobalt Blue
+588,Porsche,Panamera EV,2024,Portugal,Matte Gray
+589,Faraday Future,FF 91,2022,Portugal,Matte Green
+590,Cadillac,Celestiq,2022,South Africa,Brown
+591,Hyundai,Kona Electric,2016,United Arab Emirates,Copper
+592,Mahindra,XUV400,2021,Brazil,Racing Red
+593,Cadillac,Celestiq,2017,Turkey,Gray
+594,Skoda,Enyaq,2023,USA,Electric Blue
+595,Changan,Q05,2022,Brazil,White
+596,Lucid Motors,Lucid Air,2023,Spain,Navy Blue
+597,Kia,EV9,2025,Denmark,Cosmic Purple
+598,Mercedes-Benz,EQB,2022,Italy,Sky Blue
+599,Kia,Soul EV,2017,Ireland,Brown
+600,GMC,Hummer EV Pickup,2023,Vietnam,Forest Green
+601,Porsche,Macan EV,2024,Sweden,Metallic Silver
+602,Subaru,Solterra,2018,Argentina,Bronze
+603,Tesla,Model S,2025,Norway,Brown
+604,Lamborghini,Revuelto (PHEV),2020,India,Matte Blue
+605,Jeep,Grand Cherokee 4xe (PHEV),2018,New Zealand,Magenta
+606,Lamborghini,Lanzador (upcoming EV),2023,South Africa,Tan
+607,Chevrolet,Equinox EV,2015,China,Graphite Gray
+608,Rivian,R1T,2015,Turkey,Sunset Orange
+609,Jaguar,I-PACE,2018,Italy,Bronze
+610,Tesla,Roadster (upcoming),2020,Spain,Matte Gray
+611,Volvo,EX30,2017,Spain,Ruby Red
+612,Toyota,bZ4X,2024,Vietnam,Volcanic Yellow
+613,Ferrari,Roma PHEV,2017,Ireland,Sky Blue
+614,Renault,5 E-Tech,2015,Japan,Titanium
+615,VinFast,VF 6,2016,Malaysia,Matte Green
+616,Toyota,Lexus UX 300e,2023,Indonesia,Titanium
+617,Ford,E-Transit,2025,Russia,Orange
+618,GMC,Hummer EV SUV,2016,Vietnam,Midnight Black
+619,Canoo,Pickup,2020,China,Cobalt Blue
+620,Renault,Kangoo E-Tech,2016,Norway,Gray
+621,VinFast,VF 8,2017,Saudi Arabia,Matte White
+622,Ferrari,Ferrari EV (2025+),2018,United Arab Emirates,Turquoise
+623,Opel,Corsa-e,2019,Italy,Blue
+624,Zeekr,Zeekr 009,2015,Germany,Pearl White
+625,Ford,F-150 Lightning,2022,USA,Candy Apple Red
+626,Mercedes-Benz,EQC,2021,Turkey,Matte Green
+627,Volkswagen,ID.Buzz,2018,Ireland,Matte Gray
+628,Mercedes-Benz,EQC,2020,Mexico,Navy Blue
+629,Tesla,Model X,2018,Singapore,Matte Green
+630,Subaru,Solterra,2020,Italy,Teal
+631,Faraday Future,FF 91,2015,UK,Sunset Orange
+632,Mercedes-Benz,EQE SUV,2022,India,Silver
+633,Faraday Future,FF 91,2017,Czech Republic,Pearl White
+634,Opel,Mokka-e,2019,Singapore,Orange
+635,BYD,Atto 3,2024,Japan,Sky Blue
+636,Ford,Mustang Mach-E,2019,UK,Lime Green
+637,Porsche,Taycan,2021,Russia,Gun Metal
+638,Great Wall Motors,ORA Good Cat,2025,Vietnam,Burgundy
+639,Honda,Honda e (discontinued),2017,Indonesia,Candy Apple Red
+640,Pininfarina,Battista,2017,Vietnam,Pearl White
+641,Audi,A6 e-tron (upcoming),2024,Russia,Charcoal
+642,Tesla,Model Y,2017,Indonesia,Metallic Silver
+643,Ferrari,SF90 Stradale (PHEV),2020,Russia,Ice Silver
+644,Citroen,??-Spacetourer,2016,Vietnam,Matte White
+645,Faraday Future,FF 91,2016,Saudi Arabia,Sapphire Blue
+646,Rivian,R1T,2022,Australia,Burgundy
+647,MG,MG5 EV,2019,Japan,Tan
+648,Pininfarina,Battista,2024,South Korea,Titanium
+649,Rimac,Nevera,2021,Thailand,Burgundy
+650,Hyundai,Kona Electric,2015,Singapore,Green
+651,Polestar,Polestar 3,2019,UK,Bronze
+652,Cadillac,Lyriq,2016,Switzerland,Turquoise
+653,Skoda,Enyaq Coupe,2021,Norway,White
+654,Great Wall Motors,ORA Ballet Cat,2024,Saudi Arabia,Black
+655,Nissan,Ariya,2017,Brazil,Green
+656,XPeng,G6,2019,Israel,Burgundy
+657,Peugeot,e-3008,2020,China,Emerald Green
+658,Canoo,MPDV,2023,Brazil,Midnight Black
+659,Rimac,Nevera,2020,Czech Republic,Beige
+660,Audi,A6 e-tron (upcoming),2025,Russia,Blue
+661,Jeep,Recon (upcoming),2018,Thailand,Titanium
+662,Great Wall Motors,ORA Good Cat,2021,Russia,Purple
+663,GMC,Hummer EV Pickup,2015,Vietnam,Ice Silver
+664,Seat,Avenger,2019,Finland,Pink
+665,Jaguar,I-PACE,2020,South Africa,Matte Black
+666,Hyundai,Ioniq 6,2019,China,Electric Blue
+667,Canoo,Pickup,2018,Sweden,Sunset Orange
+668,GMC,Hummer EV Pickup,2021,France,Matte Green
+669,Porsche,Panamera EV,2015,Brazil,Green
+670,Toyota,Lexus RZ,2016,Ireland,Midnight Black
+671,Polestar,Polestar 2,2018,Austria,Bronze
+672,Canoo,MPDV,2019,Czech Republic,Gun Metal
+673,Subaru,Solterra,2017,New Zealand,White
+674,Citroen,??-C4,2024,Japan,Orange
+675,Mercedes-Benz,EQE,2016,Spain,Matte White
+676,Dacia,Bigster EV (upcoming),2023,Germany,Volcanic Yellow
+677,Nissan,Leaf,2024,France,Beige
+678,Honda,Honda e (discontinued),2020,Japan,Metallic Silver
+679,VinFast,VF 8,2019,Finland,Copper
+680,Chevrolet,Bolt EUV,2019,USA,Lime Green
+681,Hyundai,Ioniq 6,2017,Belgium,Teal
+682,Cadillac,Celestiq,2017,Denmark,Navy Blue
+683,Acura,ZDX (with GM Ultium),2023,Hungary,Ice Silver
+684,Li Auto,MEGA,2015,Belgium,Magenta
+685,Citroen,??-Spacetourer,2017,France,Bronze
+686,Jaguar,I-PACE,2018,Sweden,Emerald Green
+687,Audi,e-tron,2017,Turkey,Black
+688,Maserati,GranTurismo Folgore,2024,Sweden,Midnight Black
+689,Great Wall Motors,ORA Lightning Cat,2019,France,Beige
+690,Tesla,Cybertruck,2019,Australia,Gray
+691,Rivian,R1S,2023,Australia,Pink
+692,Genesis,G80 Electric,2021,Brazil,Matte Blue
+693,Kia,Soul EV,2022,Belgium,Volcanic Yellow
+694,BMW,iX1,2019,Germany,Emerald Green
+695,Lucid Motors,Lucid Air,2019,South Africa,Platinum
+696,Chevrolet,Bolt EUV,2015,South Africa,Volcanic Yellow
+697,Lamborghini,Revuelto (PHEV),2016,Poland,Matte Black
+698,Nissan,Leaf,2019,China,Copper
+699,GMC,Hummer EV Pickup,2023,Germany,Ruby Red
+700,Lamborghini,Lanzador (upcoming EV),2025,Japan,Sapphire Blue
+701,Great Wall Motors,ORA Good Cat,2019,New Zealand,Brown
+702,Cadillac,Celestiq,2025,Italy,Ice Silver
+703,Lucid Motors,Lucid Gravity,2021,Saudi Arabia,Racing Red
+704,Volkswagen,ID.6,2017,New Zealand,Cream
+705,Dacia,Bigster EV (upcoming),2018,Belgium,Ruby Red
+706,Li Auto,MEGA,2019,Argentina,Orange
+707,Nissan,Ariya,2015,Finland,Bronze
+708,NIO,ET9,2025,Ireland,Black
+709,Pininfarina,Battista,2021,Czech Republic,Volcanic Yellow
+710,Mercedes-Benz,EQS SUV,2022,Portugal,Sky Blue
+711,Chevrolet,Equinox EV,2019,Spain,Purple
+712,Great Wall Motors,ORA Ballet Cat,2023,China,Purple
+713,Acura,ZDX (with GM Ultium),2017,Turkey,Sky Blue
+714,Honda,Honda Prologue,2015,Brazil,Forest Green
+715,Rimac,Nevera,2025,Argentina,Burgundy
+716,BYD,Han EV,2019,Turkey,Purple
+717,Jeep,Wrangler 4xe (PHEV),2025,Singapore,Crimson Red
+718,Faraday Future,FF 91,2024,Czech Republic,Matte Green
+719,Rimac,Nevera,2018,China,Graphite Gray
+720,Canoo,Lifestyle Vehicle,2023,Hungary,Pink
+721,Acura,ZDX (with GM Ultium),2017,New Zealand,Cosmic Purple
+722,Volkswagen,ID.7,2023,Czech Republic,Forest Green
+723,Kia,Soul EV,2016,Vietnam,Racing Red
+724,Hyundai,Ioniq 5,2015,Israel,Graphite Gray
+725,Lotus,Evija,2023,Japan,Charcoal
+726,Ferrari,Ferrari EV (2025+),2020,Netherlands,Crimson Red
+727,Kia,Niro EV,2023,Saudi Arabia,Matte White
+728,Ferrari,Roma PHEV,2022,Canada,Rose Gold
+729,Renault,Megane E-Tech,2020,Mexico,Graphite Gray
+730,Zeekr,Zeekr 001,2023,Italy,Forest Green
+731,Renault,Kangoo E-Tech,2019,Switzerland,Racing Red
+732,Li Auto,L9,2024,Poland,Midnight Black
+733,Fisker,Pear (upcoming),2019,Vietnam,Forest Green
+734,XPeng,G6,2022,Turkey,Bronze
+735,XPeng,P5,2021,Japan,Emerald Green
+736,Jaguar,I-PACE,2017,Mexico,Cosmic Purple
+737,Maserati,Grecale Folgore,2017,Mexico,Turquoise
+738,Kia,EV9,2022,Japan,Forest Green
+739,Toyota,bZ4X,2016,Ireland,Matte White
+740,VinFast,VF 8,2021,Singapore,Ruby Red
+741,Great Wall Motors,ORA Lightning Cat,2023,Saudi Arabia,Stealth Gray
+742,BYD,Dolphin,2024,United Arab Emirates,Yellow
+743,Great Wall Motors,ORA Ballet Cat,2024,Sweden,Pink
+744,Rivian,EDV (Electric Delivery Van),2022,United Arab Emirates,Graphite Gray
+745,Volkswagen,ID.2all,2015,Japan,Orange
+746,Lamborghini,Lanzador (upcoming EV),2021,South Africa,Bronze
+747,Rivian,EDV (Electric Delivery Van),2020,Italy,Racing Red
+748,Ford,Explorer EV (Europe),2016,France,Pink
+749,Fisker,Ocean,2018,Thailand,Sapphire Blue
+750,Kia,Niro EV,2019,India,Navy Blue
+751,Mercedes-Benz,EQC,2018,Hungary,White
+752,Great Wall Motors,ORA Lightning Cat,2019,Brazil,Aurora Blue
+753,Mercedes-Benz,EQA,2017,United Arab Emirates,Orange
+754,Opel,Grandland Electric,2020,USA,Racing Red
+755,Kia,EV6,2019,Thailand,Aurora Blue
+756,Canoo,Lifestyle Vehicle,2022,Saudi Arabia,Stealth Gray
+757,Peugeot,e-2008,2017,Hungary,Blue
+758,Skoda,Enyaq Coupe,2017,Indonesia,Cream
+759,Toyota,bZ4X,2017,USA,Emerald Green
+760,Changan,SL03,2016,Netherlands,Black
+761,Skoda,Elroq (upcoming),2018,Portugal,Midnight Black
+762,Porsche,Panamera EV,2019,South Africa,Navy Blue
+763,Maserati,Grecale Folgore,2021,United Arab Emirates,Graphite Gray
+764,Honda,e:Ny1,2016,Singapore,Turquoise
+765,Mercedes-Benz,EQS SUV,2022,Australia,Pearl White
+766,Zeekr,Zeekr 007,2022,Poland,Cream
+767,Zeekr,Zeekr 009,2024,South Africa,Ice Silver
+768,Subaru,Solterra,2020,Poland,Midnight Black
+769,Skoda,Elroq (upcoming),2020,Switzerland,Ice Silver
+770,Volkswagen,ID.5,2017,Ireland,Brown
+771,Cadillac,Lyriq,2018,Austria,Red
+772,NIO,ET9,2021,Norway,Tan
+773,Renault,Megane E-Tech,2025,India,Graphite Gray
+774,Subaru,Solterra,2019,Mexico,Cosmic Purple
+775,Skoda,Enyaq,2017,Australia,Volcanic Yellow
+776,BMW,iX1,2025,Norway,Bronze
+777,Jaguar,I-PACE,2015,Sweden,Volcanic Yellow
+778,Canoo,MPDV,2024,France,Volcanic Yellow
+779,XPeng,P7,2017,Denmark,Orange
+780,Ferrari,Roma PHEV,2018,Thailand,Gun Metal
+781,VinFast,VF 9,2025,Hungary,Cosmic Purple
+782,Acura,ZDX (with GM Ultium),2023,Malaysia,Platinum
+783,XPeng,P7,2025,South Africa,Electric Blue
+784,GMC,Hummer EV Pickup,2024,Russia,Racing Red
+785,XPeng,G6,2018,United Arab Emirates,Cream
+786,Kia,EV6,2023,Malaysia,Platinum
+787,Genesis,GV70 Electric,2025,Germany,Emerald Green
+788,Renault,Kangoo E-Tech,2015,Ireland,Black
+789,BYD,Seagull,2018,Switzerland,Black
+790,MG,MG ZS EV,2024,USA,Red
+791,VinFast,VF 9,2019,Czech Republic,Blue
+792,Genesis,G80 Electric,2021,Canada,Burgundy
+793,Honda,e:Ny1,2020,Czech Republic,Pink
+794,Chevrolet,Bolt EUV,2017,Netherlands,Magenta
+795,Faraday Future,FF 91,2017,Israel,Electric Blue
+796,Great Wall Motors,ORA Ballet Cat,2017,Netherlands,Champagne
+797,Volvo,EX30,2018,Singapore,Sunset Orange
+798,Lucid Motors,Lucid Gravity,2025,Saudi Arabia,Matte White
+799,Porsche,Macan EV,2018,UK,Bronze
+800,Subaru,Solterra,2018,South Korea,Burgundy
+801,Lucid Motors,Lucid Air,2023,Malaysia,Orange
+802,Citroen,??-Spacetourer,2024,Poland,Ruby Red
+803,Acura,ZDX (with GM Ultium),2016,Russia,Aurora Blue
+804,Acura,ZDX (with GM Ultium),2018,South Africa,Navy Blue
+805,Mercedes-Benz,EQB,2021,Ireland,Aurora Blue
+806,Ford,E-Transit,2020,Indonesia,Cream
+807,Genesis,GV70 Electric,2022,Argentina,Copper
+808,Lucid Motors,Lucid Air,2024,New Zealand,Volcanic Yellow
+809,Dacia,Bigster EV (upcoming),2018,Portugal,Pink
+810,Opel,Grandland Electric,2021,Belgium,Candy Apple Red
+811,Nissan,Leaf,2016,Malaysia,Navy Blue
+812,Lucid Motors,Lucid DreamDrive,2019,Thailand,Brown
+813,Nissan,Ariya,2015,China,Red
+814,Changan,Q05,2025,Sweden,Racing Red
+815,Peugeot,e-5008,2015,Sweden,Brown
+816,Mini,Mini Electric,2024,Norway,Magenta
+817,Fisker,Ocean,2020,Austria,Bronze
+818,NIO,ET5,2022,Denmark,Cream
+819,Renault,Megane E-Tech,2017,Indonesia,Purple
+820,Changan,SL03,2015,China,Titanium
+821,Nissan,Ariya,2025,Sweden,Matte Black
+822,Peugeot,e-3008,2020,Norway,Charcoal
+823,XPeng,G9,2019,Sweden,Silver
+824,Mercedes-Benz,EQS,2015,Australia,Aurora Blue
+825,Great Wall Motors,ORA Lightning Cat,2019,New Zealand,Yellow
+826,Mini,Mini Electric,2016,Poland,Volcanic Yellow
+827,Rimac,Nevera,2020,South Korea,Emerald Green
+828,Rimac,Nevera,2024,Thailand,Matte Green
+829,Toyota,Lexus UX 300e,2023,United Arab Emirates,Champagne
+830,VinFast,VF 8,2021,Canada,Titanium
+831,Zeekr,Zeekr 001,2023,Germany,Navy Blue
+832,Lotus,Eletre,2023,Finland,Pearl White
+833,Toyota,bZ4X,2021,Poland,Gray
+834,GMC,Hummer EV Pickup,2015,Belgium,Cobalt Blue
+835,Audi,e-tron GT,2019,Hungary,Bronze
+836,Volvo,EX90,2019,Mexico,Stealth Gray
+837,Jeep,Grand Cherokee 4xe (PHEV),2022,Argentina,Gun Metal
+838,Acura,ZDX (with GM Ultium),2019,Spain,Lime Green
+839,Mahindra,XUV400,2024,Ireland,Beige
+840,Kia,Soul EV,2018,Brazil,Silver
+841,Canoo,MPDV,2021,Czech Republic,Yellow
+842,Fisker,Pear (upcoming),2018,Netherlands,Gold
+843,Hyundai,Ioniq 6,2020,UK,Volcanic Yellow
+844,Dacia,Bigster EV (upcoming),2020,Germany,Purple
+845,Citroen,Ami,2023,Thailand,Gun Metal
+846,Kia,EV6,2024,Sweden,Matte Gray
+847,Volvo,EX90,2025,New Zealand,Sapphire Blue
+848,Lotus,Evija,2021,Spain,Turquoise
+849,Audi,e-tron GT,2020,Turkey,Yellow
+850,Fisker,Ocean,2022,China,Brown
+851,Great Wall Motors,ORA Ballet Cat,2017,Germany,Volcanic Yellow
+852,Mini,Mini Cooper SE,2019,Indonesia,Graphite Gray
+853,BMW,iX3,2020,Netherlands,Volcanic Yellow
+854,Genesis,G80 Electric,2016,Indonesia,Beige
+855,Porsche,Cayenne Electric (upcoming),2019,UK,Ruby Red
+856,Lamborghini,Revuelto (PHEV),2025,Singapore,Black
+857,Maserati,Grecale Folgore,2020,Norway,Candy Apple Red
+858,Faraday Future,FF 91,2019,Sweden,Gun Metal
+859,Jaguar,I-PACE,2020,South Korea,Teal
+860,Lotus,Eletre,2025,Hungary,Copper
+861,Zeekr,Zeekr 007,2016,Russia,Magenta
+862,Hyundai,Ioniq 6,2024,Germany,Matte White
+863,Zeekr,Zeekr X,2023,Hungary,Crimson Red
+864,NIO,ES6,2016,Norway,Pink
+865,Cadillac,Lyriq,2024,Poland,Emerald Green
+866,Canoo,Pickup,2021,Thailand,Ice Silver
+867,Acura,ZDX (with GM Ultium),2016,Spain,Racing Red
+868,Ferrari,Roma PHEV,2016,Denmark,Champagne
+869,Chevrolet,Silverado EV,2017,Sweden,Candy Apple Red
+870,Rimac,Nevera,2024,South Korea,Metallic Silver
+871,Lucid Motors,Lucid Gravity,2025,Czech Republic,Matte Black
+872,Lotus,Evija,2015,Austria,Yellow
+873,Jaguar,I-PACE,2025,India,Matte Green
+874,Honda,Honda Prologue,2025,Sweden,Crimson Red
+875,Peugeot,e-208,2021,Austria,Rose Gold
+876,Changan,Q05,2022,South Africa,Gray
+877,Lamborghini,Lanzador (upcoming EV),2020,Poland,Candy Apple Red
+878,Mini,Mini Cooper SE,2023,Norway,Lime Green
+879,VinFast,VF 7,2017,Finland,Sapphire Blue
+880,Tesla,Model S,2020,Poland,Electric Blue
+881,Dacia,Jogger Hybrid,2019,Canada,Tan
+882,Toyota,Lexus UX 300e,2018,New Zealand,Beige
+883,Ferrari,SF90 Stradale (PHEV),2022,China,Turquoise
+884,Lucid Motors,Lucid DreamDrive,2020,Germany,Champagne
+885,Toyota,Lexus UX 300e,2015,Malaysia,Gold
+886,Hyundai,Ioniq 6,2023,Denmark,Beige
+887,BYD,Atto 3,2021,Czech Republic,Champagne
+888,Jaguar,I-PACE,2017,Belgium,Matte Green
+889,Audi,e-tron GT,2024,France,Lime Green
+890,Hyundai,Kona Electric,2015,South Africa,Purple
+891,Mazda,MX-30,2022,Singapore,Matte White
+892,Citroen,??-C4,2017,Switzerland,Copper
+893,Citroen,??-C4,2016,Malaysia,Green
+894,Seat,Avenger,2024,Russia,Turquoise
+895,Mercedes-Benz,EQC,2020,Australia,Cream
+896,Volkswagen,ID.2all,2020,Norway,Burgundy
+897,Toyota,Lexus RZ,2018,Austria,Bronze
+898,BMW,i4,2016,Russia,Matte Black
+899,Acura,ZDX (with GM Ultium),2025,Italy,Turquoise
+900,Rimac,Nevera,2020,Mexico,Matte Green
+901,Jeep,Grand Cherokee 4xe (PHEV),2018,Sweden,Beige
+902,Geely,Geometry C,2018,Belgium,Aurora Blue
+903,VinFast,VF 8,2020,Ireland,Gun Metal
+904,Mazda,MX-30,2021,Germany,Copper
+905,Geely,Emgrand EV,2021,Denmark,Bronze
+906,BMW,i4,2023,Hungary,Ruby Red
+907,Ferrari,Ferrari EV (2025+),2015,Sweden,Gray
+908,Pininfarina,Battista,2021,Thailand,Ruby Red
+909,Citroen,??-Spacetourer,2018,New Zealand,Crimson Red
+910,Rimac,Nevera,2021,Indonesia,Black
+911,Mahindra,XUV400,2020,Switzerland,Cream
+912,BYD,Atto 3,2021,Thailand,Gold
+913,Mini,Mini Aceman,2021,Denmark,Electric Blue
+914,Canoo,Pickup,2020,Switzerland,Gold
+915,Renault,Kangoo E-Tech,2020,Czech Republic,Gun Metal
+916,Nissan,Leaf,2015,France,Pearl White
+917,Toyota,Lexus RZ,2025,Switzerland,Cobalt Blue
+918,Tesla,Model S,2016,China,Aurora Blue
+919,Mahindra,Born Electric (upcoming range),2022,Czech Republic,Bronze
+920,Polestar,Polestar 5 (upcoming),2015,Austria,Burgundy
+921,Canoo,Pickup,2023,Brazil,Purple
+922,Canoo,MPDV,2022,Mexico,Gray
+923,Pininfarina,Battista,2024,Switzerland,Platinum
+924,Chevrolet,Equinox EV,2016,Mexico,Burgundy
+925,Mini,Mini Cooper SE,2018,Denmark,Charcoal
+926,Citroen,??-Spacetourer,2019,Germany,Black
+927,Geely,Geometry A,2021,Vietnam,Magenta
+928,Mahindra,Born Electric (upcoming range),2020,Israel,Brown
+929,Mahindra,XUV400,2022,Australia,Yellow
+930,Lamborghini,Lanzador (upcoming EV),2018,Turkey,Black
+931,Genesis,GV60,2019,Netherlands,Rose Gold
+932,Lucid Motors,Lucid Gravity,2022,Austria,Midnight Black
+933,Jaguar,I-PACE,2017,Vietnam,Ice Silver
+934,Li Auto,MEGA,2015,Brazil,Lime Green
+935,Mercedes-Benz,EQS,2024,Norway,Burgundy
+936,Peugeot,e-5008,2015,South Africa,Matte Blue
+937,Lucid Motors,Lucid DreamDrive,2022,China,Matte White
+938,Audi,A6 e-tron (upcoming),2017,South Korea,Tan
+939,Renault,Scenic E-Tech,2021,Turkey,Sapphire Blue
+940,Mazda,Mazda EV (upcoming models),2016,Sweden,Navy Blue
+941,Maserati,GranTurismo Folgore,2019,Israel,Ice Silver
+942,Pininfarina,Battista,2022,Czech Republic,Bronze
+943,Fisker,Pear (upcoming),2018,Denmark,Lime Green
+944,Maserati,GranTurismo Folgore,2018,Belgium,Copper
+945,Polestar,Polestar 5 (upcoming),2022,China,Gun Metal
+946,Faraday Future,FF 91,2022,South Korea,Bronze
+947,Rimac,Nevera,2017,United Arab Emirates,Yellow
+948,Chevrolet,Equinox EV,2015,Finland,Crimson Red
+949,Lamborghini,Lanzador (upcoming EV),2018,UK,Pearl White
+950,Polestar,Polestar 5 (upcoming),2018,Belgium,White
+951,Volvo,XC40 Recharge,2016,India,Sapphire Blue
+952,VinFast,VFe34 (discontinued),2020,Sweden,Turquoise
+953,Rivian,R1S,2020,Germany,Aurora Blue
+954,Ferrari,Roma PHEV,2020,Brazil,Gold
+955,Jeep,Grand Cherokee 4xe (PHEV),2015,Finland,Green
+956,Mazda,MX-30,2021,Austria,Red
+957,Lamborghini,Lanzador (upcoming EV),2021,France,Navy Blue
+958,Porsche,Macan EV,2023,Turkey,Bronze
+959,BMW,i7,2017,Australia,Forest Green
+960,NIO,ET9,2015,Thailand,Matte White
+961,Dacia,Bigster EV (upcoming),2019,Ireland,Red
+962,BYD,Han EV,2020,Malaysia,Charcoal
+963,Nissan,Leaf,2022,Indonesia,Gray
+964,BMW,i4,2022,Turkey,Platinum
+965,Pininfarina,Battista,2019,South Korea,Bronze
+966,Pininfarina,Battista,2020,Russia,Candy Apple Red
+967,Audi,e-tron GT,2021,UK,Metallic Silver
+968,Volkswagen,ID.4,2021,USA,Electric Blue
+969,Changan,SL03,2025,Argentina,Volcanic Yellow
+970,Mini,Mini Cooper SE,2023,Austria,Forest Green
+971,Renault,Kangoo E-Tech,2015,Austria,Crimson Red
+972,BYD,Dolphin,2021,China,Lime Green
+973,Nissan,Ariya,2020,Thailand,Electric Blue
+974,Cadillac,Celestiq,2024,Saudi Arabia,Charcoal
+975,Tesla,Model Y,2017,Brazil,Ice Silver
+976,Jeep,Wrangler 4xe (PHEV),2015,Russia,Platinum
+977,Mazda,MX-30,2016,Russia,Yellow
+978,Great Wall Motors,ORA Lightning Cat,2020,Poland,Burgundy
+979,BMW,iX1,2016,Mexico,Navy Blue
+980,Mini,Mini Aceman,2023,Netherlands,Turquoise
+981,Porsche,Cayenne Electric (upcoming),2022,Vietnam,Racing Red
+982,Hyundai,Ioniq 7 (upcoming),2020,Denmark,Bronze
+983,Pininfarina,Battista,2020,Turkey,Lime Green
+984,Opel,Grandland Electric,2015,Czech Republic,Silver
+985,Changan,Q05,2024,Japan,Ruby Red
+986,Volvo,XC40 Recharge,2018,Portugal,Cobalt Blue
+987,Mini,Mini Electric,2022,United Arab Emirates,Beige
+988,Pininfarina,Battista,2022,Indonesia,Gold
+989,Maserati,Grecale Folgore,2016,Portugal,Navy Blue
+990,MG,MG ZS EV,2022,India,Midnight Black
+991,Mercedes-Benz,EQE,2020,Brazil,Emerald Green
+992,Opel,Mokka-e,2018,Austria,Red
+993,Chevrolet,Bolt EV,2022,Mexico,Ruby Red
+994,Cadillac,Optiq (upcoming),2023,Mexico,Volcanic Yellow
+995,Subaru,Solterra,2019,Spain,Ice Silver
+996,Audi,Q8 e-tron,2019,UK,Cosmic Purple
+997,Honda,Honda Prologue,2020,Portugal,Blue
+998,Seat,Avenger,2023,UK,Tan
+999,Kia,EV9,2015,Belgium,Matte Gray
+1000,Faraday Future,FF 91,2022,Turkey,Sky Blue
+1001,Opel,Corsa-e,2022,South Africa,Platinum
+1002,Polestar,Polestar 2,2021,Spain,Metallic Silver
+1003,Dacia,Jogger Hybrid,2018,Portugal,Electric Blue
+1004,Kia,EV6,2018,India,Tan
+1005,NIO,ES8,2018,South Korea,Brown
+1006,Changan,Q05,2019,USA,Brown
+1007,Lucid Motors,Lucid DreamDrive,2019,Germany,Gray
+1008,Ford,Mustang Mach-E,2019,Poland,Cobalt Blue
+1009,Honda,e:Ny1,2025,Sweden,White
+1010,Tesla,Model Y,2018,Denmark,Matte Blue
+1011,NIO,EL7,2024,Belgium,Stealth Gray
+1012,Ferrari,SF90 Stradale (PHEV),2018,France,Red
+1013,BYD,Han EV,2015,Malaysia,Matte Blue
+1014,VinFast,VFe34 (discontinued),2023,Netherlands,Matte White
+1015,Pininfarina,Battista,2016,Malaysia,Teal
+1016,Mini,Mini Cooper SE,2018,Denmark,Electric Blue
+1017,Jaguar,I-PACE,2020,China,Ice Silver
+1018,Maserati,Grecale Folgore,2025,Indonesia,Charcoal
+1019,Lamborghini,Lanzador (upcoming EV),2022,Malaysia,Sapphire Blue
+1020,Mazda,Mazda EV (upcoming models),2023,Austria,Blue
+1021,Jeep,Grand Cherokee 4xe (PHEV),2015,Turkey,Blue
+1022,Lotus,Evija,2016,Switzerland,Champagne
+1023,GMC,Hummer EV SUV,2016,Portugal,Pearl White
+1024,Nissan,Leaf,2020,France,Cobalt Blue
+1025,Renault,5 E-Tech,2020,Saudi Arabia,Green
+1026,Opel,Corsa-e,2017,Vietnam,Graphite Gray
+1027,NIO,ES8,2025,Canada,Matte Green
+1028,BMW,i4,2019,New Zealand,Silver
+1029,GMC,Hummer EV SUV,2015,South Korea,Cobalt Blue
+1030,Tesla,Model X,2025,South Africa,Forest Green
+1031,Polestar,Polestar 3,2025,Poland,Ruby Red
+1032,Renault,Kangoo E-Tech,2018,India,Platinum
+1033,Porsche,Cayenne Electric (upcoming),2018,Germany,Volcanic Yellow
+1034,Ferrari,Ferrari EV (2025+),2023,Turkey,Matte Gray
+1035,BMW,iX3,2020,Switzerland,Electric Blue
+1036,Jaguar,I-PACE,2018,Australia,Matte Black
+1037,Hyundai,Ioniq 5,2022,Japan,Tan
+1038,NIO,ET7,2022,Germany,Platinum
+1039,Volkswagen,ID.2all,2024,Spain,Champagne
+1040,Skoda,Enyaq,2021,China,Gun Metal
+1041,Volvo,C40 Recharge,2021,Denmark,Tan
+1042,Audi,e-tron GT,2022,Czech Republic,Ice Silver
+1043,Nissan,Ariya,2018,France,Matte Black
+1044,BMW,iX1,2018,Sweden,Beige
+1045,Honda,Honda Prologue,2020,Russia,Emerald Green
+1046,Mazda,MX-30,2016,Denmark,Navy Blue
+1047,Li Auto,L7,2018,Germany,Candy Apple Red
+1048,Mazda,MX-30,2015,Finland,Matte Green
+1049,Genesis,G80 Electric,2016,Belgium,Matte Green
+1050,GMC,Hummer EV Pickup,2017,Thailand,Brown
+1051,XPeng,P7,2022,Poland,Electric Blue
+1052,Genesis,GV70 Electric,2023,USA,Platinum
+1053,Zeekr,Zeekr 009,2015,Sweden,Matte White
+1054,Li Auto,L7,2018,Denmark,Charcoal
+1055,Opel,Mokka-e,2021,Germany,Silver
+1056,Cadillac,Celestiq,2021,Denmark,Lime Green
+1057,NIO,ET5,2024,Indonesia,Sunset Orange
+1058,Ford,Mustang Mach-E,2020,Czech Republic,Gun Metal
+1059,Mini,Mini Electric,2024,New Zealand,Emerald Green
+1060,Nissan,Ariya,2023,Italy,Green
+1061,Kia,EV9,2023,France,Pearl White
+1062,Canoo,MPDV,2025,China,Candy Apple Red
+1063,Rimac,Nevera,2017,Czech Republic,Bronze
+1064,Maserati,Grecale Folgore,2017,China,Midnight Black
+1065,Maserati,Grecale Folgore,2016,Russia,Racing Red
+1066,Polestar,Polestar 2,2023,Malaysia,Stealth Gray
+1067,Skoda,Enyaq,2022,Sweden,Navy Blue
+1068,Hyundai,Ioniq 5,2017,Argentina,Lime Green
+1069,Ferrari,SF90 Stradale (PHEV),2016,Singapore,Purple
+1070,Opel,Grandland Electric,2019,Italy,Pearl White
+1071,Maserati,GranTurismo Folgore,2024,Mexico,Gun Metal
+1072,Fisker,Pear (upcoming),2025,Norway,Teal
+1073,Porsche,Taycan,2024,Australia,Emerald Green
+1074,MG,MG ES5,2017,Saudi Arabia,Burgundy
+1075,BMW,iX3,2019,Finland,Volcanic Yellow
+1076,Toyota,Lexus UX 300e,2017,Thailand,Matte Black
+1077,Acura,ZDX (with GM Ultium),2025,Denmark,Crimson Red
+1078,Skoda,Elroq (upcoming),2020,Netherlands,Beige
+1079,Lotus,Evija,2025,Germany,Turquoise
+1080,GMC,Hummer EV SUV,2022,Finland,Emerald Green
+1081,Great Wall Motors,ORA Ballet Cat,2022,UK,Silver
+1082,Kia,EV6,2020,Indonesia,Platinum
+1083,Nissan,Ariya,2017,Japan,Green
+1084,Great Wall Motors,ORA Ballet Cat,2015,Turkey,Forest Green
+1085,Li Auto,L7,2020,Portugal,Candy Apple Red
+1086,Mini,Mini Cooper SE,2023,Finland,Purple
+1087,Zeekr,Zeekr 009,2015,Austria,Turquoise
+1088,Rimac,Nevera,2018,United Arab Emirates,Brown
+1089,NIO,EC6,2024,Vietnam,Crimson Red
+1090,Peugeot,e-208,2017,South Africa,Red
+1091,Audi,e-tron GT,2018,India,Blue
+1092,Dacia,Bigster EV (upcoming),2020,Australia,Lime Green
+1093,BYD,Atto 3,2025,Sweden,Purple
+1094,Mini,Mini Aceman,2018,New Zealand,Ruby Red
+1095,Genesis,GV70 Electric,2015,Vietnam,Yellow
+1096,Lamborghini,Revuelto (PHEV),2018,Saudi Arabia,Matte Green
+1097,Genesis,G80 Electric,2022,Spain,Pink
+1098,Geely,Emgrand EV,2024,Belgium,Pink
+1099,Mahindra,Born Electric (upcoming range),2017,France,Sky Blue
+1100,Lucid Motors,Lucid Air,2015,South Africa,Sunset Orange
+1101,MG,MG5 EV,2017,Japan,Burgundy
+1102,VinFast,VFe34 (discontinued),2020,UK,Matte Green
+1103,Fisker,Ocean,2016,Singapore,White
+1104,Jaguar,I-PACE,2021,Australia,Sky Blue
+1105,Jaguar,I-PACE,2021,Italy,Candy Apple Red
+1106,GMC,Hummer EV Pickup,2015,Norway,Lime Green
+1107,Porsche,Taycan,2016,USA,Pink
+1108,Nissan,Leaf,2020,Switzerland,White
+1109,Canoo,Lifestyle Vehicle,2016,United Arab Emirates,Teal
+1110,Honda,e:Ny1,2017,New Zealand,Pearl White
+1111,Renault,Megane E-Tech,2021,South Africa,Copper
+1112,Seat,Avenger,2015,Singapore,Champagne
+1113,Geely,Emgrand EV,2025,Spain,Forest Green
+1114,Jaguar,I-PACE,2023,Indonesia,Racing Red
+1115,Zeekr,Zeekr 001,2023,France,Black
+1116,Li Auto,MEGA,2016,Czech Republic,Platinum
+1117,Jaguar,I-PACE,2015,Malaysia,Teal
+1118,Tesla,Model X,2018,Malaysia,Cobalt Blue
+1119,Jeep,Wrangler 4xe (PHEV),2023,Thailand,Bronze
+1120,VinFast,VF 6,2015,Spain,Black
+1121,Dacia,Bigster EV (upcoming),2024,Finland,Gold
+1122,VinFast,VFe34 (discontinued),2023,Canada,Sky Blue
+1123,Kia,Niro EV,2018,Norway,Crimson Red
+1124,Mazda,MX-30,2024,Italy,Lime Green
+1125,Hyundai,Ioniq 7 (upcoming),2015,France,Gold
+1126,Seat,Avenger,2017,Turkey,Matte White
+1127,Honda,Honda Prologue,2023,Turkey,Matte Black
+1128,Tesla,Cybertruck,2017,UK,Lime Green
+1129,XPeng,P7,2025,Netherlands,Burgundy
+1130,Mini,Mini Cooper SE,2025,UK,Burgundy
+1131,Polestar,Polestar 3,2022,Australia,Yellow
+1132,Li Auto,L9,2024,Malaysia,Bronze
+1133,Kia,EV9,2017,Saudi Arabia,Matte White
+1134,XPeng,X9,2023,Sweden,Aurora Blue
+1135,Audi,e-tron,2019,Belgium,Volcanic Yellow
+1136,Volvo,C40 Recharge,2022,Hungary,Gold
+1137,BYD,Seal,2019,Czech Republic,Metallic Silver
+1138,Audi,A6 e-tron (upcoming),2017,USA,Volcanic Yellow
+1139,Toyota,Lexus RZ,2023,India,Cream
+1140,Jeep,Recon (upcoming),2024,Hungary,Green
+1141,GMC,Hummer EV Pickup,2024,Japan,Beige
+1142,Cadillac,Optiq (upcoming),2023,Italy,Ruby Red
+1143,Mahindra,XUV400,2015,Spain,Matte Blue
+1144,Lamborghini,Lanzador (upcoming EV),2021,Poland,Burgundy
+1145,Geely,Geometry C,2020,Argentina,Burgundy
+1146,Pininfarina,Battista,2015,Vietnam,Ice Silver
+1147,Great Wall Motors,ORA Ballet Cat,2025,UK,Yellow
+1148,Maserati,GranTurismo Folgore,2015,New Zealand,Cream
+1149,Fisker,Pear (upcoming),2015,Netherlands,Gold
+1150,Lotus,Emeya,2018,India,Matte Blue
+1151,Honda,Honda e (discontinued),2017,Portugal,Turquoise
+1152,Genesis,G80 Electric,2020,Malaysia,Charcoal
+1153,Geely,Geometry C,2018,United Arab Emirates,Titanium
+1154,Dacia,Jogger Hybrid,2025,Japan,Forest Green
+1155,Rimac,Nevera,2019,France,Rose Gold
+1156,Audi,Q8 e-tron,2020,Saudi Arabia,Platinum
+1157,Rivian,R1S,2023,Saudi Arabia,Charcoal
+1158,Ferrari,Ferrari EV (2025+),2021,South Korea,Gun Metal
+1159,Geely,Emgrand EV,2017,India,Matte White
+1160,Geely,Geometry A,2023,United Arab Emirates,Ruby Red
+1161,Lotus,Evija,2015,Canada,Platinum
+1162,Lotus,Emeya,2022,United Arab Emirates,Lime Green
+1163,Canoo,Pickup,2018,Czech Republic,Matte Gray
+1164,VinFast,VF 9,2019,Hungary,Matte Blue
+1165,Porsche,Taycan,2020,China,Candy Apple Red
+1166,Toyota,bZ4X,2016,Austria,Green
+1167,Canoo,MPDV,2019,Vietnam,Metallic Silver
+1168,GMC,Hummer EV SUV,2017,United Arab Emirates,Matte Gray
+1169,Audi,Q4 e-tron,2015,Australia,Matte Green
+1170,Zeekr,Zeekr 009,2022,United Arab Emirates,Green
+1171,Pininfarina,Battista,2016,India,Copper
+1172,Toyota,bZ4X,2024,Ireland,Charcoal
+1173,Honda,Honda e (discontinued),2020,Japan,Titanium
+1174,Mahindra,XUV400,2024,Mexico,Cosmic Purple
+1175,Porsche,Macan EV,2023,South Africa,Matte Black
+1176,Audi,Q8 e-tron,2023,Brazil,Burgundy
+1177,BYD,Han EV,2024,Norway,Purple
+1178,Canoo,MPDV,2017,USA,Sky Blue
+1179,Ferrari,Roma PHEV,2023,South Africa,Matte Green
+1180,Cadillac,Celestiq,2019,Sweden,Graphite Gray
+1181,Opel,Corsa-e,2015,Austria,Cream
+1182,Honda,Honda e (discontinued),2018,Saudi Arabia,Bronze
+1183,Honda,Honda Prologue,2023,Poland,Cobalt Blue
+1184,Toyota,Lexus UX 300e,2015,Netherlands,Cream
+1185,Pininfarina,Battista,2016,France,Gun Metal
+1186,Kia,Soul EV,2017,Norway,Ice Silver
+1187,Seat,Avenger,2025,Singapore,Purple
+1188,Rimac,Nevera,2020,Israel,Cobalt Blue
+1189,Mahindra,XUV400,2022,Israel,Teal
+1190,XPeng,G9,2025,USA,Orange
+1191,GMC,Hummer EV SUV,2016,Finland,Pink
+1192,Ferrari,Roma PHEV,2017,Singapore,Matte Green
+1193,Maserati,GranTurismo Folgore,2022,Italy,Ice Silver
+1194,Seat,Avenger,2018,Mexico,Pearl White
+1195,Rivian,R1S,2020,Norway,Gold
+1196,VinFast,VF 7,2019,Indonesia,Silver
+1197,Li Auto,L9,2018,Italy,Crimson Red
+1198,Lamborghini,Lanzador (upcoming EV),2020,Vietnam,Navy Blue
+1199,Faraday Future,FF 91,2015,Australia,Gold
+1200,Faraday Future,FF 91,2017,France,Pearl White
+1201,Lotus,Evija,2022,Vietnam,Graphite Gray
+1202,Ferrari,Ferrari EV (2025+),2022,South Korea,Cosmic Purple
+1203,Audi,A6 e-tron (upcoming),2021,Mexico,Bronze
+1204,Renault,Kangoo E-Tech,2017,Austria,Emerald Green
+1205,Toyota,Lexus RZ,2019,Singapore,Turquoise
+1206,Chevrolet,Bolt EUV,2015,Malaysia,Cosmic Purple
+1207,Opel,Corsa-e,2023,South Korea,White
+1208,XPeng,X9,2016,UK,Gun Metal
+1209,Cadillac,Lyriq,2017,Belgium,Gold
+1210,Mercedes-Benz,EQE,2024,Argentina,Blue
+1211,NIO,ES6,2021,Czech Republic,Matte Blue
+1212,Lucid Motors,Lucid DreamDrive,2019,Ireland,Magenta
+1213,Jaguar,I-PACE,2019,Mexico,Racing Red
+1214,MG,MG ZS EV,2023,Belgium,Charcoal
+1215,Volvo,C40 Recharge,2023,Australia,Copper
+1216,Volvo,C40 Recharge,2019,South Africa,Turquoise
+1217,NIO,ES7,2022,Mexico,Emerald Green
+1218,XPeng,P5,2024,UK,Gray
+1219,GMC,Hummer EV SUV,2023,Singapore,Turquoise
+1220,Toyota,bZ4X,2018,Czech Republic,Platinum
+1221,Polestar,Polestar 3,2021,South Korea,Cobalt Blue
+1222,Nissan,Leaf,2023,Sweden,Pearl White
+1223,Rimac,Nevera,2018,Australia,Graphite Gray
+1224,Lucid Motors,Lucid DreamDrive,2017,Sweden,Pink
+1225,Rimac,Nevera,2018,Brazil,Silver
+1226,Genesis,GV60,2015,Hungary,Midnight Black
+1227,Ferrari,Ferrari EV (2025+),2016,Russia,Green
+1228,Dacia,Jogger Hybrid,2023,Russia,Volcanic Yellow
+1229,Skoda,Enyaq,2018,Ireland,Matte Black
+1230,Volvo,C40 Recharge,2018,South Korea,Green
+1231,Citroen,Ami,2017,Thailand,Charcoal
+1232,Skoda,Elroq (upcoming),2025,Spain,Brown
+1233,Volkswagen,ID.4,2018,Germany,Graphite Gray
+1234,Peugeot,e-2008,2025,India,Blue
+1235,Polestar,Polestar 5 (upcoming),2018,Portugal,Champagne
+1236,Subaru,Solterra,2025,South Korea,Cream
+1237,BYD,Dolphin,2016,China,Matte Green
+1238,Audi,A6 e-tron (upcoming),2025,India,Matte Green
+1239,BMW,i7,2015,China,White
+1240,Subaru,Solterra,2018,Saudi Arabia,Sunset Orange
+1241,Audi,e-tron GT,2021,Italy,Midnight Black
+1242,Ferrari,Ferrari EV (2025+),2023,Singapore,Electric Blue
+1243,Opel,Mokka-e,2020,Netherlands,Silver
+1244,Toyota,Lexus RZ,2024,Italy,White
+1245,XPeng,G9,2024,Denmark,Platinum
+1246,Nissan,Ariya,2018,Portugal,Beige
+1247,Ferrari,Ferrari EV (2025+),2020,Israel,Turquoise
+1248,Changan,Deepal S07,2025,Finland,Matte Black
+1249,Mini,Mini Cooper SE,2018,Austria,Copper
+1250,Ferrari,Ferrari EV (2025+),2024,Singapore,Crimson Red
+1251,Ford,F-150 Lightning,2015,Singapore,Electric Blue
+1252,Polestar,Polestar 3,2016,New Zealand,Orange
+1253,Mazda,Mazda EV (upcoming models),2020,USA,Forest Green
+1254,Ford,F-150 Lightning,2024,Australia,Electric Blue
+1255,Pininfarina,Battista,2025,UK,Cobalt Blue
+1256,Subaru,Solterra,2019,United Arab Emirates,Matte White
+1257,Peugeot,e-2008,2015,France,Electric Blue
+1258,Peugeot,e-5008,2023,Portugal,Matte Green
+1259,Mini,Mini Cooper SE,2022,Hungary,Electric Blue
+1260,Mercedes-Benz,EQA,2021,Netherlands,Stealth Gray
+1261,Nissan,Leaf,2020,Austria,Black
+1262,Zeekr,Zeekr 007,2020,Brazil,Sapphire Blue
+1263,BYD,Tang EV,2015,Russia,Gold
+1264,Maserati,GranTurismo Folgore,2022,Italy,Pearl White
+1265,Mini,Mini Aceman,2022,Spain,Purple
+1266,NIO,ES8,2025,Sweden,Emerald Green
+1267,Pininfarina,Battista,2021,Belgium,Charcoal
+1268,Volkswagen,ID.3,2016,United Arab Emirates,Ice Silver
+1269,Canoo,Pickup,2019,Finland,Matte Blue
+1270,Kia,Niro EV,2017,Australia,Matte Gray
+1271,Porsche,Cayenne Electric (upcoming),2025,USA,Metallic Silver
+1272,Subaru,Solterra,2023,USA,Pearl White
+1273,GMC,Hummer EV SUV,2018,Vietnam,Cream
+1274,Volvo,EX30,2017,Singapore,Teal
+1275,Faraday Future,FF 91,2015,Hungary,Red
+1276,Seat,Avenger,2018,Czech Republic,Sapphire Blue
+1277,MG,MG ZS EV,2025,Saudi Arabia,Ruby Red
+1278,Canoo,MPDV,2016,Turkey,Copper
+1279,Maserati,GranTurismo Folgore,2021,South Korea,Matte White
+1280,VinFast,VF 9,2017,Hungary,Forest Green
+1281,Subaru,Solterra,2024,Vietnam,Charcoal
+1282,Mazda,MX-30,2024,Singapore,Graphite Gray
+1283,Canoo,Pickup,2024,Netherlands,Ruby Red
+1284,Zeekr,Zeekr 007,2015,Netherlands,Metallic Silver
+1285,Acura,ZDX (with GM Ultium),2020,United Arab Emirates,Teal
+1286,BMW,i3,2022,Austria,Forest Green
+1287,Skoda,Enyaq,2018,Saudi Arabia,Emerald Green
+1288,Subaru,Solterra,2015,Sweden,Gun Metal
+1289,Changan,Q05,2024,Germany,Racing Red
+1290,Citroen,Ami,2020,China,Forest Green
+1291,Seat,Avenger,2020,Russia,Lime Green
+1292,XPeng,P5,2020,Singapore,Teal
+1293,Ferrari,SF90 Stradale (PHEV),2020,Poland,Candy Apple Red
+1294,Great Wall Motors,ORA Good Cat,2024,Russia,Cream
+1295,Skoda,Enyaq Coupe,2019,Denmark,Graphite Gray
+1296,Changan,Q05,2025,Saudi Arabia,Matte Blue
+1297,Mini,Mini Aceman,2023,Netherlands,Silver
+1298,Nissan,Leaf,2019,Singapore,Matte White
+1299,Polestar,Polestar 5 (upcoming),2019,Sweden,White
+1300,Chevrolet,Volt (PHEV),2021,India,Teal
+1301,Mazda,Mazda EV (upcoming models),2022,Canada,Ruby Red
+1302,Acura,ZDX (with GM Ultium),2021,Spain,Magenta
+1303,Mini,Mini Cooper SE,2021,Sweden,Beige
+1304,Great Wall Motors,ORA Good Cat,2020,USA,Gun Metal
+1305,Honda,Honda Prologue,2019,Austria,Gun Metal
+1306,Rimac,Nevera,2022,Netherlands,Yellow
+1307,Porsche,Taycan,2016,Australia,Emerald Green
+1308,Fisker,Pear (upcoming),2025,Brazil,Sky Blue
+1309,Mahindra,Born Electric (upcoming range),2024,South Korea,Emerald Green
+1310,Volvo,EX30,2025,Czech Republic,Racing Red
+1311,Seat,Avenger,2018,Saudi Arabia,Graphite Gray
+1312,Seat,Avenger,2018,Turkey,Aurora Blue
+1313,Maserati,GranTurismo Folgore,2018,Norway,Purple
+1314,Renault,5 E-Tech,2022,Brazil,Yellow
+1315,Peugeot,e-5008,2022,Austria,Magenta
+1316,VinFast,VF 9,2019,Ireland,Matte White
+1317,Dacia,Bigster EV (upcoming),2017,Netherlands,Copper
+1318,Citroen,Ami,2024,Russia,Turquoise
+1319,Jaguar,I-PACE,2017,China,Lime Green
+1320,Changan,SL03,2020,Portugal,Burgundy
+1321,Lotus,Eletre,2016,Vietnam,Stealth Gray
+1322,Hyundai,Ioniq 6,2020,Singapore,Titanium
+1323,Rimac,Nevera,2023,Hungary,Green
+1324,Rimac,Nevera,2017,UK,Matte Blue
+1325,Volkswagen,ID.Buzz,2020,Hungary,Matte Black
+1326,BMW,iX,2019,South Africa,Ice Silver
+1327,Seat,Avenger,2023,South Korea,Sapphire Blue
+1328,Acura,ZDX (with GM Ultium),2022,Israel,Forest Green
+1329,Mazda,MX-30,2021,Russia,Aurora Blue
+1330,Tesla,Model X,2018,Indonesia,Platinum
+1331,Acura,ZDX (with GM Ultium),2020,Canada,Turquoise
+1332,Tesla,Model X,2017,Spain,Yellow
+1333,Rimac,Nevera,2015,Ireland,Ice Silver
+1334,Citroen,??-Spacetourer,2024,Belgium,Rose Gold
+1335,Changan,Deepal S07,2018,Portugal,Titanium
+1336,Audi,A6 e-tron (upcoming),2022,Switzerland,Crimson Red
+1337,Tesla,Cybertruck,2015,Germany,Tan
+1338,Audi,e-tron GT,2018,Portugal,Bronze
+1339,Toyota,bZ4X,2024,Finland,Blue
+1340,Maserati,GranTurismo Folgore,2015,Singapore,Gold
+1341,VinFast,VF 7,2017,Finland,Matte White
+1342,NIO,ES6,2015,Sweden,Blue
+1343,Renault,5 E-Tech,2016,Hungary,Gun Metal
+1344,Nissan,Ariya,2018,France,Green
+1345,NIO,EL7,2017,Portugal,Navy Blue
+1346,Great Wall Motors,ORA Good Cat,2022,Poland,Crimson Red
+1347,Ford,E-Transit,2017,Germany,Lime Green
+1348,GMC,Hummer EV Pickup,2018,New Zealand,Gray
+1349,Skoda,Enyaq,2019,France,Yellow
+1350,Faraday Future,FF 91,2023,Spain,Tan
+1351,Rivian,R1S,2021,Austria,Graphite Gray
+1352,Ferrari,SF90 Stradale (PHEV),2022,Thailand,Blue
+1353,Renault,5 E-Tech,2018,Malaysia,Bronze
+1354,Rimac,Nevera,2021,Russia,Metallic Silver
+1355,Rivian,R1T,2015,Thailand,Cosmic Purple
+1356,Ferrari,Ferrari EV (2025+),2016,UK,Rose Gold
+1357,Changan,Q05,2024,USA,Beige
+1358,Great Wall Motors,ORA Lightning Cat,2021,France,Orange
+1359,Hyundai,Ioniq 6,2016,Singapore,Charcoal
+1360,Tesla,Model S,2020,India,Purple
+1361,Zeekr,Zeekr 007,2017,Italy,Black
+1362,Volvo,EX90,2024,Japan,Charcoal
+1363,Changan,SL03,2020,Australia,Teal
+1364,Lamborghini,Lanzador (upcoming EV),2016,Brazil,Purple
+1365,Changan,Q05,2017,Belgium,Matte Gray
+1366,Volkswagen,ID.7,2025,Argentina,Matte White
+1367,Citroen,??-Spacetourer,2019,Indonesia,Candy Apple Red
+1368,Hyundai,Ioniq 6,2018,Sweden,Rose Gold
+1369,Mercedes-Benz,EQE,2020,Thailand,Midnight Black
+1370,Seat,Avenger,2017,Malaysia,Matte White
+1371,Mercedes-Benz,EQC,2025,Poland,Graphite Gray
+1372,Toyota,bZ4X,2019,UK,Charcoal
+1373,Fisker,Pear (upcoming),2024,UK,Copper
+1374,Hyundai,Ioniq 5,2022,Israel,Sky Blue
+1375,Lotus,Emeya,2024,Brazil,Black
+1376,Lucid Motors,Lucid DreamDrive,2019,South Korea,Cream
+1377,Kia,EV9,2015,Israel,Platinum
+1378,Subaru,Solterra,2016,United Arab Emirates,Sunset Orange
+1379,Skoda,Elroq (upcoming),2024,Australia,Rose Gold
+1380,Rivian,R1S,2020,South Africa,Matte Gray
+1381,Cadillac,Lyriq,2018,Canada,Graphite Gray
+1382,Acura,ZDX (with GM Ultium),2019,Malaysia,Silver
+1383,Lamborghini,Revuelto (PHEV),2025,USA,Silver
+1384,Porsche,Macan EV,2016,Brazil,Matte Gray
+1385,Skoda,Enyaq Coupe,2016,Sweden,Turquoise
+1386,NIO,ET7,2015,South Africa,Platinum
+1387,Maserati,Grecale Folgore,2024,Poland,White
+1388,Volvo,XC40 Recharge,2017,United Arab Emirates,Cobalt Blue
+1389,GMC,Hummer EV SUV,2018,Portugal,Stealth Gray
+1390,VinFast,VF 9,2016,Italy,Orange
+1391,Volvo,EX30,2024,Japan,Emerald Green
+1392,Mazda,Mazda EV (upcoming models),2021,Japan,Charcoal
+1393,Jaguar,I-PACE,2021,New Zealand,Crimson Red
+1394,Nissan,Leaf,2022,Norway,Sunset Orange
+1395,Ford,Explorer EV (Europe),2017,USA,Gray
+1396,Rivian,EDV (Electric Delivery Van),2023,Vietnam,Matte Black
+1397,Lotus,Evija,2021,Belgium,Navy Blue
+1398,Lucid Motors,Lucid DreamDrive,2021,USA,Gold
+1399,Great Wall Motors,ORA Ballet Cat,2024,China,Rose Gold
+1400,Great Wall Motors,ORA Good Cat,2021,Sweden,Midnight Black
+1401,Cadillac,Lyriq,2022,Canada,Turquoise
+1402,Kia,EV9,2024,Indonesia,Racing Red
+1403,Skoda,Enyaq Coupe,2019,Australia,Candy Apple Red
+1404,Geely,Geometry A,2020,Australia,Tan
+1405,Ferrari,Roma PHEV,2022,Thailand,Silver
+1406,Kia,Niro EV,2024,UK,Matte White
+1407,Opel,Grandland Electric,2021,Netherlands,Platinum
+1408,Honda,Honda e (discontinued),2025,USA,Magenta
+1409,Maserati,Grecale Folgore,2025,China,Navy Blue
+1410,Maserati,Grecale Folgore,2024,USA,Midnight Black
+1411,Faraday Future,FF 91,2020,Japan,Burgundy
+1412,VinFast,VF 7,2024,Thailand,Forest Green
+1413,Fisker,Ocean,2016,South Korea,Matte Blue
+1414,Volkswagen,ID.3,2016,Israel,Magenta
+1415,Opel,Mokka-e,2025,Israel,Yellow
+1416,Great Wall Motors,ORA Lightning Cat,2018,Sweden,Purple
+1417,Seat,Avenger,2024,Saudi Arabia,Pearl White
+1418,Kia,Soul EV,2020,Italy,Electric Blue
+1419,Geely,Geometry C,2024,Spain,Ice Silver
+1420,Faraday Future,FF 91,2023,Japan,Champagne
+1421,Jeep,Recon (upcoming),2020,Czech Republic,Matte White
+1422,Peugeot,e-2008,2023,Norway,Cream
+1423,BYD,Seal,2018,Thailand,Matte Blue
+1424,Porsche,Panamera EV,2025,Israel,Metallic Silver
+1425,Polestar,Polestar 4,2016,Indonesia,Ruby Red
+1426,Pininfarina,Battista,2024,Germany,Silver
+1427,Polestar,Polestar 4,2018,Israel,Green
+1428,Changan,Deepal S07,2025,South Korea,Tan
+1429,Fisker,Ocean,2015,Vietnam,Candy Apple Red
+1430,Tesla,Roadster (upcoming),2024,France,Cosmic Purple
+1431,Porsche,Cayenne Electric (upcoming),2022,Japan,Stealth Gray
+1432,Chevrolet,Volt (PHEV),2021,UK,Black
+1433,Porsche,Taycan,2017,Russia,Navy Blue
+1434,Ferrari,Roma PHEV,2022,Argentina,Matte White
+1435,Toyota,Lexus UX 300e,2022,Ireland,White
+1436,Toyota,bZ4X,2016,Japan,Titanium
+1437,Subaru,Solterra,2025,Spain,Matte Black
+1438,Genesis,GV80 Electric,2021,Austria,Stealth Gray
+1439,BYD,Atto 3,2024,Singapore,Pearl White
+1440,Lamborghini,Lanzador (upcoming EV),2015,Japan,Pink
+1441,Rivian,R1T,2021,Canada,Ice Silver
+1442,Genesis,GV80 Electric,2016,Switzerland,Pink
+1443,Citroen,??-C4,2024,Turkey,Rose Gold
+1444,Mini,Mini Aceman,2019,United Arab Emirates,Ruby Red
+1445,Li Auto,MEGA,2018,USA,Sky Blue
+1446,Ferrari,Ferrari EV (2025+),2017,Switzerland,Navy Blue
+1447,Canoo,Pickup,2024,Israel,Ice Silver
+1448,Subaru,Solterra,2016,Norway,Gun Metal
+1449,Honda,Honda e (discontinued),2023,Portugal,Navy Blue
+1450,Renault,Megane E-Tech,2021,Portugal,Ruby Red
+1451,Kia,EV9,2025,Mexico,Green
+1452,Cadillac,Lyriq,2021,Japan,Matte White
+1453,Li Auto,L8,2025,Germany,Black
+1454,Genesis,G80 Electric,2025,Ireland,Orange
+1455,Volkswagen,ID.3,2023,Norway,Blue
+1456,Rivian,R1S,2024,Russia,Platinum
+1457,Mercedes-Benz,EQE SUV,2018,Australia,Crimson Red
+1458,Canoo,MPDV,2015,Belgium,Copper
+1459,Fisker,Ocean,2021,Germany,Bronze
+1460,Jaguar,I-PACE,2024,Sweden,Tan
+1461,Cadillac,Optiq (upcoming),2023,Russia,Platinum
+1462,Cadillac,Optiq (upcoming),2021,Australia,Red
+1463,Jeep,Grand Cherokee 4xe (PHEV),2024,New Zealand,Racing Red
+1464,Porsche,Panamera EV,2021,Spain,Cobalt Blue
+1465,Hyundai,Ioniq 5,2017,Australia,Lime Green
+1466,Genesis,GV70 Electric,2015,South Africa,Electric Blue
+1467,Chevrolet,Equinox EV,2024,Italy,Lime Green
+1468,Lotus,Eletre,2018,France,Cobalt Blue
+1469,Canoo,Lifestyle Vehicle,2025,Argentina,Lime Green
+1470,Ferrari,Roma PHEV,2022,Poland,Forest Green
+1471,Mini,Mini Aceman,2020,Netherlands,Ruby Red
+1472,Citroen,Ami,2025,Ireland,Matte Blue
+1473,Lucid Motors,Lucid Gravity,2017,USA,Gun Metal
+1474,Opel,Corsa-e,2020,China,Purple
+1475,Hyundai,Ioniq 7 (upcoming),2018,Spain,Metallic Silver
+1476,Fisker,Pear (upcoming),2023,Portugal,Gold
+1477,BMW,iX3,2022,USA,Titanium
+1478,Cadillac,Optiq (upcoming),2023,Netherlands,Cream
+1479,XPeng,G9,2025,Hungary,Cream
+1480,Zeekr,Zeekr X,2018,Ireland,Metallic Silver
+1481,Citroen,??-Spacetourer,2022,Japan,Pearl White
+1482,Canoo,MPDV,2025,Sweden,Rose Gold
+1483,Lamborghini,Revuelto (PHEV),2020,Thailand,Ruby Red
+1484,Nissan,Ariya,2018,Portugal,Turquoise
+1485,Lucid Motors,Lucid Air,2022,Belgium,Volcanic Yellow
+1486,Li Auto,L8,2018,Italy,White
+1487,Canoo,MPDV,2022,Thailand,Blue
+1488,Volkswagen,ID.Buzz,2023,Israel,Matte White
+1489,BMW,iX3,2018,Denmark,Pearl White
+1490,Volvo,XC40 Recharge,2024,Vietnam,Matte White
+1491,Rimac,Nevera,2019,Czech Republic,Gun Metal
+1492,Acura,ZDX (with GM Ultium),2023,Czech Republic,Titanium
+1493,BYD,Tang EV,2016,Indonesia,Forest Green
+1494,Geely,Geometry A,2019,Denmark,Gray
+1495,Skoda,Enyaq,2016,Vietnam,Purple
+1496,Honda,Honda Prologue,2016,India,Cosmic Purple
+1497,Changan,Q05,2015,Singapore,Emerald Green
+1498,Rivian,R1S,2020,Russia,Gun Metal
+1499,Changan,SL03,2017,Saudi Arabia,Green
+1500,Cadillac,Celestiq,2021,Switzerland,Aurora Blue
+1501,Chevrolet,Bolt EUV,2023,India,Sunset Orange
+1502,GMC,Hummer EV Pickup,2018,Germany,Midnight Black
+1503,Lucid Motors,Lucid Air,2017,Ireland,Red
+1504,Canoo,Pickup,2016,Hungary,Candy Apple Red
+1505,Jaguar,I-PACE,2015,Norway,Charcoal
+1506,Geely,Geometry C,2022,Thailand,Silver
+1507,Rivian,EDV (Electric Delivery Van),2020,Turkey,Sapphire Blue
+1508,Great Wall Motors,ORA Ballet Cat,2019,New Zealand,Brown
+1509,Ferrari,SF90 Stradale (PHEV),2021,Turkey,Cobalt Blue
+1510,Renault,Megane E-Tech,2019,Switzerland,Matte Black
+1511,Dacia,Bigster EV (upcoming),2024,Hungary,Purple
+1512,Canoo,Pickup,2021,France,Beige
+1513,Audi,e-tron,2020,China,Ice Silver
+1514,Canoo,MPDV,2023,Netherlands,Emerald Green
+1515,Opel,Grandland Electric,2023,New Zealand,Ruby Red
+1516,Lotus,Eletre,2021,Argentina,Ruby Red
+1517,Nissan,Ariya,2023,Saudi Arabia,Metallic Silver
+1518,XPeng,P7,2015,USA,Gray
+1519,MG,MG ES5,2019,Russia,Teal
+1520,NIO,EL7,2020,Indonesia,Red
+1521,Audi,A6 e-tron (upcoming),2024,Denmark,Metallic Silver
+1522,Canoo,Pickup,2015,Poland,Sapphire Blue
+1523,Porsche,Taycan,2020,China,Bronze
+1524,Great Wall Motors,ORA Ballet Cat,2022,United Arab Emirates,Charcoal
+1525,Rimac,Nevera,2022,USA,Graphite Gray
+1526,Nissan,Ariya,2024,Netherlands,White
+1527,Fisker,Ocean,2020,Japan,Charcoal
+1528,Zeekr,Zeekr 007,2020,Portugal,Brown
+1529,Citroen,Ami,2017,France,Bronze
+1530,Peugeot,e-3008,2023,Czech Republic,Aurora Blue
+1531,XPeng,G6,2024,UK,Matte Black
+1532,Ferrari,Roma PHEV,2021,Italy,Forest Green
+1533,Nissan,Leaf,2017,Vietnam,Stealth Gray
+1534,Mini,Mini Aceman,2019,Malaysia,Burgundy
+1535,GMC,Hummer EV Pickup,2022,Ireland,Champagne
+1536,XPeng,X9,2018,Germany,Charcoal
+1537,Jaguar,I-PACE,2025,Saudi Arabia,Burgundy
+1538,Canoo,Lifestyle Vehicle,2025,Japan,Gun Metal
+1539,Lamborghini,Revuelto (PHEV),2021,Vietnam,Lime Green
+1540,Li Auto,MEGA,2020,Malaysia,Teal
+1541,Rivian,R1T,2020,Italy,Teal
+1542,Toyota,Lexus UX 300e,2019,Poland,Red
+1543,VinFast,VF 8,2015,Saudi Arabia,Platinum
+1544,BMW,iX,2018,Indonesia,Gold
+1545,Renault,Kangoo E-Tech,2019,Switzerland,Aurora Blue
+1546,BYD,Dolphin,2017,Thailand,Graphite Gray
+1547,Pininfarina,Battista,2025,Argentina,Beige
+1548,Zeekr,Zeekr 007,2015,Spain,Cosmic Purple
+1549,Mazda,MX-30,2025,USA,Pink
+1550,Audi,Q4 e-tron,2016,Israel,Blue
+1551,Peugeot,e-2008,2024,Denmark,Forest Green
+1552,Nissan,Ariya,2017,India,Gun Metal
+1553,Peugeot,e-5008,2018,Italy,Gray
+1554,Renault,Kangoo E-Tech,2021,New Zealand,Yellow
+1555,Jaguar,I-PACE,2019,Poland,Sunset Orange
+1556,Lamborghini,Lanzador (upcoming EV),2018,Brazil,Stealth Gray
+1557,Citroen,??-C4,2025,Poland,Green
+1558,Porsche,Panamera EV,2020,United Arab Emirates,Gold
+1559,Subaru,Solterra,2018,UK,Ice Silver
+1560,Jaguar,I-PACE,2024,USA,Ice Silver
+1561,Kia,Niro EV,2015,New Zealand,Matte White
+1562,Honda,e:Ny1,2021,United Arab Emirates,Cobalt Blue
+1563,Lotus,Emeya,2021,USA,Matte Gray
+1564,Audi,Q4 e-tron,2019,South Korea,Metallic Silver
+1565,Nissan,Ariya,2017,Indonesia,Cream
+1566,Ford,Mustang Mach-E,2016,Italy,Charcoal
+1567,Jeep,Grand Cherokee 4xe (PHEV),2017,Finland,Lime Green
+1568,Volvo,XC40 Recharge,2018,Switzerland,Orange
+1569,Volkswagen,ID.4,2019,Norway,White
+1570,Faraday Future,FF 91,2018,Portugal,Forest Green
+1571,Fisker,Pear (upcoming),2016,China,Rose Gold
+1572,GMC,Hummer EV SUV,2021,Argentina,Matte Blue
+1573,Rimac,Nevera,2020,Singapore,Navy Blue
+1574,Jeep,Grand Cherokee 4xe (PHEV),2019,Indonesia,Ice Silver
+1575,Mini,Mini Cooper SE,2021,France,Tan
+1576,Cadillac,Optiq (upcoming),2025,Thailand,Yellow
+1577,Nissan,Ariya,2018,USA,Navy Blue
+1578,Nissan,Leaf,2021,Thailand,Copper
+1579,Rimac,Nevera,2017,Thailand,Teal
+1580,Acura,ZDX (with GM Ultium),2015,Canada,Lime Green
+1581,Hyundai,Ioniq 7 (upcoming),2022,Japan,Orange
+1582,XPeng,G6,2024,Austria,Crimson Red
+1583,Faraday Future,FF 91,2025,Spain,Cobalt Blue
+1584,Cadillac,Lyriq,2015,Israel,Copper
+1585,Subaru,Solterra,2015,Saudi Arabia,Cream
+1586,Mazda,MX-30,2016,South Korea,Charcoal
+1587,Mini,Mini Electric,2022,UK,Blue
+1588,Rivian,R1T,2016,USA,Sunset Orange
+1589,Volkswagen,ID.2all,2023,China,Ice Silver
+1590,NIO,ES7,2021,Finland,Magenta
+1591,Polestar,Polestar 3,2016,Switzerland,Pink
+1592,Audi,Q8 e-tron,2023,Russia,Ruby Red
+1593,Faraday Future,FF 91,2022,Vietnam,Teal
+1594,Nissan,Ariya,2016,Thailand,Lime Green
+1595,Acura,ZDX (with GM Ultium),2022,USA,Beige
+1596,Volvo,XC40 Recharge,2021,Turkey,Burgundy
+1597,Maserati,Grecale Folgore,2025,New Zealand,White
+1598,Volvo,C40 Recharge,2023,Hungary,Aurora Blue
+1599,Chevrolet,Bolt EV,2019,Argentina,Crimson Red
+1600,Lucid Motors,Lucid Gravity,2022,Czech Republic,Brown
+1601,Cadillac,Celestiq,2023,France,Magenta
+1602,VinFast,VFe34 (discontinued),2016,Italy,Copper
+1603,Nissan,Ariya,2018,Israel,Matte Gray
+1604,Polestar,Polestar 5 (upcoming),2024,Argentina,Champagne
+1605,Ferrari,Ferrari EV (2025+),2015,Brazil,Magenta
+1606,Renault,Megane E-Tech,2021,Japan,Candy Apple Red
+1607,Mini,Mini Aceman,2016,Turkey,Black
+1608,Toyota,Lexus RZ,2022,Saudi Arabia,White
+1609,Subaru,Solterra,2015,Belgium,Pink
+1610,Mazda,MX-30,2021,Malaysia,Turquoise
+1611,VinFast,VF 8,2025,Italy,Matte White
+1612,Zeekr,Zeekr 007,2017,Netherlands,Copper
+1613,Opel,Corsa-e,2016,New Zealand,Electric Blue
+1614,Jaguar,I-PACE,2024,France,Tan
+1615,GMC,Hummer EV Pickup,2022,Israel,Midnight Black
+1616,Dacia,Bigster EV (upcoming),2022,Malaysia,Volcanic Yellow
+1617,Renault,5 E-Tech,2017,Saudi Arabia,Burgundy
+1618,Geely,Geometry A,2016,UK,Yellow
+1619,Fisker,Ocean,2025,Netherlands,Matte Green
+1620,Audi,A6 e-tron (upcoming),2015,Malaysia,Sky Blue
+1621,Polestar,Polestar 3,2017,India,Gray
+1622,Mahindra,XUV400,2016,Belgium,Racing Red
+1623,Ford,F-150 Lightning,2016,India,Rose Gold
+1624,Mahindra,XUV400,2025,South Africa,Electric Blue
+1625,Faraday Future,FF 91,2017,Argentina,Crimson Red
+1626,Volvo,C40 Recharge,2022,Indonesia,Aurora Blue
+1627,Canoo,MPDV,2019,USA,Purple
+1628,Pininfarina,Battista,2017,Russia,Tan
+1629,Opel,Corsa-e,2019,Vietnam,Magenta
+1630,Mazda,Mazda EV (upcoming models),2022,Singapore,Champagne
+1631,Nissan,Leaf,2018,Sweden,Titanium
+1632,Seat,Avenger,2020,Thailand,White
+1633,Tesla,Model S,2016,South Africa,Blue
+1634,Citroen,??-C4,2021,Saudi Arabia,Pearl White
+1635,Tesla,Model X,2025,Italy,Gun Metal
+1636,BMW,i3,2018,South Korea,Turquoise
+1637,Great Wall Motors,ORA Lightning Cat,2023,Turkey,Matte Black
+1638,Mazda,MX-30,2019,Switzerland,Sky Blue
+1639,Rivian,R1S,2019,France,White
+1640,Canoo,Pickup,2023,France,Lime Green
+1641,Seat,Avenger,2021,Canada,Brown
+1642,Jeep,Grand Cherokee 4xe (PHEV),2025,Mexico,Black
+1643,Jeep,Wagoneer S,2021,Israel,Forest Green
+1644,Changan,Q05,2022,Vietnam,Brown
+1645,Ford,E-Transit,2018,United Arab Emirates,Matte Blue
+1646,Dacia,Jogger Hybrid,2017,USA,Forest Green
+1647,Great Wall Motors,ORA Good Cat,2015,New Zealand,Pearl White
+1648,Mazda,MX-30,2020,USA,Blue
+1649,Toyota,bZ4X,2018,New Zealand,Teal
+1650,Skoda,Elroq (upcoming),2024,Thailand,Navy Blue
+1651,Skoda,Enyaq Coupe,2023,Sweden,Turquoise
+1652,Opel,Mokka-e,2024,Spain,Stealth Gray
+1653,Mini,Mini Electric,2021,Mexico,Green
+1654,Ford,Explorer EV (Europe),2015,Spain,Electric Blue
+1655,Mazda,MX-30,2020,Singapore,Aurora Blue
+1656,Acura,ZDX (with GM Ultium),2019,Italy,Champagne
+1657,XPeng,X9,2020,Czech Republic,Gray
+1658,Maserati,GranTurismo Folgore,2025,Germany,Matte Blue
+1659,Genesis,GV70 Electric,2015,Switzerland,Tan
+1660,BMW,iX3,2015,USA,Orange
+1661,Genesis,GV70 Electric,2020,Norway,Stealth Gray
+1662,Geely,Geometry C,2021,Turkey,Black
+1663,Audi,Q4 e-tron,2024,Austria,Teal
+1664,Lamborghini,Revuelto (PHEV),2025,Finland,Candy Apple Red
+1665,Mini,Mini Cooper SE,2024,Thailand,Yellow
+1666,XPeng,G6,2025,South Africa,Matte White
+1667,Mercedes-Benz,G-Class Electric (upcoming),2021,Turkey,Titanium
+1668,XPeng,G9,2017,Hungary,Forest Green
+1669,Ford,Explorer EV (Europe),2020,Argentina,Matte Gray
+1670,Mazda,MX-30,2022,Singapore,Metallic Silver
+1671,Faraday Future,FF 91,2023,Japan,Brown
+1672,Honda,Honda Prologue,2024,Australia,Teal
+1673,Lucid Motors,Lucid Air,2016,Thailand,Graphite Gray
+1674,Genesis,GV80 Electric,2017,United Arab Emirates,Orange
+1675,Lucid Motors,Lucid Air,2017,Singapore,Gold
+1676,Seat,Avenger,2022,Argentina,Gun Metal
+1677,Mahindra,XUV400,2020,Portugal,Red
+1678,MG,MG4 Electric,2025,Austria,Rose Gold
+1679,Mahindra,XUV400,2021,Australia,Lime Green
+1680,Mercedes-Benz,EQS SUV,2024,Vietnam,Volcanic Yellow
+1681,VinFast,VF 8,2020,Australia,Cream
+1682,Ferrari,SF90 Stradale (PHEV),2022,Hungary,Matte Blue
+1683,Nissan,Leaf,2021,USA,Ice Silver
+1684,Rivian,R1S,2018,Austria,Sky Blue
+1685,Faraday Future,FF 91,2016,Brazil,Cream
+1686,Faraday Future,FF 91,2016,Brazil,Cosmic Purple
+1687,Canoo,MPDV,2016,Brazil,Magenta
+1688,Volkswagen,ID.6,2017,France,Beige
+1689,Renault,5 E-Tech,2021,Turkey,Orange
+1690,Ferrari,SF90 Stradale (PHEV),2016,Ireland,Sapphire Blue
+1691,Chevrolet,Volt (PHEV),2024,Malaysia,Tan
+1692,Canoo,MPDV,2023,Sweden,Copper
+1693,Chevrolet,Bolt EUV,2023,Argentina,Turquoise
+1694,Jeep,Wrangler 4xe (PHEV),2019,Poland,Ruby Red
+1695,Genesis,GV70 Electric,2025,Israel,Sky Blue
+1696,Faraday Future,FF 91,2022,UK,Sapphire Blue
+1697,Kia,Niro EV,2021,New Zealand,Brown
+1698,Tesla,Model Y,2025,Portugal,Gold
+1699,Faraday Future,FF 91,2023,South Korea,Teal
+1700,Genesis,GV60,2019,Brazil,Sunset Orange
+1701,MG,MG ZS EV,2015,Hungary,Stealth Gray
+1702,Mercedes-Benz,EQE,2015,United Arab Emirates,Silver
+1703,Jaguar,I-PACE,2018,India,Forest Green
+1704,Great Wall Motors,ORA Good Cat,2015,South Korea,Navy Blue
+1705,VinFast,VF 6,2025,South Africa,White
+1706,Subaru,Solterra,2019,India,Pink
+1707,Geely,Emgrand EV,2025,Israel,Forest Green
+1708,Volvo,XC40 Recharge,2020,New Zealand,Matte Black
+1709,NIO,ET7,2019,Switzerland,Volcanic Yellow
+1710,Skoda,Enyaq Coupe,2017,Thailand,Gun Metal
+1711,Nissan,Ariya,2021,Switzerland,Black
+1712,Volvo,EX90,2025,Brazil,Green
+1713,Mini,Mini Aceman,2017,Spain,Silver
+1714,Maserati,GranTurismo Folgore,2017,Saudi Arabia,Green
+1715,Pininfarina,Battista,2023,Israel,Copper
+1716,Jaguar,I-PACE,2019,France,Racing Red
+1717,Mahindra,XUV400,2025,Denmark,Tan
+1718,Canoo,Lifestyle Vehicle,2021,China,Graphite Gray
+1719,Jeep,Wrangler 4xe (PHEV),2021,USA,Platinum
+1720,NIO,ES6,2018,Mexico,Matte Black
+1721,Polestar,Polestar 5 (upcoming),2025,Austria,Graphite Gray
+1722,Lamborghini,Revuelto (PHEV),2017,Mexico,Purple
+1723,Peugeot,e-2008,2020,France,Midnight Black
+1724,Maserati,GranTurismo Folgore,2018,United Arab Emirates,Navy Blue
+1725,Tesla,Model Y,2024,Israel,Ruby Red
+1726,Volkswagen,ID.Buzz,2019,Denmark,Emerald Green
+1727,GMC,Hummer EV SUV,2018,Austria,Lime Green
+1728,Mercedes-Benz,EQA,2016,Belgium,Sky Blue
+1729,Kia,EV6,2019,Netherlands,Black
+1730,Geely,Geometry C,2020,China,Lime Green
+1731,Kia,EV6,2022,Poland,Purple
+1732,Canoo,Lifestyle Vehicle,2021,Hungary,Beige
+1733,Porsche,Macan EV,2022,Brazil,Matte Green
+1734,Canoo,MPDV,2018,Sweden,Bronze
+1735,Li Auto,L8,2018,Argentina,Aurora Blue
+1736,Chevrolet,Equinox EV,2021,Norway,Matte Gray
+1737,Toyota,bZ4X,2020,South Africa,Matte Gray
+1738,Ferrari,Roma PHEV,2024,New Zealand,Titanium
+1739,Tesla,Model S,2024,Portugal,Electric Blue
+1740,Zeekr,Zeekr 007,2022,Australia,Yellow
+1741,Hyundai,Ioniq 6,2024,Spain,Matte Black
+1742,Fisker,Pear (upcoming),2021,Germany,Brown
+1743,Mazda,MX-30,2020,Hungary,Bronze
+1744,Mahindra,Born Electric (upcoming range),2019,China,Brown
+1745,Subaru,Solterra,2017,Vietnam,Champagne
+1746,Lotus,Evija,2019,India,Lime Green
+1747,Opel,Corsa-e,2017,Switzerland,Ruby Red
+1748,Mahindra,Born Electric (upcoming range),2020,Sweden,Tan
+1749,Mazda,MX-30,2025,France,Crimson Red
+1750,Li Auto,L7,2022,Malaysia,Orange
+1751,NIO,ES6,2021,Ireland,Matte Gray
+1752,Mazda,MX-30,2019,Australia,Candy Apple Red
+1753,Li Auto,MEGA,2019,Brazil,Sunset Orange
+1754,Rimac,Nevera,2018,Singapore,Silver
+1755,MG,MG4 Electric,2018,Mexico,Cobalt Blue
+1756,Volkswagen,ID.6,2021,Germany,Sunset Orange
+1757,Jeep,Wagoneer S,2021,United Arab Emirates,Green
+1758,XPeng,P5,2016,Indonesia,Ruby Red
+1759,XPeng,P5,2023,Thailand,Turquoise
+1760,Dacia,Jogger Hybrid,2018,Czech Republic,Brown
+1761,Porsche,Macan EV,2016,Japan,Beige
+1762,Honda,Honda Prologue,2023,Denmark,White
+1763,Volvo,EX90,2025,New Zealand,Champagne
+1764,Skoda,Enyaq,2015,Hungary,Tan
+1765,Acura,ZDX (with GM Ultium),2016,Singapore,Blue
+1766,NIO,ES8,2020,Norway,Sapphire Blue
+1767,Maserati,Grecale Folgore,2023,Spain,Red
+1768,Kia,EV6,2024,Norway,Yellow
+1769,Hyundai,Ioniq 6,2021,South Korea,Metallic Silver
+1770,Geely,Geometry C,2023,Argentina,Tan
+1771,Dacia,Bigster EV (upcoming),2018,Ireland,Midnight Black
+1772,Ford,Mustang Mach-E,2021,India,Ice Silver
+1773,Renault,5 E-Tech,2017,Turkey,Platinum
+1774,XPeng,G6,2025,Portugal,Metallic Silver
+1775,Volvo,C40 Recharge,2025,Australia,Matte Gray
+1776,Lamborghini,Lanzador (upcoming EV),2024,Finland,Charcoal
+1777,MG,MG ZS EV,2017,United Arab Emirates,Copper
+1778,VinFast,VF 8,2019,Japan,Pink
+1779,Jeep,Wagoneer S,2021,Brazil,Pink
+1780,Geely,Emgrand EV,2021,Indonesia,Blue
+1781,Faraday Future,FF 91,2023,Malaysia,Stealth Gray
+1782,Rivian,R1S,2016,Singapore,Cosmic Purple
+1783,Renault,Megane E-Tech,2020,Indonesia,Racing Red
+1784,Mini,Mini Aceman,2021,South Africa,Cream
+1785,Mercedes-Benz,EQE SUV,2025,USA,Matte White
+1786,Zeekr,Zeekr 009,2021,Turkey,Champagne
+1787,Toyota,Lexus UX 300e,2019,Denmark,Teal
+1788,Acura,ZDX (with GM Ultium),2023,China,Sky Blue
+1789,Rimac,Nevera,2025,Finland,Bronze
+1790,Jaguar,I-PACE,2022,Brazil,Electric Blue
+1791,Citroen,Ami,2020,South Africa,Gray
+1792,Great Wall Motors,ORA Lightning Cat,2021,Turkey,Green
+1793,Audi,Q4 e-tron,2018,Brazil,Yellow
+1794,Ford,Explorer EV (Europe),2015,Italy,Cream
+1795,Ferrari,SF90 Stradale (PHEV),2016,Sweden,Sky Blue
+1796,Renault,5 E-Tech,2023,Italy,Matte Gray
+1797,BYD,Dolphin,2022,Germany,Navy Blue
+1798,Cadillac,Optiq (upcoming),2016,Poland,Bronze
+1799,Kia,EV9,2019,Singapore,Lime Green
+1800,Great Wall Motors,ORA Good Cat,2020,Poland,Emerald Green
+1801,Faraday Future,FF 91,2017,Russia,Blue
+1802,Jeep,Recon (upcoming),2022,Spain,Ruby Red
+1803,Audi,Q4 e-tron,2023,Spain,Cream
+1804,Kia,EV9,2023,Belgium,Charcoal
+1805,Peugeot,e-3008,2022,Indonesia,Ruby Red
+1806,Li Auto,L8,2018,France,Sunset Orange
+1807,Renault,Kangoo E-Tech,2025,Hungary,Teal
+1808,Opel,Mokka-e,2015,Finland,Teal
+1809,Changan,Q05,2025,Hungary,Matte Black
+1810,Faraday Future,FF 91,2025,Denmark,Teal
+1811,Lotus,Evija,2021,UK,Bronze
+1812,Toyota,bZ4X,2015,Austria,Sapphire Blue
+1813,Geely,Geometry A,2019,Austria,Sky Blue
+1814,MG,MG4 Electric,2020,Israel,Cobalt Blue
+1815,NIO,EC6,2024,China,Pearl White
+1816,Jeep,Recon (upcoming),2025,Thailand,Magenta
+1817,BYD,Seagull,2018,South Africa,Orange
+1818,Rivian,R1S,2022,Saudi Arabia,Platinum
+1819,Subaru,Solterra,2023,Italy,Lime Green
+1820,Toyota,bZ4X,2016,Turkey,White
+1821,Ferrari,SF90 Stradale (PHEV),2021,India,Sunset Orange
+1822,Great Wall Motors,ORA Ballet Cat,2016,South Africa,Matte White
+1823,Canoo,MPDV,2018,Thailand,Pink
+1824,Chevrolet,Volt (PHEV),2025,Singapore,Burgundy
+1825,Subaru,Solterra,2020,Argentina,Red
+1826,Changan,SL03,2022,Thailand,Forest Green
+1827,Jaguar,I-PACE,2024,Sweden,White
+1828,Citroen,Ami,2019,Hungary,Forest Green
+1829,Opel,Grandland Electric,2020,UK,Stealth Gray
+1830,MG,MG ES5,2024,France,Sunset Orange
+1831,Fisker,Pear (upcoming),2023,India,Ice Silver
+1832,Acura,ZDX (with GM Ultium),2018,Thailand,Stealth Gray
+1833,Volvo,EX30,2020,UK,Crimson Red
+1834,Honda,Honda e (discontinued),2021,Spain,Champagne
+1835,Maserati,Grecale Folgore,2024,India,Teal
+1836,Cadillac,Optiq (upcoming),2020,France,Orange
+1837,Geely,Geometry C,2019,Australia,Burgundy
+1838,Skoda,Enyaq,2018,Brazil,Rose Gold
+1839,Genesis,G80 Electric,2016,Malaysia,Sapphire Blue
+1840,Ferrari,Roma PHEV,2017,China,Candy Apple Red
+1841,Volkswagen,ID.7,2024,Netherlands,Ruby Red
+1842,Rivian,EDV (Electric Delivery Van),2024,Germany,Cosmic Purple
+1843,Tesla,Model Y,2024,Italy,Purple
+1844,VinFast,VF 9,2019,Belgium,Pink
+1845,Mercedes-Benz,EQE SUV,2020,Poland,Tan
+1846,Lamborghini,Lanzador (upcoming EV),2023,Netherlands,Gray
+1847,Dacia,Bigster EV (upcoming),2023,Italy,Lime Green
+1848,Lucid Motors,Lucid DreamDrive,2016,Singapore,Midnight Black
+1849,Zeekr,Zeekr 001,2018,Japan,Green
+1850,Skoda,Enyaq,2025,China,Bronze
+1851,Toyota,Lexus RZ,2021,Singapore,Cream
+1852,Great Wall Motors,ORA Ballet Cat,2020,Turkey,Turquoise
+1853,Dacia,Jogger Hybrid,2021,Austria,Charcoal
+1854,MG,MG ZS EV,2024,Russia,Brown
+1855,Audi,A6 e-tron (upcoming),2017,Belgium,Gray
+1856,Genesis,GV70 Electric,2022,Argentina,Emerald Green
+1857,Mazda,MX-30,2015,Poland,Burgundy
+1858,Mercedes-Benz,EQS SUV,2017,Singapore,Ruby Red
+1859,VinFast,VF 9,2022,Mexico,Emerald Green
+1860,BYD,Dolphin,2016,Japan,Sky Blue
+1861,Maserati,Grecale Folgore,2025,South Korea,Volcanic Yellow
+1862,Great Wall Motors,ORA Lightning Cat,2017,Italy,Titanium
+1863,VinFast,VFe34 (discontinued),2018,France,Blue
+1864,Porsche,Macan EV,2021,USA,Matte Green
+1865,Pininfarina,Battista,2022,Hungary,Ruby Red
+1866,Polestar,Polestar 2,2017,Belgium,Navy Blue
+1867,Ferrari,SF90 Stradale (PHEV),2025,Poland,Ruby Red
+1868,Honda,Honda e (discontinued),2015,Sweden,Gun Metal
+1869,Volvo,C40 Recharge,2019,Israel,Racing Red
+1870,Changan,SL03,2018,Austria,Aurora Blue
+1871,Volvo,EX90,2019,Singapore,Black
+1872,Fisker,Ocean,2020,Germany,Yellow
+1873,Faraday Future,FF 91,2025,Poland,Sky Blue
+1874,Canoo,Pickup,2016,Israel,Red
+1875,Dacia,Jogger Hybrid,2019,Mexico,Orange
+1876,Porsche,Macan EV,2019,China,Rose Gold
+1877,Rimac,Nevera,2015,Sweden,Copper
+1878,Genesis,G80 Electric,2024,Germany,Brown
+1879,Hyundai,Ioniq 6,2021,South Africa,Graphite Gray
+1880,Jaguar,I-PACE,2018,South Africa,Green
+1881,Chevrolet,Equinox EV,2021,USA,Silver
+1882,Skoda,Elroq (upcoming),2019,Australia,Black
+1883,Opel,Mokka-e,2024,Ireland,Copper
+1884,Honda,Honda e (discontinued),2015,Mexico,Matte Gray
+1885,Mini,Mini Aceman,2020,Malaysia,Blue
+1886,Fisker,Pear (upcoming),2020,Germany,Forest Green
+1887,VinFast,VF 7,2021,Sweden,Yellow
+1888,Nissan,Leaf,2020,Switzerland,Matte Gray
+1889,Volkswagen,ID.5,2021,South Africa,Forest Green
+1890,Volvo,EX30,2017,Portugal,Cosmic Purple
+1891,Toyota,Lexus RZ,2021,India,Cobalt Blue
+1892,Tesla,Model 3,2017,Malaysia,Sunset Orange
+1893,Ferrari,Ferrari EV (2025+),2015,Mexico,White
+1894,Porsche,Macan EV,2024,Japan,Sapphire Blue
+1895,XPeng,X9,2020,Netherlands,Charcoal
+1896,Lucid Motors,Lucid DreamDrive,2016,China,Crimson Red
+1897,Skoda,Enyaq Coupe,2025,Singapore,Forest Green
+1898,Peugeot,e-208,2016,Ireland,Beige
+1899,Opel,Corsa-e,2019,China,Stealth Gray
+1900,Tesla,Model X,2016,USA,Matte Blue
+1901,Toyota,bZ4X,2021,France,Metallic Silver
+1902,Citroen,??-C4,2022,Germany,Bronze
+1903,Tesla,Cybertruck,2018,Czech Republic,Sapphire Blue
+1904,NIO,ET5,2018,United Arab Emirates,Ice Silver
+1905,Chevrolet,Bolt EV,2015,Hungary,Pearl White
+1906,Mazda,Mazda EV (upcoming models),2022,South Africa,Platinum
+1907,Polestar,Polestar 5 (upcoming),2016,Malaysia,Red
+1908,Faraday Future,FF 91,2015,Vietnam,Stealth Gray
+1909,Mazda,Mazda EV (upcoming models),2016,South Africa,Crimson Red
+1910,Volvo,XC40 Recharge,2022,South Korea,White
+1911,Rivian,EDV (Electric Delivery Van),2021,Australia,Yellow
+1912,MG,MG ES5,2017,Belgium,Pink
+1913,Mini,Mini Electric,2019,New Zealand,Orange
+1914,BYD,Atto 3,2025,Canada,Cosmic Purple
+1915,Lucid Motors,Lucid Gravity,2019,Hungary,Lime Green
+1916,Mini,Mini Electric,2022,Argentina,Charcoal
+1917,Porsche,Cayenne Electric (upcoming),2015,Hungary,Green
+1918,VinFast,VF 8,2024,United Arab Emirates,Sky Blue
+1919,GMC,Hummer EV Pickup,2025,China,Electric Blue
+1920,Polestar,Polestar 5 (upcoming),2020,United Arab Emirates,Matte Black
+1921,XPeng,G9,2016,Spain,Tan
+1922,Rimac,Nevera,2021,Singapore,Burgundy
+1923,VinFast,VFe34 (discontinued),2017,India,Midnight Black
+1924,Mercedes-Benz,EQE,2020,Belgium,Bronze
+1925,MG,MG ZS EV,2016,Ireland,Black
+1926,Seat,Avenger,2024,Netherlands,Ice Silver
+1927,Kia,Niro EV,2015,Indonesia,Orange
+1928,Lucid Motors,Lucid Gravity,2023,Finland,Lime Green
+1929,Cadillac,Celestiq,2022,Sweden,Platinum
+1930,Skoda,Enyaq,2021,Australia,Ruby Red
+1931,Mercedes-Benz,EQB,2018,Turkey,Silver
+1932,MG,MG ES5,2018,South Africa,Cosmic Purple
+1933,Citroen,??-Spacetourer,2023,Germany,Candy Apple Red
+1934,Skoda,Elroq (upcoming),2017,Finland,Pearl White
+1935,BYD,Han EV,2015,Switzerland,Midnight Black
+1936,Volkswagen,ID.4,2020,Portugal,Lime Green
+1937,Jaguar,I-PACE,2024,Thailand,Tan
+1938,Great Wall Motors,ORA Ballet Cat,2025,China,Gold
+1939,Nissan,Ariya,2019,Russia,Yellow
+1940,Tesla,Cybertruck,2017,Indonesia,Sapphire Blue
+1941,Mercedes-Benz,EQE SUV,2020,South Korea,Matte Gray
+1942,Fisker,Pear (upcoming),2015,Denmark,Pink
+1943,Canoo,Pickup,2020,Saudi Arabia,Matte Gray
+1944,Nissan,Leaf,2015,Saudi Arabia,Orange
+1945,Seat,Avenger,2019,Singapore,Teal
+1946,Lucid Motors,Lucid Gravity,2024,Malaysia,Charcoal
+1947,Lamborghini,Lanzador (upcoming EV),2023,Netherlands,Teal
+1948,Tesla,Cybertruck,2018,South Africa,Matte Green
+1949,Kia,Soul EV,2018,Italy,Gun Metal
+1950,Rivian,EDV (Electric Delivery Van),2025,United Arab Emirates,Turquoise
+1951,Ferrari,Roma PHEV,2021,Israel,Champagne
+1952,Rimac,Nevera,2025,Malaysia,Silver
+1953,Genesis,GV70 Electric,2019,Spain,Cobalt Blue
+1954,Acura,ZDX (with GM Ultium),2022,Turkey,Candy Apple Red
+1955,Great Wall Motors,ORA Ballet Cat,2019,South Korea,Electric Blue
+1956,Kia,Niro EV,2020,Israel,Beige
+1957,Polestar,Polestar 3,2021,Japan,Navy Blue
+1958,Lucid Motors,Lucid Air,2022,Sweden,Candy Apple Red
+1959,Great Wall Motors,ORA Lightning Cat,2016,Brazil,Cosmic Purple
+1960,Chevrolet,Silverado EV,2016,Argentina,Burgundy
+1961,Ferrari,SF90 Stradale (PHEV),2025,USA,Burgundy
+1962,Ford,F-150 Lightning,2025,Brazil,Ice Silver
+1963,Pininfarina,Battista,2017,Saudi Arabia,Navy Blue
+1964,Li Auto,L8,2024,Belgium,Ice Silver
+1965,Nissan,Leaf,2025,Thailand,Black
+1966,Renault,Megane E-Tech,2020,Poland,Gold
+1967,Porsche,Taycan,2023,China,Titanium
+1968,Jaguar,I-PACE,2020,United Arab Emirates,Blue
+1969,Toyota,bZ4X,2022,Netherlands,Candy Apple Red
+1970,Peugeot,e-208,2016,Indonesia,Cosmic Purple
+1971,Tesla,Cybertruck,2021,Sweden,Candy Apple Red
+1972,Rivian,R1S,2023,Malaysia,White
+1973,Changan,Deepal S07,2015,Sweden,Magenta
+1974,Renault,Megane E-Tech,2025,China,Champagne
+1975,MG,MG ZS EV,2018,Argentina,Matte Green
+1976,Volkswagen,ID.7,2025,UK,Black
+1977,Lotus,Emeya,2015,Thailand,Sky Blue
+1978,Kia,Soul EV,2022,Argentina,Matte Blue
+1979,Hyundai,Kona Electric,2020,France,Platinum
+1980,Ford,E-Transit,2025,UK,Silver
+1981,VinFast,VFe34 (discontinued),2022,Hungary,Brown
+1982,Ford,Explorer EV (Europe),2025,UK,Copper
+1983,VinFast,VF 8,2016,Austria,Sapphire Blue
+1984,NIO,ET7,2025,UK,Champagne
+1985,GMC,Hummer EV SUV,2023,Mexico,Platinum
+1986,Honda,Honda Prologue,2020,Belgium,Stealth Gray
+1987,BMW,iX3,2023,Vietnam,Sky Blue
+1988,Canoo,Lifestyle Vehicle,2016,Australia,Blue
+1989,Ford,F-150 Lightning,2025,Italy,Lime Green
+1990,Great Wall Motors,ORA Ballet Cat,2016,Spain,Aurora Blue
+1991,Jeep,Grand Cherokee 4xe (PHEV),2022,UK,Midnight Black
+1992,Fisker,Ocean,2024,Turkey,Sapphire Blue
+1993,Pininfarina,Battista,2019,Portugal,Forest Green
+1994,Rivian,R1S,2015,China,Lime Green
+1995,Nissan,Leaf,2017,Vietnam,Forest Green
+1996,Lamborghini,Lanzador (upcoming EV),2017,Australia,Cobalt Blue
+1997,Volvo,XC40 Recharge,2021,South Korea,Forest Green
+1998,Maserati,GranTurismo Folgore,2025,China,Metallic Silver
+1999,Tesla,Model Y,2023,Indonesia,Cream
+2000,MG,MG ES5,2021,United Arab Emirates,Pearl White
+2001,Lotus,Evija,2023,Israel,Beige
+2002,Seat,Avenger,2022,Netherlands,Titanium
+2003,Peugeot,e-2008,2015,Malaysia,Gray
+2004,Mini,Mini Cooper SE,2017,USA,Charcoal
+2005,Peugeot,e-208,2021,Argentina,Platinum
+2006,Mahindra,XUV400,2015,Italy,Blue
+2007,Fisker,Pear (upcoming),2015,Mexico,Charcoal
+2008,VinFast,VF 9,2022,China,Matte White
+2009,Changan,SL03,2023,Turkey,Bronze
+2010,Porsche,Macan EV,2024,Saudi Arabia,Teal
+2011,Polestar,Polestar 4,2020,Russia,Silver
+2012,Dacia,Jogger Hybrid,2018,Russia,Graphite Gray
+2013,Zeekr,Zeekr 001,2020,Argentina,Orange
+2014,Changan,SL03,2017,India,Purple
+2015,Mazda,Mazda EV (upcoming models),2022,Hungary,Pink
+2016,Jaguar,I-PACE,2023,Brazil,Sapphire Blue
+2017,Faraday Future,FF 91,2022,Hungary,Ruby Red
+2018,BYD,Dolphin,2019,Italy,Cobalt Blue
+2019,MG,MG4 Electric,2019,UK,Volcanic Yellow
+2020,Seat,Avenger,2024,Germany,Burgundy
+2021,Dacia,Jogger Hybrid,2020,New Zealand,Platinum
+2022,Rimac,Nevera,2021,Poland,Electric Blue
+2023,Audi,e-tron GT,2018,Saudi Arabia,Brown
+2024,Ford,Mustang Mach-E,2017,UK,Silver
+2025,Lamborghini,Revuelto (PHEV),2024,France,Matte Green
+2026,Rimac,Nevera,2023,Vietnam,Stealth Gray
+2027,Seat,Avenger,2022,Finland,Green
+2028,Canoo,Lifestyle Vehicle,2016,Portugal,Forest Green
+2029,Lotus,Emeya,2021,Brazil,Charcoal
+2030,XPeng,P7,2018,South Korea,Lime Green
+2031,GMC,Hummer EV SUV,2018,Portugal,Gun Metal
+2032,Dacia,Jogger Hybrid,2018,South Africa,Purple
+2033,BMW,iX1,2021,Thailand,Stealth Gray
+2034,Lotus,Evija,2018,Singapore,White
+2035,BYD,Atto 3,2020,Indonesia,Matte Green
+2036,Mahindra,XUV400,2023,Japan,Black
+2037,Li Auto,L9,2023,UK,Navy Blue
+2038,Ferrari,Roma PHEV,2022,Canada,Yellow
+2039,Maserati,Grecale Folgore,2019,France,Orange
+2040,Cadillac,Lyriq,2021,India,Bronze
+2041,Citroen,??-Spacetourer,2018,Portugal,Sky Blue
+2042,Li Auto,MEGA,2015,Italy,Ruby Red
+2043,Toyota,Lexus UX 300e,2017,South Africa,Beige
+2044,Acura,ZDX (with GM Ultium),2015,Indonesia,Green
+2045,VinFast,VF 8,2015,New Zealand,Racing Red
+2046,Dacia,Bigster EV (upcoming),2016,Vietnam,Beige
+2047,Seat,Avenger,2021,China,Racing Red
+2048,Citroen,??-Spacetourer,2024,Austria,Matte Gray
+2049,Hyundai,Kona Electric,2015,Mexico,Copper
+2050,Lamborghini,Lanzador (upcoming EV),2016,Belgium,Rose Gold
+2051,Rivian,R1S,2017,United Arab Emirates,Matte Green
+2052,Toyota,Lexus UX 300e,2022,China,Volcanic Yellow
+2053,Audi,e-tron,2022,Spain,Cream
+2054,BMW,iX1,2022,South Africa,Volcanic Yellow
+2055,Renault,Kangoo E-Tech,2019,United Arab Emirates,Matte Gray
+2056,Hyundai,Kona Electric,2023,Indonesia,Sapphire Blue
+2057,Rivian,EDV (Electric Delivery Van),2018,South Africa,Stealth Gray
+2058,Peugeot,e-5008,2015,South Africa,Champagne
+2059,Volvo,C40 Recharge,2015,Belgium,Graphite Gray
+2060,Renault,Scenic E-Tech,2023,New Zealand,Rose Gold
+2061,Volkswagen,ID.6,2022,France,Graphite Gray
+2062,Lucid Motors,Lucid Gravity,2020,Finland,Cream
+2063,Honda,Honda Prologue,2017,Japan,Cosmic Purple
+2064,Pininfarina,Battista,2021,Argentina,Aurora Blue
+2065,Nissan,Leaf,2020,Switzerland,Gun Metal
+2066,Maserati,GranTurismo Folgore,2021,Austria,Titanium
+2067,Volvo,C40 Recharge,2022,Sweden,Magenta
+2068,Toyota,bZ4X,2018,Turkey,Cobalt Blue
+2069,Genesis,G80 Electric,2023,Argentina,Matte Black
+2070,NIO,ET5,2025,Sweden,Ice Silver
+2071,Mini,Mini Electric,2021,Ireland,Ruby Red
+2072,Lamborghini,Revuelto (PHEV),2025,South Africa,Sky Blue
+2073,Kia,EV6,2024,Germany,Sky Blue
+2074,Acura,ZDX (with GM Ultium),2021,Singapore,Magenta
+2075,GMC,Hummer EV Pickup,2015,Sweden,Pearl White
+2076,Rivian,EDV (Electric Delivery Van),2025,USA,Copper
+2077,Zeekr,Zeekr 009,2018,UK,Racing Red
+2078,Mini,Mini Cooper SE,2018,Switzerland,Sunset Orange
+2079,Toyota,Lexus UX 300e,2018,Japan,Orange
+2080,Geely,Geometry A,2017,Denmark,Matte Green
+2081,Zeekr,Zeekr 001,2024,Argentina,Navy Blue
+2082,Toyota,Lexus RZ,2021,Saudi Arabia,Crimson Red
+2083,MG,MG ZS EV,2025,Poland,Cobalt Blue
+2084,Geely,Geometry C,2018,Japan,Graphite Gray
+2085,Genesis,G80 Electric,2019,Austria,Navy Blue
+2086,Skoda,Enyaq Coupe,2021,Switzerland,Silver
+2087,Jeep,Wrangler 4xe (PHEV),2018,Canada,Matte Blue
+2088,Citroen,??-C4,2024,Turkey,Tan
+2089,VinFast,VF 8,2016,Indonesia,Matte White
+2090,Rimac,Nevera,2015,Germany,Yellow
+2091,Hyundai,Ioniq 6,2023,Israel,Navy Blue
+2092,Fisker,Pear (upcoming),2016,Malaysia,Matte White
+2093,Maserati,Grecale Folgore,2025,United Arab Emirates,Rose Gold
+2094,Zeekr,Zeekr 001,2017,Brazil,Matte Green
+2095,BMW,iX,2022,India,Teal
+2096,Audi,e-tron GT,2021,Israel,Beige
+2097,Jaguar,I-PACE,2023,Italy,Lime Green
+2098,Lucid Motors,Lucid Air,2017,Vietnam,Blue
+2099,Zeekr,Zeekr 001,2015,South Korea,Matte Gray
+2100,Rivian,R1S,2015,USA,Matte Gray
+2101,Audi,A6 e-tron (upcoming),2022,Portugal,Gold
+2102,Chevrolet,Silverado EV,2017,Finland,Crimson Red
+2103,Cadillac,Celestiq,2016,Malaysia,Ruby Red
+2104,Changan,Deepal S07,2021,Czech Republic,Rose Gold
+2105,Dacia,Bigster EV (upcoming),2023,Italy,Beige
+2106,Volkswagen,ID.2all,2023,Thailand,Bronze
+2107,Genesis,GV60,2016,Japan,Copper
+2108,Dacia,Jogger Hybrid,2020,India,Racing Red
+2109,NIO,ET7,2022,Argentina,Emerald Green
+2110,Toyota,Lexus RZ,2021,Italy,Charcoal
+2111,Honda,Honda e (discontinued),2018,Portugal,Red
+2112,Faraday Future,FF 91,2025,Poland,Ice Silver
+2113,Volvo,XC40 Recharge,2018,Singapore,Silver
+2114,Citroen,??-Spacetourer,2018,Italy,Teal
+2115,Peugeot,e-5008,2025,Canada,Purple
+2116,Nissan,Ariya,2015,New Zealand,Graphite Gray
+2117,Chevrolet,Equinox EV,2017,Malaysia,Graphite Gray
+2118,Rivian,R1T,2025,Argentina,Yellow
+2119,Mazda,MX-30,2019,India,Cobalt Blue
+2120,Subaru,Solterra,2022,New Zealand,Rose Gold
+2121,Toyota,Lexus UX 300e,2022,Switzerland,Silver
+2122,Peugeot,e-3008,2023,South Korea,Cream
+2123,Honda,e:Ny1,2022,Switzerland,Silver
+2124,Lamborghini,Revuelto (PHEV),2022,South Africa,Racing Red
+2125,Tesla,Model Y,2015,India,Candy Apple Red
+2126,VinFast,VFe34 (discontinued),2017,Netherlands,Matte White
+2127,Rivian,R1T,2015,Singapore,Brown
+2128,Maserati,GranTurismo Folgore,2018,Portugal,Cobalt Blue
+2129,Fisker,Ocean,2017,UK,Sky Blue
+2130,Honda,Honda e (discontinued),2023,United Arab Emirates,Racing Red
+2131,Polestar,Polestar 5 (upcoming),2024,Thailand,Ice Silver
+2132,Great Wall Motors,ORA Lightning Cat,2020,UK,Magenta
+2133,Genesis,GV80 Electric,2017,Russia,White
+2134,Hyundai,Ioniq 5,2024,Indonesia,Metallic Silver
+2135,Tesla,Model S,2015,Spain,Navy Blue
+2136,Hyundai,Ioniq 6,2022,India,Matte Green
+2137,XPeng,P7,2015,Norway,Sky Blue
+2138,Toyota,Lexus RZ,2024,Denmark,Sapphire Blue
+2139,Skoda,Elroq (upcoming),2016,Indonesia,Volcanic Yellow
+2140,Lamborghini,Lanzador (upcoming EV),2016,Turkey,Teal
+2141,Seat,Avenger,2021,Thailand,Champagne
+2142,Faraday Future,FF 91,2020,Spain,Matte Blue
+2143,Geely,Geometry C,2020,Malaysia,Forest Green
+2144,XPeng,G9,2018,Portugal,Teal
+2145,Maserati,Grecale Folgore,2018,Canada,Gun Metal
+2146,Toyota,bZ4X,2022,Switzerland,Beige
+2147,Faraday Future,FF 91,2021,Czech Republic,Metallic Silver
+2148,Peugeot,e-208,2018,Singapore,Burgundy
+2149,Canoo,Lifestyle Vehicle,2015,Canada,Matte White
+2150,Changan,Deepal S07,2024,Vietnam,Black
+2151,Dacia,Bigster EV (upcoming),2023,Norway,Lime Green
+2152,Great Wall Motors,ORA Lightning Cat,2021,Canada,Matte White
+2153,Ferrari,SF90 Stradale (PHEV),2017,France,Magenta
+2154,Tesla,Model X,2023,Thailand,Stealth Gray
+2155,Chevrolet,Silverado EV,2015,Denmark,Graphite Gray
+2156,Zeekr,Zeekr 009,2025,Norway,Aurora Blue
+2157,Polestar,Polestar 5 (upcoming),2019,Finland,Racing Red
+2158,Mini,Mini Aceman,2020,Australia,Silver
+2159,GMC,Hummer EV Pickup,2016,Finland,Gun Metal
+2160,XPeng,G9,2019,Brazil,Cobalt Blue
+2161,Jaguar,I-PACE,2025,UK,Metallic Silver
+2162,Volkswagen,ID.2all,2015,Brazil,Blue
+2163,Citroen,??-Spacetourer,2024,Hungary,Emerald Green
+2164,Ford,F-150 Lightning,2023,Turkey,Yellow
+2165,Mini,Mini Aceman,2016,Singapore,Orange
+2166,MG,MG ES5,2021,United Arab Emirates,Graphite Gray
+2167,Ferrari,SF90 Stradale (PHEV),2025,Malaysia,Black
+2168,Faraday Future,FF 91,2020,Italy,Cosmic Purple
+2169,Mahindra,Born Electric (upcoming range),2019,Switzerland,Gray
+2170,Great Wall Motors,ORA Ballet Cat,2015,Czech Republic,Gun Metal
+2171,Kia,EV9,2021,Canada,Champagne
+2172,Zeekr,Zeekr 007,2019,Sweden,Navy Blue
+2173,Jaguar,I-PACE,2019,Mexico,Turquoise
+2174,Faraday Future,FF 91,2016,New Zealand,Lime Green
+2175,Subaru,Solterra,2015,Argentina,Green
+2176,Dacia,Bigster EV (upcoming),2024,Belgium,Sapphire Blue
+2177,MG,MG5 EV,2025,Denmark,Matte Gray
+2178,XPeng,G9,2015,Belgium,Brown
+2179,Lamborghini,Lanzador (upcoming EV),2023,Poland,Matte Black
+2180,XPeng,G6,2019,UK,Ice Silver
+2181,Ford,Explorer EV (Europe),2019,Netherlands,Sky Blue
+2182,Rimac,Nevera,2025,India,Magenta
+2183,Rivian,EDV (Electric Delivery Van),2024,Sweden,Magenta
+2184,Lamborghini,Lanzador (upcoming EV),2019,China,Matte Black
+2185,Polestar,Polestar 3,2019,Austria,Electric Blue
+2186,Dacia,Jogger Hybrid,2018,Russia,Purple
+2187,Skoda,Enyaq Coupe,2025,United Arab Emirates,Beige
+2188,Acura,ZDX (with GM Ultium),2025,Netherlands,Crimson Red
+2189,Honda,Honda Prologue,2017,Spain,Candy Apple Red
+2190,Acura,ZDX (with GM Ultium),2024,France,Emerald Green
+2191,Acura,ZDX (with GM Ultium),2018,Norway,Electric Blue
+2192,Rivian,EDV (Electric Delivery Van),2016,Argentina,Silver
+2193,Opel,Mokka-e,2020,Finland,Teal
+2194,Canoo,Lifestyle Vehicle,2015,Argentina,Volcanic Yellow
+2195,Volkswagen,ID.3,2021,Canada,Sunset Orange
+2196,Hyundai,Ioniq 5,2022,Japan,Cream
+2197,Nissan,Ariya,2017,South Korea,Gray
+2198,Renault,Scenic E-Tech,2016,Vietnam,Sky Blue
+2199,Opel,Corsa-e,2017,Norway,Metallic Silver
+2200,Acura,ZDX (with GM Ultium),2019,Mexico,Tan
+2201,Dacia,Jogger Hybrid,2015,Mexico,Pink
+2202,Audi,Q4 e-tron,2019,Czech Republic,Metallic Silver
+2203,Tesla,Model X,2022,USA,Blue
+2204,Geely,Geometry A,2025,Malaysia,Bronze
+2205,Skoda,Enyaq,2018,Saudi Arabia,Rose Gold
+2206,Fisker,Ocean,2022,Brazil,Blue
+2207,Dacia,Jogger Hybrid,2022,Ireland,Matte Black
+2208,Dacia,Bigster EV (upcoming),2020,Australia,Turquoise
+2209,Ferrari,Roma PHEV,2021,Norway,Volcanic Yellow
+2210,Mini,Mini Cooper SE,2016,Austria,Gun Metal
+2211,Tesla,Cybertruck,2016,Netherlands,Cream
+2212,Changan,Deepal S07,2022,France,Gray
+2213,Subaru,Solterra,2015,Singapore,Ice Silver
+2214,BYD,Dolphin,2018,Finland,Burgundy
+2215,Toyota,Lexus UX 300e,2023,Canada,Volcanic Yellow
+2216,Cadillac,Lyriq,2020,Belgium,Matte White
+2217,Ford,Mustang Mach-E,2016,Canada,Matte Green
+2218,Jeep,Grand Cherokee 4xe (PHEV),2018,New Zealand,Matte Gray
+2219,Renault,Kangoo E-Tech,2020,Italy,Blue
+2220,Jaguar,I-PACE,2017,Austria,Candy Apple Red
+2221,Genesis,G80 Electric,2023,Malaysia,Bronze
+2222,Great Wall Motors,ORA Ballet Cat,2016,Hungary,Ruby Red
+2223,Fisker,Ocean,2024,Denmark,Silver
+2224,GMC,Hummer EV SUV,2018,South Africa,White
+2225,Genesis,GV80 Electric,2019,Israel,Champagne
+2226,Tesla,Model S,2023,Canada,Ruby Red
+2227,Geely,Geometry C,2018,Japan,Champagne
+2228,Mazda,MX-30,2021,USA,Pearl White
+2229,Dacia,Jogger Hybrid,2017,Malaysia,Stealth Gray
+2230,Great Wall Motors,ORA Ballet Cat,2015,South Africa,Matte Green
+2231,Lucid Motors,Lucid Gravity,2017,Netherlands,Pearl White
+2232,Cadillac,Celestiq,2021,Denmark,Sky Blue
+2233,Cadillac,Lyriq,2020,France,Sapphire Blue
+2234,Peugeot,e-3008,2024,Netherlands,Copper
+2235,Citroen,??-C4,2018,Canada,Matte Blue
+2236,Nissan,Leaf,2022,Poland,Magenta
+2237,Subaru,Solterra,2023,Hungary,Lime Green
+2238,Rimac,Nevera,2017,South Africa,Blue
+2239,Mazda,MX-30,2023,Spain,Volcanic Yellow
+2240,Tesla,Model 3,2020,Japan,Candy Apple Red
+2241,Acura,ZDX (with GM Ultium),2025,Russia,Matte White
+2242,Seat,Avenger,2015,Germany,Red
+2243,Faraday Future,FF 91,2020,Saudi Arabia,Cobalt Blue
+2244,Lamborghini,Lanzador (upcoming EV),2017,India,Metallic Silver
+2245,Zeekr,Zeekr 001,2022,Brazil,Crimson Red
+2246,Jeep,Grand Cherokee 4xe (PHEV),2016,Belgium,Purple
+2247,Great Wall Motors,ORA Lightning Cat,2015,Finland,Sapphire Blue
+2248,Dacia,Bigster EV (upcoming),2017,China,Teal
+2249,BYD,Atto 3,2020,China,Sapphire Blue
+2250,Peugeot,e-208,2015,Vietnam,Cobalt Blue
+2251,Nissan,Ariya,2016,Russia,Tan
+2252,Porsche,Macan EV,2025,Finland,Matte Black
+2253,Skoda,Elroq (upcoming),2020,Hungary,Racing Red
+2254,Subaru,Solterra,2018,Vietnam,Platinum
+2255,Polestar,Polestar 2,2023,UK,Cosmic Purple
+2256,Honda,e:Ny1,2023,United Arab Emirates,Emerald Green
+2257,Ferrari,Ferrari EV (2025+),2024,Portugal,Black
+2258,Subaru,Solterra,2016,USA,Cream
+2259,BYD,Seal,2022,Italy,Sky Blue
+2260,Mini,Mini Electric,2022,Australia,Platinum
+2261,Great Wall Motors,ORA Lightning Cat,2025,Australia,Sapphire Blue
+2262,BYD,Han EV,2024,Australia,Green
+2263,Jeep,Recon (upcoming),2019,Turkey,Purple
+2264,Mini,Mini Cooper SE,2017,Norway,Matte Blue
+2265,Rimac,Nevera,2022,Denmark,Teal
+2266,Skoda,Elroq (upcoming),2020,Japan,Rose Gold
+2267,MG,MG4 Electric,2025,Australia,Silver
+2268,Citroen,??-C4,2016,Saudi Arabia,Champagne
+2269,Zeekr,Zeekr 007,2022,Czech Republic,Navy Blue
+2270,Hyundai,Kona Electric,2015,South Korea,Sunset Orange
+2271,Volkswagen,ID.5,2021,South Korea,Cobalt Blue
+2272,Faraday Future,FF 91,2022,Czech Republic,Pearl White
+2273,Hyundai,Ioniq 7 (upcoming),2019,Argentina,Platinum
+2274,Canoo,Pickup,2015,Brazil,Charcoal
+2275,NIO,ET9,2020,Spain,Pink
+2276,NIO,ET5,2022,Norway,Gray
+2277,Genesis,GV70 Electric,2020,Indonesia,Orange
+2278,GMC,Hummer EV SUV,2019,Hungary,Pink
+2279,Genesis,GV80 Electric,2015,Italy,Metallic Silver
+2280,Seat,Avenger,2025,Russia,Black
+2281,BYD,Seal,2019,New Zealand,Champagne
+2282,Subaru,Solterra,2019,Italy,Graphite Gray
+2283,Faraday Future,FF 91,2018,India,Ruby Red
+2284,Mercedes-Benz,EQE SUV,2019,Vietnam,Stealth Gray
+2285,Peugeot,e-3008,2022,France,Burgundy
+2286,BYD,Han EV,2025,South Africa,Graphite Gray
+2287,Skoda,Enyaq,2021,Poland,Pink
+2288,MG,MG ZS EV,2017,Sweden,Sky Blue
+2289,Mercedes-Benz,EQB,2024,Portugal,Tan
+2290,Mini,Mini Cooper SE,2016,Brazil,Black
+2291,Cadillac,Lyriq,2015,Italy,Matte Black
+2292,Rivian,R1S,2019,Malaysia,Cosmic Purple
+2293,Canoo,Pickup,2016,Spain,Red
+2294,Ferrari,Ferrari EV (2025+),2021,New Zealand,Teal
+2295,Lucid Motors,Lucid Air,2023,Austria,Titanium
+2296,Hyundai,Ioniq 6,2023,Ireland,Turquoise
+2297,Cadillac,Lyriq,2022,Canada,Stealth Gray
+2298,Li Auto,L7,2017,South Africa,Sapphire Blue
+2299,Mercedes-Benz,EQB,2015,Czech Republic,Gun Metal
+2300,Volvo,XC40 Recharge,2015,Russia,Ice Silver
+2301,Ferrari,SF90 Stradale (PHEV),2019,Finland,Tan
+2302,Maserati,Grecale Folgore,2019,United Arab Emirates,Ruby Red
+2303,Ford,Mustang Mach-E,2022,Singapore,Metallic Silver
+2304,Honda,e:Ny1,2022,Argentina,Ice Silver
+2305,XPeng,P5,2022,Belgium,Sapphire Blue
+2306,BMW,i3,2017,Ireland,Sky Blue
+2307,Tesla,Model X,2022,Malaysia,Graphite Gray
+2308,Citroen,??-C4,2018,Russia,Pink
+2309,Polestar,Polestar 2,2015,Sweden,Crimson Red
+2310,Maserati,Grecale Folgore,2020,Switzerland,Ice Silver
+2311,Genesis,GV70 Electric,2017,Malaysia,Rose Gold
+2312,Zeekr,Zeekr 001,2015,Malaysia,Forest Green
+2313,Mini,Mini Cooper SE,2019,India,Volcanic Yellow
+2314,Dacia,Bigster EV (upcoming),2019,Vietnam,Brown
+2315,Audi,Q4 e-tron,2017,Ireland,Volcanic Yellow
+2316,Hyundai,Ioniq 5,2017,USA,Black
+2317,Dacia,Bigster EV (upcoming),2023,Argentina,Red
+2318,Tesla,Model X,2020,Poland,Cream
+2319,BYD,Dolphin,2021,Italy,Teal
+2320,Zeekr,Zeekr 009,2020,Finland,Matte Green
+2321,Changan,Deepal S07,2019,Argentina,Matte Gray
+2322,Volvo,EX90,2025,Denmark,Brown
+2323,Lucid Motors,Lucid Air,2023,France,Green
+2324,MG,MG5 EV,2020,Thailand,Matte Green
+2325,Fisker,Pear (upcoming),2023,Turkey,Metallic Silver
+2326,Zeekr,Zeekr X,2025,Spain,Brown
+2327,Seat,Avenger,2024,Poland,Gun Metal
+2328,Maserati,GranTurismo Folgore,2017,Vietnam,Metallic Silver
+2329,Volkswagen,ID.Buzz,2022,Italy,Purple
+2330,Jaguar,I-PACE,2025,Netherlands,Beige
+2331,XPeng,G9,2021,Japan,Teal
+2332,Skoda,Elroq (upcoming),2016,South Africa,Gun Metal
+2333,Lotus,Emeya,2018,Ireland,Racing Red
+2334,VinFast,VF 9,2015,Finland,Black
+2335,Pininfarina,Battista,2017,Malaysia,Gold
+2336,Subaru,Solterra,2019,Belgium,Sky Blue
+2337,Dacia,Jogger Hybrid,2017,Austria,Rose Gold
+2338,Genesis,GV80 Electric,2023,Singapore,Titanium
+2339,Jaguar,I-PACE,2017,Czech Republic,Green
+2340,Chevrolet,Silverado EV,2025,Spain,Titanium
+2341,Canoo,Lifestyle Vehicle,2024,USA,Stealth Gray
+2342,MG,MG4 Electric,2020,France,Aurora Blue
+2343,Tesla,Model S,2024,Turkey,Pink
+2344,XPeng,G9,2023,Czech Republic,Forest Green
+2345,Fisker,Pear (upcoming),2023,Denmark,Racing Red
+2346,Kia,EV9,2021,Indonesia,Burgundy
+2347,Peugeot,e-3008,2017,USA,Green
+2348,Fisker,Pear (upcoming),2024,Thailand,Champagne
+2349,BMW,iX,2024,Israel,Midnight Black
+2350,Mini,Mini Electric,2024,Poland,Sky Blue
+2351,Genesis,GV80 Electric,2018,Czech Republic,Lime Green
+2352,Ford,E-Transit,2019,Vietnam,Crimson Red
+2353,Li Auto,L8,2025,Mexico,Midnight Black
+2354,Ferrari,SF90 Stradale (PHEV),2018,Belgium,Champagne
+2355,Mercedes-Benz,G-Class Electric (upcoming),2015,Spain,Forest Green
+2356,Cadillac,Optiq (upcoming),2021,South Africa,Beige
+2357,Cadillac,Celestiq,2015,Hungary,Sapphire Blue
+2358,Volvo,C40 Recharge,2016,New Zealand,Bronze
+2359,Cadillac,Lyriq,2025,Germany,Pearl White
+2360,Tesla,Roadster (upcoming),2017,Thailand,Forest Green
+2361,Lamborghini,Revuelto (PHEV),2016,New Zealand,Brown
+2362,Mini,Mini Cooper SE,2022,Israel,Yellow
+2363,Mazda,Mazda EV (upcoming models),2023,Czech Republic,Purple
+2364,Seat,Avenger,2015,Japan,Blue
+2365,Lucid Motors,Lucid Gravity,2025,USA,Beige
+2366,Seat,Avenger,2023,Argentina,Pearl White
+2367,Kia,EV9,2022,Netherlands,Electric Blue
+2368,MG,MG ZS EV,2016,Italy,Tan
+2369,XPeng,G9,2017,Poland,Matte Green
+2370,Nissan,Ariya,2025,South Korea,Red
+2371,MG,MG5 EV,2017,Turkey,Champagne
+2372,Genesis,GV70 Electric,2015,Austria,Graphite Gray
+2373,Mercedes-Benz,G-Class Electric (upcoming),2025,United Arab Emirates,Orange
+2374,Honda,e:Ny1,2021,Argentina,Silver
+2375,Great Wall Motors,ORA Ballet Cat,2019,Thailand,Lime Green
+2376,Lamborghini,Lanzador (upcoming EV),2018,Ireland,Lime Green
+2377,Mini,Mini Aceman,2016,Mexico,Bronze
+2378,Jeep,Wagoneer S,2017,France,Charcoal
+2379,Volkswagen,ID.4,2025,Netherlands,Graphite Gray
+2380,GMC,Hummer EV SUV,2025,Belgium,Burgundy
+2381,Rivian,EDV (Electric Delivery Van),2020,Finland,Black
+2382,Subaru,Solterra,2019,Thailand,Purple
+2383,Lamborghini,Lanzador (upcoming EV),2025,Belgium,Crimson Red
+2384,Zeekr,Zeekr X,2018,Thailand,Turquoise
+2385,XPeng,G6,2023,Portugal,Copper
+2386,Toyota,Lexus RZ,2017,Singapore,Copper
+2387,Dacia,Bigster EV (upcoming),2017,China,Turquoise
+2388,GMC,Hummer EV Pickup,2019,Hungary,Electric Blue
+2389,BYD,Tang EV,2015,China,Ruby Red
+2390,Polestar,Polestar 2,2020,Germany,Red
+2391,Great Wall Motors,ORA Ballet Cat,2025,China,Platinum
+2392,Jaguar,I-PACE,2021,Ireland,Magenta
+2393,Cadillac,Optiq (upcoming),2025,UK,Candy Apple Red
+2394,Renault,5 E-Tech,2016,Netherlands,Aurora Blue
+2395,Volkswagen,ID.3,2017,Czech Republic,Matte Gray
+2396,Cadillac,Optiq (upcoming),2022,UK,Copper
+2397,Mahindra,XUV400,2018,Argentina,Matte Blue
+2398,Changan,Deepal S07,2025,Israel,Pearl White
+2399,Maserati,Grecale Folgore,2021,Israel,Turquoise
+2400,Canoo,Lifestyle Vehicle,2024,Brazil,Matte Black
+2401,Tesla,Cybertruck,2021,Hungary,Champagne
+2402,NIO,ET9,2025,Italy,Burgundy
+2403,Acura,ZDX (with GM Ultium),2020,Australia,Aurora Blue
+2404,BYD,Seal,2022,Brazil,Volcanic Yellow
+2405,Canoo,MPDV,2023,Netherlands,Purple
+2406,Skoda,Enyaq Coupe,2020,Singapore,Matte Blue
+2407,Chevrolet,Silverado EV,2015,Czech Republic,Gray
+2408,Maserati,GranTurismo Folgore,2016,Finland,Pearl White
+2409,Toyota,bZ4X,2023,China,Red
+2410,Genesis,G80 Electric,2020,Finland,Yellow
+2411,Lucid Motors,Lucid DreamDrive,2025,Poland,Ruby Red
+2412,Nissan,Leaf,2016,Japan,Red
+2413,VinFast,VF 9,2022,Mexico,Magenta
+2414,Pininfarina,Battista,2018,Finland,Beige
+2415,Renault,5 E-Tech,2018,Poland,Red
+2416,Ford,Explorer EV (Europe),2019,France,Cosmic Purple
+2417,Mercedes-Benz,EQS,2021,Israel,Titanium
+2418,Canoo,Pickup,2017,Turkey,Turquoise
+2419,Maserati,GranTurismo Folgore,2023,Israel,Cosmic Purple
+2420,Renault,Scenic E-Tech,2024,Czech Republic,Lime Green
+2421,Nissan,Ariya,2016,South Africa,Racing Red
+2422,Jeep,Recon (upcoming),2022,Malaysia,Beige
+2423,Ford,E-Transit,2015,China,Lime Green
+2424,Zeekr,Zeekr 001,2025,Israel,Champagne
+2425,Rimac,Nevera,2022,Thailand,Stealth Gray
+2426,BMW,i7,2021,Hungary,Ice Silver
+2427,Lamborghini,Lanzador (upcoming EV),2015,Mexico,White
+2428,Rivian,EDV (Electric Delivery Van),2020,Turkey,Red
+2429,Ford,Explorer EV (Europe),2024,Israel,Beige
+2430,Peugeot,e-2008,2016,Spain,Blue
+2431,Canoo,MPDV,2016,Thailand,Copper
+2432,Citroen,Ami,2016,Germany,Ruby Red
+2433,VinFast,VF 7,2017,Brazil,Racing Red
+2434,Subaru,Solterra,2015,Switzerland,Aurora Blue
+2435,Geely,Geometry C,2021,Indonesia,Pink
+2436,Maserati,Grecale Folgore,2025,China,Gray
+2437,Genesis,GV70 Electric,2023,Vietnam,Cream
+2438,Porsche,Taycan,2025,Denmark,White
+2439,Mini,Mini Aceman,2019,France,Metallic Silver
+2440,Pininfarina,Battista,2022,Belgium,Burgundy
+2441,Volkswagen,ID.Buzz,2021,Brazil,Graphite Gray
+2442,Tesla,Roadster (upcoming),2016,UK,Matte Green
+2443,Volkswagen,ID.7,2017,Portugal,Purple
+2444,Subaru,Solterra,2024,Indonesia,Aurora Blue
+2445,Pininfarina,Battista,2015,Argentina,Green
+2446,Ferrari,Ferrari EV (2025+),2025,Israel,Orange
+2447,Lamborghini,Lanzador (upcoming EV),2025,Italy,Candy Apple Red
+2448,Lamborghini,Revuelto (PHEV),2016,Malaysia,Crimson Red
+2449,Volvo,EX90,2020,Thailand,Teal
+2450,Mahindra,Born Electric (upcoming range),2015,Spain,Cream
+2451,Lamborghini,Lanzador (upcoming EV),2018,Canada,Matte White
+2452,Faraday Future,FF 91,2021,South Korea,Graphite Gray
+2453,Opel,Mokka-e,2021,China,Black
+2454,Lotus,Evija,2020,Belgium,Copper
+2455,Toyota,bZ4X,2018,France,Charcoal
+2456,Honda,Honda e (discontinued),2017,Denmark,Silver
+2457,Mini,Mini Aceman,2019,Japan,Matte Blue
+2458,Geely,Emgrand EV,2021,South Africa,Pearl White
+2459,Genesis,GV70 Electric,2024,Denmark,Lime Green
+2460,Citroen,Ami,2025,India,Stealth Gray
+2461,Hyundai,Ioniq 6,2016,South Korea,Tan
+2462,Dacia,Jogger Hybrid,2015,Hungary,Candy Apple Red
+2463,Tesla,Model 3,2021,Portugal,Pearl White
+2464,Audi,e-tron GT,2021,Poland,Yellow
+2465,Skoda,Elroq (upcoming),2023,Singapore,Gun Metal
+2466,Rimac,Nevera,2022,Indonesia,Copper
+2467,Tesla,Cybertruck,2023,Hungary,Brown
+2468,Acura,ZDX (with GM Ultium),2020,Poland,Forest Green
+2469,Audi,Q4 e-tron,2020,Denmark,White
+2470,NIO,ET7,2025,India,Emerald Green
+2471,Acura,ZDX (with GM Ultium),2015,Norway,Stealth Gray
+2472,Renault,Scenic E-Tech,2016,Turkey,Gray
+2473,Polestar,Polestar 4,2016,Finland,Matte White
+2474,Opel,Corsa-e,2015,Turkey,Pearl White
+2475,Geely,Emgrand EV,2023,Vietnam,Cosmic Purple
+2476,Li Auto,L8,2023,Malaysia,Magenta
+2477,Nissan,Leaf,2020,Switzerland,Lime Green
+2478,Chevrolet,Bolt EV,2022,Thailand,Electric Blue
+2479,Ferrari,SF90 Stradale (PHEV),2025,Japan,Rose Gold
+2480,Polestar,Polestar 5 (upcoming),2021,Poland,Purple
+2481,NIO,ET9,2017,Vietnam,Matte Black
+2482,Mini,Mini Electric,2017,Malaysia,Yellow
+2483,NIO,ET9,2019,Czech Republic,Matte White
+2484,Fisker,Ocean,2017,Portugal,Teal
+2485,Changan,SL03,2024,Germany,Teal
+2486,Mini,Mini Electric,2016,China,Gold
+2487,Tesla,Model 3,2023,Israel,Graphite Gray
+2488,Tesla,Model S,2017,South Korea,Stealth Gray
+2489,Volvo,EX30,2018,Russia,Pearl White
+2490,MG,MG5 EV,2019,Switzerland,Gold
+2491,Lotus,Eletre,2018,United Arab Emirates,Copper
+2492,Faraday Future,FF 91,2020,Hungary,Black
+2493,BMW,iX1,2015,China,Yellow
+2494,Dacia,Bigster EV (upcoming),2020,Russia,Pink
+2495,Tesla,Model Y,2017,New Zealand,Burgundy
+2496,Lotus,Evija,2018,Czech Republic,Matte Blue
+2497,Nissan,Leaf,2021,Vietnam,Ice Silver
+2498,Lucid Motors,Lucid Gravity,2022,Belgium,Red
+2499,Citroen,Ami,2018,Thailand,Racing Red
+2500,Faraday Future,FF 91,2018,Russia,Gun Metal
+2501,Skoda,Elroq (upcoming),2022,China,Matte White
+2502,Geely,Geometry A,2024,Germany,Gold
+2503,BMW,iX1,2015,Portugal,Sapphire Blue
+2504,MG,MG ES5,2025,India,Yellow
+2505,Chevrolet,Volt (PHEV),2023,India,Charcoal
+2506,Opel,Grandland Electric,2016,Israel,Matte Green
+2507,Kia,EV6,2025,Portugal,Blue
+2508,Mahindra,XUV400,2022,France,Rose Gold
+2509,VinFast,VF 9,2020,Japan,Navy Blue
+2510,Renault,Scenic E-Tech,2019,Singapore,Champagne
+2511,Seat,Avenger,2021,Turkey,Turquoise
+2512,Great Wall Motors,ORA Good Cat,2015,Vietnam,Blue
+2513,Opel,Grandland Electric,2016,Brazil,Pearl White
+2514,XPeng,P5,2022,Singapore,Candy Apple Red
+2515,Rimac,Nevera,2021,Ireland,Matte Green
+2516,Renault,Kangoo E-Tech,2022,Brazil,Charcoal
+2517,Rimac,Nevera,2021,Australia,Beige
+2518,GMC,Hummer EV Pickup,2021,China,Cream
+2519,Volkswagen,ID.4,2025,Czech Republic,Purple
+2520,Genesis,GV60,2021,Vietnam,Graphite Gray
+2521,Polestar,Polestar 2,2020,United Arab Emirates,Rose Gold
+2522,Li Auto,L7,2020,Argentina,White
+2523,Mahindra,Born Electric (upcoming range),2019,Saudi Arabia,Titanium
+2524,Ford,Explorer EV (Europe),2018,China,Teal
+2525,Jeep,Grand Cherokee 4xe (PHEV),2022,Australia,Midnight Black
+2526,Nissan,Leaf,2024,UK,Stealth Gray
+2527,Polestar,Polestar 3,2017,Turkey,Silver
+2528,Jeep,Recon (upcoming),2016,Spain,Lime Green
+2529,XPeng,X9,2016,Germany,Rose Gold
+2530,MG,MG ZS EV,2023,Japan,Pink
+2531,Dacia,Jogger Hybrid,2020,Norway,Silver
+2532,Subaru,Solterra,2015,Vietnam,Copper
+2533,Skoda,Elroq (upcoming),2020,Portugal,Platinum
+2534,Audi,e-tron GT,2021,Spain,Titanium
+2535,XPeng,G9,2022,Finland,Matte Green
+2536,Genesis,GV60,2021,Hungary,Matte Green
+2537,Toyota,Lexus UX 300e,2023,Singapore,Electric Blue
+2538,Peugeot,e-208,2020,Austria,Matte Black
+2539,Lotus,Emeya,2024,India,Turquoise
+2540,Zeekr,Zeekr X,2017,Spain,Crimson Red
+2541,Acura,ZDX (with GM Ultium),2023,Italy,Platinum
+2542,Volkswagen,ID.7,2019,Czech Republic,Matte Green
+2543,Mazda,MX-30,2024,South Africa,Orange
+2544,Zeekr,Zeekr 007,2019,UK,Yellow
+2545,Peugeot,e-5008,2023,New Zealand,Cosmic Purple
+2546,Volkswagen,ID.5,2018,Russia,Stealth Gray
+2547,Mercedes-Benz,EQS,2025,South Africa,Copper
+2548,Canoo,Pickup,2023,Czech Republic,Stealth Gray
+2549,Mini,Mini Aceman,2024,Belgium,Volcanic Yellow
+2550,Rimac,Nevera,2021,Malaysia,Racing Red
+2551,VinFast,VF 9,2018,Finland,Purple
+2552,Dacia,Bigster EV (upcoming),2022,Portugal,Sapphire Blue
+2553,VinFast,VFe34 (discontinued),2021,New Zealand,Cosmic Purple
+2554,Lamborghini,Revuelto (PHEV),2015,Indonesia,Lime Green
+2555,Jeep,Wagoneer S,2016,USA,Yellow
+2556,Great Wall Motors,ORA Good Cat,2019,Thailand,Matte Blue
+2557,Fisker,Ocean,2022,Switzerland,Gold
+2558,Geely,Emgrand EV,2022,Saudi Arabia,Pink
+2559,Genesis,G80 Electric,2024,Norway,Emerald Green
+2560,Chevrolet,Silverado EV,2019,Portugal,Lime Green
+2561,BYD,Dolphin,2021,India,Metallic Silver
+2562,Geely,Emgrand EV,2021,South Korea,Green
+2563,NIO,ES7,2021,Finland,Gold
+2564,XPeng,G6,2022,Israel,Silver
+2565,BMW,iX3,2021,China,Sky Blue
+2566,MG,MG ZS EV,2016,Belgium,Aurora Blue
+2567,Rimac,Nevera,2022,Japan,Matte Blue
+2568,Kia,EV6,2019,Belgium,Matte Green
+2569,Ferrari,SF90 Stradale (PHEV),2022,Saudi Arabia,Matte White
+2570,Cadillac,Lyriq,2023,Indonesia,Burgundy
+2571,Cadillac,Lyriq,2017,Germany,Champagne
+2572,Opel,Grandland Electric,2017,Malaysia,Rose Gold
+2573,Genesis,G80 Electric,2019,Portugal,Tan
+2574,Citroen,??-C4,2016,New Zealand,Matte White
+2575,Skoda,Enyaq Coupe,2023,United Arab Emirates,Ruby Red
+2576,Zeekr,Zeekr 001,2024,Czech Republic,Burgundy
+2577,Toyota,Lexus UX 300e,2024,Vietnam,Charcoal
+2578,Porsche,Macan EV,2022,Hungary,Blue
+2579,Great Wall Motors,ORA Good Cat,2021,Israel,Teal
+2580,Citroen,Ami,2020,Austria,Volcanic Yellow
+2581,Lotus,Emeya,2019,Canada,Candy Apple Red
+2582,Cadillac,Celestiq,2016,New Zealand,Aurora Blue
+2583,Toyota,Lexus UX 300e,2022,United Arab Emirates,Green
+2584,Volkswagen,ID.Buzz,2017,Hungary,White
+2585,Mazda,MX-30,2020,Indonesia,Copper
+2586,GMC,Hummer EV Pickup,2018,Denmark,Burgundy
+2587,Ferrari,Roma PHEV,2017,Russia,Matte Black
+2588,Opel,Grandland Electric,2022,Australia,Aurora Blue
+2589,Nissan,Ariya,2025,South Korea,Burgundy
+2590,Volkswagen,ID.7,2021,Finland,Candy Apple Red
+2591,Lotus,Eletre,2020,Brazil,Racing Red
+2592,Opel,Grandland Electric,2022,United Arab Emirates,Matte Blue
+2593,Pininfarina,Battista,2018,New Zealand,Sapphire Blue
+2594,Peugeot,e-208,2020,China,Midnight Black
+2595,VinFast,VF 6,2017,United Arab Emirates,Platinum
+2596,Hyundai,Ioniq 5,2022,South Africa,Titanium
+2597,Zeekr,Zeekr 001,2021,Thailand,Silver
+2598,Peugeot,e-3008,2019,USA,Teal
+2599,GMC,Hummer EV Pickup,2015,Russia,Pink
+2600,Ford,E-Transit,2016,Poland,Stealth Gray
+2601,Opel,Grandland Electric,2016,Czech Republic,Ruby Red
+2602,Chevrolet,Volt (PHEV),2020,Singapore,Cream
+2603,Polestar,Polestar 4,2021,Thailand,Ruby Red
+2604,Rimac,Nevera,2022,Czech Republic,Navy Blue
+2605,Seat,Avenger,2025,United Arab Emirates,Cosmic Purple
+2606,Faraday Future,FF 91,2022,Canada,Beige
+2607,Mahindra,XUV400,2024,France,Matte Gray
+2608,Kia,Niro EV,2023,India,Tan
+2609,Kia,Niro EV,2022,Israel,Burgundy
+2610,BYD,Han EV,2023,Austria,Ruby Red
+2611,Porsche,Cayenne Electric (upcoming),2016,Japan,Pink
+2612,Fisker,Ocean,2024,Singapore,Green
+2613,Honda,Honda e (discontinued),2023,Denmark,Cobalt Blue
+2614,Canoo,Pickup,2025,Vietnam,Magenta
+2615,Fisker,Ocean,2019,Vietnam,Platinum
+2616,Audi,e-tron,2024,Sweden,Navy Blue
+2617,BMW,iX1,2019,China,Aurora Blue
+2618,GMC,Hummer EV Pickup,2022,Belgium,Candy Apple Red
+2619,Mazda,Mazda EV (upcoming models),2024,India,Stealth Gray
+2620,Ford,E-Transit,2019,Russia,Emerald Green
+2621,Canoo,MPDV,2015,Turkey,Ruby Red
+2622,Dacia,Jogger Hybrid,2016,United Arab Emirates,Electric Blue
+2623,Nissan,Leaf,2021,South Korea,Matte White
+2624,Audi,e-tron,2020,Argentina,Yellow
+2625,Skoda,Enyaq Coupe,2021,Czech Republic,Blue
+2626,Mahindra,XUV400,2017,Sweden,Ice Silver
+2627,Chevrolet,Silverado EV,2017,Finland,Rose Gold
+2628,GMC,Hummer EV Pickup,2015,Thailand,Matte Black
+2629,Citroen,??-Spacetourer,2023,New Zealand,Crimson Red
+2630,Jeep,Wrangler 4xe (PHEV),2018,Thailand,Rose Gold
+2631,Mazda,Mazda EV (upcoming models),2025,Saudi Arabia,Crimson Red
+2632,Volkswagen,ID.7,2022,Belgium,Matte Blue
+2633,Hyundai,Ioniq 7 (upcoming),2019,Singapore,Titanium
+2634,Polestar,Polestar 5 (upcoming),2020,Saudi Arabia,Pink
+2635,Changan,SL03,2024,China,Emerald Green
+2636,Rivian,R1T,2016,South Korea,Orange
+2637,Rimac,Nevera,2015,Singapore,Sky Blue
+2638,Volvo,XC40 Recharge,2021,UK,Aurora Blue
+2639,Honda,e:Ny1,2020,USA,Cosmic Purple
+2640,Acura,ZDX (with GM Ultium),2017,Vietnam,Cobalt Blue
+2641,Porsche,Cayenne Electric (upcoming),2022,Israel,Copper
+2642,Mini,Mini Cooper SE,2024,Russia,Cosmic Purple
+2643,XPeng,P7,2020,France,Forest Green
+2644,Mercedes-Benz,EQA,2016,Malaysia,Tan
+2645,Honda,e:Ny1,2024,South Korea,Purple
+2646,Jaguar,I-PACE,2022,Japan,Ruby Red
+2647,Mini,Mini Aceman,2025,New Zealand,Purple
+2648,Ferrari,SF90 Stradale (PHEV),2025,South Korea,Cream
+2649,Li Auto,L9,2018,China,Titanium
+2650,Ford,E-Transit,2023,Italy,Copper
+2651,Lotus,Evija,2020,Thailand,Brown
+2652,Lucid Motors,Lucid Air,2016,Czech Republic,Purple
+2653,Genesis,GV80 Electric,2025,Russia,White
+2654,Peugeot,e-3008,2022,Hungary,Ice Silver
+2655,Toyota,Lexus UX 300e,2018,Japan,Aurora Blue
+2656,Audi,Q8 e-tron,2020,Canada,Racing Red
+2657,Nissan,Ariya,2017,Sweden,Matte Green
+2658,BMW,i7,2018,France,Emerald Green
+2659,Peugeot,e-5008,2023,South Korea,Racing Red
+2660,Jeep,Wagoneer S,2024,Mexico,Midnight Black
+2661,Fisker,Pear (upcoming),2016,Portugal,Metallic Silver
+2662,Genesis,G80 Electric,2018,Sweden,Magenta
+2663,Great Wall Motors,ORA Lightning Cat,2016,Mexico,Charcoal
+2664,VinFast,VF 8,2018,United Arab Emirates,Teal
+2665,Mini,Mini Electric,2022,France,Emerald Green
+2666,Hyundai,Ioniq 5,2020,Germany,Yellow
+2667,XPeng,X9,2019,Switzerland,Pearl White
+2668,Great Wall Motors,ORA Good Cat,2023,Singapore,Stealth Gray
+2669,Fisker,Pear (upcoming),2023,United Arab Emirates,Brown
+2670,Geely,Geometry A,2020,Ireland,Cosmic Purple
+2671,Geely,Emgrand EV,2018,Portugal,Matte Green
+2672,Tesla,Model S,2020,Switzerland,Gray
+2673,Lamborghini,Revuelto (PHEV),2024,Saudi Arabia,Volcanic Yellow
+2674,Mahindra,Born Electric (upcoming range),2018,Belgium,Rose Gold
+2675,Skoda,Enyaq Coupe,2015,France,Green
+2676,Pininfarina,Battista,2015,Austria,Blue
+2677,Acura,ZDX (with GM Ultium),2015,Argentina,Copper
+2678,Geely,Emgrand EV,2019,Hungary,Turquoise
+2679,Cadillac,Lyriq,2020,Malaysia,Black
+2680,Cadillac,Lyriq,2018,Singapore,Yellow
+2681,Rimac,Nevera,2020,Norway,Copper
+2682,BYD,Seagull,2025,Canada,Blue
+2683,Polestar,Polestar 2,2015,Saudi Arabia,Racing Red
+2684,VinFast,VF 8,2021,Japan,Copper
+2685,Changan,Deepal S07,2023,Czech Republic,Black
+2686,Volkswagen,ID.5,2022,Mexico,Gun Metal
+2687,Fisker,Ocean,2025,Poland,Black
+2688,Audi,Q8 e-tron,2025,India,Lime Green
+2689,Polestar,Polestar 2,2024,Indonesia,Yellow
+2690,MG,MG4 Electric,2019,UK,Red
+2691,Dacia,Jogger Hybrid,2024,Poland,Titanium
+2692,Mini,Mini Cooper SE,2021,Israel,Burgundy
+2693,Nissan,Ariya,2018,New Zealand,Matte Green
+2694,Jaguar,I-PACE,2023,Vietnam,Sunset Orange
+2695,Cadillac,Lyriq,2020,Switzerland,Sapphire Blue
+2696,Li Auto,MEGA,2020,Switzerland,Burgundy
+2697,Mini,Mini Cooper SE,2019,Japan,Bronze
+2698,Peugeot,e-208,2016,Finland,Titanium
+2699,Acura,ZDX (with GM Ultium),2022,New Zealand,Cosmic Purple
+2700,Tesla,Roadster (upcoming),2020,Malaysia,Sky Blue
+2701,NIO,ES8,2025,Netherlands,Bronze
+2702,Zeekr,Zeekr 001,2025,Ireland,Navy Blue
+2703,XPeng,P7,2021,Russia,Bronze
+2704,NIO,ES6,2025,Brazil,Midnight Black
+2705,Great Wall Motors,ORA Ballet Cat,2015,South Africa,Black
+2706,Ford,F-150 Lightning,2022,Portugal,Stealth Gray
+2707,Ferrari,Ferrari EV (2025+),2020,Poland,Rose Gold
+2708,Ford,Explorer EV (Europe),2024,Sweden,Green
+2709,Cadillac,Celestiq,2021,Denmark,Copper
+2710,Lotus,Evija,2019,Hungary,Emerald Green
+2711,Great Wall Motors,ORA Good Cat,2025,Japan,Teal
+2712,Toyota,Lexus UX 300e,2025,Australia,Matte Gray
+2713,Toyota,Lexus UX 300e,2016,Spain,Aurora Blue
+2714,Geely,Geometry C,2017,France,Copper
+2715,Mazda,MX-30,2019,Ireland,Gray
+2716,Zeekr,Zeekr 009,2022,UK,Black
+2717,Jaguar,I-PACE,2023,New Zealand,Crimson Red
+2718,Ferrari,SF90 Stradale (PHEV),2016,USA,Crimson Red
+2719,Rivian,R1T,2024,France,White
+2720,Mercedes-Benz,EQE,2025,Portugal,Pink
+2721,Toyota,bZ4X,2020,United Arab Emirates,Titanium
+2722,BMW,i3,2020,Indonesia,Platinum
+2723,Toyota,Lexus RZ,2022,India,Pink
+2724,Porsche,Panamera EV,2021,Turkey,Racing Red
+2725,Peugeot,e-2008,2022,France,Burgundy
+2726,Mahindra,Born Electric (upcoming range),2020,Hungary,Beige
+2727,Volkswagen,ID.7,2019,South Korea,Matte White
+2728,MG,MG ES5,2017,Indonesia,Red
+2729,Mini,Mini Aceman,2016,Vietnam,Crimson Red
+2730,Li Auto,L7,2025,Russia,Black
+2731,Peugeot,e-208,2015,Argentina,Turquoise
+2732,Zeekr,Zeekr 007,2022,Austria,Stealth Gray
+2733,Jaguar,I-PACE,2017,Vietnam,Metallic Silver
+2734,Skoda,Elroq (upcoming),2016,Czech Republic,Cobalt Blue
+2735,Nissan,Leaf,2017,Indonesia,Electric Blue
+2736,Mahindra,XUV400,2016,Belgium,Cream
+2737,Kia,EV6,2016,Thailand,Matte Green
+2738,BMW,iX,2020,Finland,Blue
+2739,NIO,ES7,2015,United Arab Emirates,Ruby Red
+2740,Citroen,??-C4,2015,Singapore,Forest Green
+2741,Faraday Future,FF 91,2025,Belgium,Matte Green
+2742,Rimac,Nevera,2015,Australia,Pearl White
+2743,Acura,ZDX (with GM Ultium),2016,Switzerland,Aurora Blue
+2744,Nissan,Ariya,2017,Norway,Crimson Red
+2745,BYD,Han EV,2016,Turkey,Matte Gray
+2746,Acura,ZDX (with GM Ultium),2016,USA,Black
+2747,Pininfarina,Battista,2024,Finland,Tan
+2748,Volvo,EX90,2024,Ireland,Electric Blue
+2749,Geely,Geometry A,2017,Poland,Rose Gold
+2750,Zeekr,Zeekr 007,2024,Denmark,Sky Blue
+2751,BYD,Dolphin,2023,Austria,Beige
+2752,Opel,Corsa-e,2018,Switzerland,Platinum
+2753,Ferrari,Roma PHEV,2015,Poland,Black
+2754,Changan,SL03,2022,Ireland,Graphite Gray
+2755,Lucid Motors,Lucid DreamDrive,2015,Singapore,Silver
+2756,Changan,Deepal S07,2015,France,Gray
+2757,XPeng,P5,2023,India,Matte Green
+2758,Lotus,Eletre,2017,India,Bronze
+2759,Volkswagen,ID.4,2025,Canada,Electric Blue
+2760,Maserati,GranTurismo Folgore,2019,Saudi Arabia,Bronze
+2761,Changan,Q05,2025,Germany,Graphite Gray
+2762,Cadillac,Optiq (upcoming),2022,Switzerland,White
+2763,Kia,Niro EV,2021,Mexico,Green
+2764,Renault,Kangoo E-Tech,2018,Mexico,Aurora Blue
+2765,Lucid Motors,Lucid Air,2022,Indonesia,Aurora Blue
+2766,Dacia,Bigster EV (upcoming),2019,Italy,Beige
+2767,Pininfarina,Battista,2020,Vietnam,Burgundy
+2768,Volkswagen,ID.Buzz,2021,Spain,Navy Blue
+2769,Mini,Mini Aceman,2023,Ireland,Lime Green
+2770,MG,MG ES5,2017,Russia,Turquoise
+2771,Hyundai,Ioniq 6,2024,Japan,Cream
+2772,Acura,ZDX (with GM Ultium),2024,South Korea,White
+2773,Pininfarina,Battista,2018,Russia,Racing Red
+2774,Canoo,MPDV,2017,Russia,Blue
+2775,Ferrari,SF90 Stradale (PHEV),2015,Russia,Orange
+2776,Chevrolet,Bolt EV,2021,Singapore,Magenta
+2777,Rimac,Nevera,2019,Netherlands,White
+2778,Renault,Kangoo E-Tech,2020,Norway,Racing Red
+2779,Peugeot,e-2008,2018,Germany,Crimson Red
+2780,Dacia,Bigster EV (upcoming),2019,Poland,Matte Blue
+2781,BMW,i4,2022,Sweden,Aurora Blue
+2782,VinFast,VF 6,2021,United Arab Emirates,Candy Apple Red
+2783,NIO,ES7,2017,New Zealand,Gun Metal
+2784,Jeep,Wrangler 4xe (PHEV),2015,Spain,Matte Black
+2785,Ford,F-150 Lightning,2019,Turkey,Black
+2786,Pininfarina,Battista,2018,New Zealand,Racing Red
+2787,Acura,ZDX (with GM Ultium),2016,Hungary,Green
+2788,Changan,SL03,2022,Germany,Ruby Red
+2789,Honda,Honda e (discontinued),2025,Russia,White
+2790,VinFast,VF 7,2022,Denmark,Ruby Red
+2791,Faraday Future,FF 91,2020,Singapore,Candy Apple Red
+2792,Li Auto,L9,2016,Saudi Arabia,Candy Apple Red
+2793,Rivian,R1T,2025,Poland,Ruby Red
+2794,Kia,EV9,2021,Japan,Burgundy
+2795,Mini,Mini Cooper SE,2015,South Korea,Ruby Red
+2796,Mahindra,Born Electric (upcoming range),2024,Netherlands,Sky Blue
+2797,XPeng,X9,2025,Spain,Pearl White
+2798,Rimac,Nevera,2024,Canada,Cobalt Blue
+2799,NIO,ET9,2025,Sweden,Cosmic Purple
+2800,Volvo,EX90,2023,Sweden,Matte White
+2801,Maserati,GranTurismo Folgore,2022,Argentina,Titanium
+2802,NIO,ET5,2016,UK,Navy Blue
+2803,Seat,Avenger,2022,Italy,Metallic Silver
+2804,Zeekr,Zeekr 009,2024,Poland,Burgundy
+2805,Nissan,Ariya,2016,Austria,Sunset Orange
+2806,Cadillac,Lyriq,2022,India,Matte Green
+2807,Jaguar,I-PACE,2024,Canada,Bronze
+2808,Cadillac,Celestiq,2025,India,Sapphire Blue
+2809,Cadillac,Optiq (upcoming),2018,Malaysia,Aurora Blue
+2810,Fisker,Pear (upcoming),2023,Turkey,Gold
+2811,Geely,Geometry A,2020,Switzerland,Metallic Silver
+2812,Geely,Emgrand EV,2023,Thailand,Copper
+2813,Hyundai,Ioniq 7 (upcoming),2020,France,Lime Green
+2814,Jaguar,I-PACE,2020,Germany,Black
+2815,Cadillac,Celestiq,2015,Finland,Crimson Red
+2816,Skoda,Enyaq,2021,South Korea,Brown
+2817,Zeekr,Zeekr 007,2021,Netherlands,Bronze
+2818,Peugeot,e-3008,2023,Israel,Champagne
+2819,BMW,iX,2016,Ireland,Matte Gray
+2820,Honda,Honda e (discontinued),2016,Argentina,Midnight Black
+2821,Volvo,C40 Recharge,2019,New Zealand,Ice Silver
+2822,MG,MG4 Electric,2018,Saudi Arabia,Gold
+2823,Genesis,GV80 Electric,2022,Switzerland,Yellow
+2824,Great Wall Motors,ORA Lightning Cat,2015,Hungary,Pearl White
+2825,Seat,Avenger,2016,Vietnam,Purple
+2826,Li Auto,L9,2020,Netherlands,Matte Black
+2827,NIO,ET9,2020,Malaysia,Racing Red
+2828,Changan,Q05,2018,Italy,Sky Blue
+2829,Nissan,Leaf,2016,Poland,Electric Blue
+2830,Maserati,GranTurismo Folgore,2018,USA,Aurora Blue
+2831,Jeep,Wrangler 4xe (PHEV),2017,Mexico,Beige
+2832,Toyota,Lexus RZ,2020,Saudi Arabia,White
+2833,Toyota,bZ4X,2024,United Arab Emirates,Red
+2834,Lucid Motors,Lucid DreamDrive,2024,Sweden,Matte Black
+2835,Subaru,Solterra,2022,Denmark,Ruby Red
+2836,Rimac,Nevera,2025,South Africa,Matte Gray
+2837,Citroen,Ami,2021,Czech Republic,Yellow
+2838,Opel,Mokka-e,2023,Russia,Electric Blue
+2839,Li Auto,L8,2023,South Korea,Graphite Gray
+2840,Great Wall Motors,ORA Ballet Cat,2022,Japan,Matte Gray
+2841,Cadillac,Lyriq,2018,India,Magenta
+2842,Mahindra,XUV400,2022,Hungary,Champagne
+2843,Faraday Future,FF 91,2015,Netherlands,Sunset Orange
+2844,Volvo,XC40 Recharge,2015,Hungary,Midnight Black
+2845,Genesis,GV60,2016,United Arab Emirates,Ruby Red
+2846,GMC,Hummer EV SUV,2016,Russia,Charcoal
+2847,Tesla,Model Y,2018,Germany,Turquoise
+2848,Chevrolet,Volt (PHEV),2024,China,Turquoise
+2849,XPeng,P5,2018,UK,Magenta
+2850,Polestar,Polestar 3,2024,New Zealand,Turquoise
+2851,Tesla,Model S,2023,Poland,Cosmic Purple
+2852,Volvo,EX30,2025,Czech Republic,Cosmic Purple
+2853,Citroen,Ami,2024,Ireland,Yellow
+2854,Opel,Mokka-e,2015,Brazil,Aurora Blue
+2855,Ford,E-Transit,2018,United Arab Emirates,Emerald Green
+2856,Honda,Honda e (discontinued),2022,Czech Republic,Crimson Red
+2857,Skoda,Elroq (upcoming),2022,United Arab Emirates,White
+2858,Jeep,Wagoneer S,2019,Malaysia,Cobalt Blue
+2859,Nissan,Leaf,2019,Malaysia,Magenta
+2860,Mahindra,XUV400,2021,UK,Metallic Silver
+2861,Ferrari,Roma PHEV,2019,Malaysia,Forest Green
+2862,Geely,Geometry A,2024,Saudi Arabia,Black
+2863,Volkswagen,ID.2all,2015,New Zealand,Titanium
+2864,Lamborghini,Lanzador (upcoming EV),2020,Israel,Matte Green
+2865,Mercedes-Benz,EQS SUV,2016,South Africa,Forest Green
+2866,Skoda,Elroq (upcoming),2023,Singapore,Titanium
+2867,Opel,Corsa-e,2020,Saudi Arabia,Lime Green
+2868,Peugeot,e-5008,2025,Canada,Matte Blue
+2869,Chevrolet,Equinox EV,2020,Vietnam,Black
+2870,Rivian,EDV (Electric Delivery Van),2025,Vietnam,Champagne
+2871,Peugeot,e-5008,2018,Japan,Champagne
+2872,XPeng,G9,2025,Germany,Metallic Silver
+2873,Geely,Geometry C,2023,UK,Volcanic Yellow
+2874,Zeekr,Zeekr X,2022,China,Electric Blue
+2875,Great Wall Motors,ORA Ballet Cat,2016,Czech Republic,Racing Red
+2876,VinFast,VF 7,2020,Poland,Tan
+2877,Maserati,GranTurismo Folgore,2024,South Africa,Matte White
+2878,Mini,Mini Cooper SE,2022,South Africa,White
+2879,Skoda,Elroq (upcoming),2015,Norway,Cosmic Purple
+2880,Faraday Future,FF 91,2018,UK,Ice Silver
+2881,Lucid Motors,Lucid DreamDrive,2015,Austria,Matte Black
+2882,Jeep,Grand Cherokee 4xe (PHEV),2022,New Zealand,Crimson Red
+2883,Lamborghini,Revuelto (PHEV),2020,Japan,Forest Green
+2884,Polestar,Polestar 3,2023,Sweden,White
+2885,Seat,Avenger,2023,Saudi Arabia,Aurora Blue
+2886,Volvo,EX30,2025,Norway,Burgundy
+2887,Fisker,Ocean,2024,Norway,Forest Green
+2888,Skoda,Enyaq,2020,India,Ice Silver
+2889,Hyundai,Ioniq 6,2016,Japan,Pearl White
+2890,MG,MG5 EV,2021,Italy,Crimson Red
+2891,GMC,Hummer EV SUV,2025,China,Copper
+2892,Polestar,Polestar 3,2022,Portugal,Graphite Gray
+2893,Ferrari,SF90 Stradale (PHEV),2024,Turkey,Sky Blue
+2894,Citroen,Ami,2021,India,Titanium
+2895,Pininfarina,Battista,2021,Netherlands,Stealth Gray
+2896,Rivian,R1S,2019,Canada,Purple
+2897,Tesla,Model Y,2023,Netherlands,Silver
+2898,BYD,Dolphin,2020,USA,Red
+2899,BMW,i4,2020,Germany,White
+2900,Pininfarina,Battista,2016,Ireland,Beige
+2901,Citroen,Ami,2021,Spain,Turquoise
+2902,BYD,Tang EV,2018,Israel,Brown
+2903,Changan,Deepal S07,2023,Poland,Crimson Red
+2904,Ferrari,SF90 Stradale (PHEV),2022,Germany,Electric Blue
+2905,VinFast,VF 7,2019,New Zealand,Silver
+2906,Polestar,Polestar 2,2021,Malaysia,Metallic Silver
+2907,Polestar,Polestar 5 (upcoming),2022,Denmark,Lime Green
+2908,Rivian,R1S,2016,Italy,Orange
+2909,Maserati,GranTurismo Folgore,2019,Singapore,Cream
+2910,Lotus,Emeya,2023,Austria,Brown
+2911,Jeep,Wrangler 4xe (PHEV),2024,Norway,Bronze
+2912,Lamborghini,Lanzador (upcoming EV),2016,Portugal,Aurora Blue
+2913,Jaguar,I-PACE,2021,Austria,Black
+2914,Genesis,GV80 Electric,2023,Finland,Matte Green
+2915,Great Wall Motors,ORA Ballet Cat,2019,New Zealand,Navy Blue
+2916,Citroen,Ami,2021,Saudi Arabia,Burgundy
+2917,Subaru,Solterra,2019,Russia,Matte Green
+2918,Genesis,GV80 Electric,2019,Japan,Matte White
+2919,Mercedes-Benz,EQC,2015,Germany,Purple
+2920,Chevrolet,Bolt EV,2024,Poland,Cobalt Blue
+2921,MG,MG5 EV,2017,Singapore,Candy Apple Red
+2922,Subaru,Solterra,2015,Indonesia,Green
+2923,Renault,Kangoo E-Tech,2019,Belgium,Champagne
+2924,Zeekr,Zeekr 009,2020,Saudi Arabia,Crimson Red
+2925,BMW,i3,2024,Canada,Gun Metal
+2926,Honda,e:Ny1,2020,Vietnam,Lime Green
+2927,VinFast,VFe34 (discontinued),2019,Japan,Navy Blue
+2928,BYD,Seagull,2023,Portugal,Purple
+2929,Acura,ZDX (with GM Ultium),2016,Malaysia,Emerald Green
+2930,NIO,ES7,2018,Germany,Matte Gray
+2931,Citroen,??-C4,2016,USA,Forest Green
+2932,Acura,ZDX (with GM Ultium),2017,Argentina,Sky Blue
+2933,MG,MG5 EV,2024,Austria,Ice Silver
+2934,Nissan,Ariya,2016,South Africa,Midnight Black
+2935,MG,MG4 Electric,2024,Argentina,Platinum
+2936,Seat,Avenger,2022,India,Racing Red
+2937,Faraday Future,FF 91,2020,Italy,Silver
+2938,XPeng,X9,2015,Spain,Platinum
+2939,Ford,E-Transit,2025,France,Emerald Green
+2940,Audi,e-tron GT,2015,China,Ruby Red
+2941,Acura,ZDX (with GM Ultium),2021,Austria,Matte Green
+2942,Polestar,Polestar 2,2025,India,Racing Red
+2943,Ferrari,SF90 Stradale (PHEV),2015,Portugal,Beige
+2944,Lamborghini,Revuelto (PHEV),2016,Spain,Titanium
+2945,Changan,Q05,2018,Japan,Orange
+2946,GMC,Hummer EV Pickup,2016,Vietnam,Emerald Green
+2947,Nissan,Leaf,2018,Russia,Bronze
+2948,Dacia,Jogger Hybrid,2022,Saudi Arabia,Silver
+2949,Honda,Honda e (discontinued),2023,Australia,Navy Blue
+2950,VinFast,VF 6,2021,Denmark,Charcoal
+2951,Faraday Future,FF 91,2021,Spain,Burgundy
+2952,Zeekr,Zeekr 001,2016,South Korea,Crimson Red
+2953,Kia,Niro EV,2022,Australia,Yellow
+2954,Ford,Explorer EV (Europe),2022,Thailand,White
+2955,Mazda,Mazda EV (upcoming models),2018,Australia,Metallic Silver
+2956,Jeep,Recon (upcoming),2022,Japan,Beige
+2957,Nissan,Leaf,2019,Malaysia,Sky Blue
+2958,Renault,5 E-Tech,2017,Israel,Cosmic Purple
+2959,Fisker,Ocean,2018,Israel,Stealth Gray
+2960,Renault,Kangoo E-Tech,2021,South Korea,Matte White
+2961,Rivian,R1S,2018,Belgium,Stealth Gray
+2962,NIO,ET9,2016,Russia,Copper
+2963,Subaru,Solterra,2015,Netherlands,Tan
+2964,NIO,ET9,2022,France,Matte Black
+2965,Volvo,EX30,2015,Australia,Gold
+2966,XPeng,X9,2020,France,Sunset Orange
+2967,Genesis,G80 Electric,2015,Spain,Candy Apple Red
+2968,Subaru,Solterra,2023,Russia,Silver
+2969,VinFast,VF 7,2019,Argentina,Metallic Silver
+2970,Kia,EV6,2016,Australia,Sky Blue
+2971,MG,MG4 Electric,2020,China,Aurora Blue
+2972,Genesis,GV80 Electric,2018,Singapore,Champagne
+2973,VinFast,VFe34 (discontinued),2024,Ireland,Yellow
+2974,Ferrari,SF90 Stradale (PHEV),2022,South Africa,Gray
+2975,Porsche,Cayenne Electric (upcoming),2015,United Arab Emirates,Matte Black
+2976,Changan,Q05,2017,Sweden,Ruby Red
+2977,Maserati,Grecale Folgore,2021,India,Sunset Orange
+2978,Audi,A6 e-tron (upcoming),2023,Netherlands,Lime Green
+2979,Rivian,R1S,2023,Israel,Matte Gray
+2980,Rimac,Nevera,2024,South Africa,Rose Gold
+2981,XPeng,G6,2025,Hungary,Teal
+2982,Li Auto,L7,2019,Finland,Rose Gold
+2983,Chevrolet,Bolt EUV,2022,UK,Matte White
+2984,Toyota,Lexus RZ,2023,Singapore,Silver
+2985,Peugeot,e-208,2022,Australia,Teal
+2986,Rimac,Nevera,2025,Argentina,Stealth Gray
+2987,Canoo,MPDV,2015,Sweden,Rose Gold
+2988,Skoda,Enyaq,2015,Malaysia,Ruby Red
+2989,Seat,Avenger,2017,Saudi Arabia,Blue
+2990,BMW,i3,2021,USA,Graphite Gray
+2991,Opel,Grandland Electric,2022,Norway,Matte Gray
+2992,Volkswagen,ID.5,2023,Vietnam,Volcanic Yellow
+2993,XPeng,G9,2023,Thailand,Gold
+2994,Volkswagen,ID.7,2019,Canada,Platinum
+2995,Citroen,??-C4,2022,France,Matte Black
+2996,GMC,Hummer EV SUV,2020,Sweden,Ruby Red
+2997,Lotus,Eletre,2016,South Korea,Beige
+2998,Pininfarina,Battista,2022,Ireland,Gold
+2999,Jeep,Grand Cherokee 4xe (PHEV),2023,Australia,Aurora Blue
+3000,Hyundai,Ioniq 7 (upcoming),2025,Germany,Emerald Green
+3001,Rimac,Nevera,2019,Malaysia,Matte White
+3002,Lotus,Eletre,2018,Belgium,Matte Black
+3003,Jeep,Grand Cherokee 4xe (PHEV),2018,Hungary,Teal
+3004,Opel,Corsa-e,2020,Russia,Gray
+3005,Lotus,Evija,2016,Switzerland,Bronze
+3006,Polestar,Polestar 4,2021,Japan,Champagne
+3007,Skoda,Elroq (upcoming),2018,Turkey,Beige
+3008,Mercedes-Benz,EQS SUV,2015,Netherlands,Charcoal
+3009,Audi,e-tron,2018,New Zealand,Gray
+3010,Citroen,??-Spacetourer,2021,Thailand,Teal
+3011,Honda,e:Ny1,2024,Argentina,Teal
+3012,GMC,Hummer EV Pickup,2021,Germany,Turquoise
+3013,XPeng,G9,2020,Israel,Cream
+3014,Porsche,Taycan,2019,Vietnam,Silver
+3015,Pininfarina,Battista,2025,Sweden,Blue
+3016,Skoda,Enyaq,2019,Spain,Charcoal
+3017,Volkswagen,ID.2all,2015,Saudi Arabia,Pearl White
+3018,Ferrari,SF90 Stradale (PHEV),2018,Indonesia,Champagne
+3019,Mahindra,Born Electric (upcoming range),2019,India,Electric Blue
+3020,Cadillac,Lyriq,2021,Canada,Metallic Silver
+3021,Mahindra,XUV400,2021,New Zealand,Matte Green
+3022,MG,MG4 Electric,2016,Austria,Matte Black
