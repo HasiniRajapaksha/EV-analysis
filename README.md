@@ -31,8 +31,7 @@ Business-ready views for analytics.
 
 # 🔎 EDA Exploration Framework  
 
-We explore insights through **business-focused EDA questions**.  
-Each section includes **questions** + **space for a visualization** you can generate.  
+Explore insights through **business-focused EDA questions**.  
 
 ---
 
