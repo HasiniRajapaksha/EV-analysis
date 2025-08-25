@@ -40,7 +40,9 @@ Each section includes **questions** + **space for a visualization** you can gene
 📌 *How big is something at a point in time?*  
 
  <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/2b9ba18f-62a9-4e9e-b4f3-49e00f3622b4" />
- 
+
+
+ <img width="1920" height="1011" alt="Image" src="https://github.com/user-attachments/assets/d8ba927b-7c69-42da-acad-d5beb79f5c07" />
 ---
 
 ## 2️⃣ Change Over Time  
