@@ -23,15 +23,11 @@ Business-ready views for analytics.
 
 📌 *Visual Representation:*  
 
-![Data Model Placeholder](images/data_model.png)  
+
+## 🏗️ Data Model 
+<img width="1920" height="997" alt="Image" src="https://github.com/user-attachments/assets/0075e136-cf23-4764-9518-329e859169a2" />
 *ERD showing how Silver tables join into Gold views.*  
 
----
-
-## 🔄 Data Flow  
-
-![Data Flow Placeholder](images/data_flow.png)  
-*Raw → Silver → Gold → BI/Analytics.*  
 
 ---
 
