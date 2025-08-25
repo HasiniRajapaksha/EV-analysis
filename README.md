@@ -1,1 +1,155 @@
-# EV-analysis
+# 🚗 Electric Vehicle Data Warehouse & EDA Exploration  
+
+This project implements a **Silver → Gold Data Warehouse Architecture** in SQL Server.  
+It transforms raw vehicle data into **analytical views** for exploring sales, EV specifications, and safety insights.  
+
+---
+
+## 🏗️ Data Architecture  
+<img width="1649" height="823" alt="Image" src="https://github.com/user-attachments/assets/7c58a04b-32d0-49cd-b8b4-c8732db3866b" />
+
+### 🔹 Silver Layer  
+Stores structured source tables with metadata (`dwh_create_date`).  
+- `vm_sales_warranty`  
+- `vs_battery`  
+- `vs_performance`  
+- `vs_vehicle_info`  
+
+### 🔹 Gold Layer  
+Business-ready views for analytics.  
+- `fa_vehicle_market`  
+- `dim_summary`  
+- `dim_safety`  
+
+📌 *Visual Representation:*  
+
+![Data Model Placeholder](images/data_model.png)  
+*ERD showing how Silver tables join into Gold views.*  
+
+---
+
+## 🔄 Data Flow  
+
+![Data Flow Placeholder](images/data_flow.png)  
+*Raw → Silver → Gold → BI/Analytics.*  
+
+---
+
+## 📊 Example Queries (SSMS Screenshots)  
+
+- `fa_vehicle_market` → Sales + Vehicle details  
+- `dim_summary` → Battery & EV performance  
+- `dim_safety` → Safety & autonomy  
+
+![SSMS Output Placeholder](images/ssms_output.png)  
+*Sample output from SQL queries.*  
+
+---
+
+# 🔎 EDA Exploration Framework  
+
+We explore insights through **business-focused EDA questions**.  
+Each section includes **questions** + **space for a visualization** you can generate.  
+
+---
+
+## 1️⃣ Magnitude Exploration  
+📌 *How big is something at a point in time?*  
+
+- Which manufacturer sold the most units in 2024?  
+- Which EV model generated the highest revenue?  
+- What is the maximum EV range across all models?  
+
+👉 Visualization:  
+
+![Magnitude Chart Placeholder](images/magnitude.png)  
+*Bar chart of units_sold by manufacturer.*  
+
+---
+
+## 2️⃣ Change Over Time  
+📌 *How do metrics evolve across years?*  
+
+- How have sales changed by manufacturer year over year?  
+- Is the average vehicle price increasing over time?  
+- Are EV ranges (km) getting longer in newer models?  
+
+👉 Visualization:  
+
+![Change Over Time Placeholder](images/change_over_time.png)  
+*Line chart of sales trend across years.*  
+
+---
+
+## 3️⃣ Cumulative Exploration  
+📌 *Running totals and growth.*  
+
+- What is the cumulative sales across all manufacturers?  
+- What is the cumulative revenue by year?  
+- How many models have been introduced cumulatively per country?  
+
+👉 Visualization:  
+
+![Cumulative Chart Placeholder](images/cumulative.png)  
+*Cumulative sales growth chart.*  
+
+---
+
+## 4️⃣ Part-to-Whole Exploration  
+📌 *Distribution and shares.*  
+
+- What is the market share of each manufacturer in 2024?  
+- What percentage of vehicles have autonomous level > 3?  
+- What portion of vehicles fall into different safety ratings?  
+
+👉 Visualization:  
+
+![Part-to-Whole Chart Placeholder](images/part_to_whole.png)  
+*Pie chart of manufacturer market share.*  
+
+---
+
+## 5️⃣ Performance Analysis  
+📌 *Efficiency & effectiveness.*  
+
+- Which EVs have the best price-to-range ratio?  
+- Which vehicles offer the best warranty-to-price ratio?  
+- Do higher safety ratings lead to higher sales?  
+
+👉 Visualization:  
+
+![Performance Chart Placeholder](images/performance.png)  
+*Scatterplot: Price vs Range, bubble size = Sales.*  
+
+---
+
+## 6️⃣ Data Segmentation  
+📌 *Breakdowns by groups.*  
+
+- Compare sales volumes by manufacturer within each country.  
+- Segment by safety rating groups (1–3 vs 4–5).  
+- Compare average price across different charging types.  
+
+👉 Visualization:  
+
+![Segmentation Chart Placeholder](images/segmentation.png)  
+*Boxplot of prices segmented by safety rating.*  
+
+---
+
+## 🚀 Future Enhancements  
+
+- Add **Bronze Layer ingestion** (CSV/JSON/Parquet).  
+- Extend to a **Star Schema Fact/Dim model**.  
+- Connect to **Power BI / Tableau dashboards**.  
+- Automate ETL with **Airflow / ADF / SSIS**.  
+
+---
+
+## 👩‍💻 Author  
+
+Built with ❤️ by [Your Name]  
+📧 Contact: [your.email@example.com]  
+🌐 Portfolio: [your-portfolio-link]  
+
+---
