@@ -29,19 +29,6 @@ Business-ready views for analytics.
 *ERD showing how Silver tables join into Gold views.*  
 
 
----
-
-## 📊 Example Queries (SSMS Screenshots)  
-
-- `fa_vehicle_market` → Sales + Vehicle details  
-- `dim_summary` → Battery & EV performance  
-- `dim_safety` → Safety & autonomy  
-
-![SSMS Output Placeholder](images/ssms_output.png)  
-*Sample output from SQL queries.*  
-
----
-
 # 🔎 EDA Exploration Framework  
 
 We explore insights through **business-focused EDA questions**.  
@@ -52,15 +39,8 @@ Each section includes **questions** + **space for a visualization** you can gene
 ## 1️⃣ Magnitude Exploration  
 📌 *How big is something at a point in time?*  
 
-- Which manufacturer sold the most units in 2024?  
-- Which EV model generated the highest revenue?  
-- What is the maximum EV range across all models?  
-
-👉 Visualization:  
-
-![Magnitude Chart Placeholder](images/magnitude.png)  
-*Bar chart of units_sold by manufacturer.*  
-
+ <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/2b9ba18f-62a9-4e9e-b4f3-49e00f3622b4" />
+ 
 ---
 
 ## 2️⃣ Change Over Time  
@@ -79,15 +59,7 @@ Each section includes **questions** + **space for a visualization** you can gene
 
 ## 3️⃣ Cumulative Exploration  
 📌 *Running totals and growth.*  
-
-- What is the cumulative sales across all manufacturers?  
-- What is the cumulative revenue by year?  
-- How many models have been introduced cumulatively per country?  
-
-👉 Visualization:  
-
-![Cumulative Chart Placeholder](images/cumulative.png)  
-*Cumulative sales growth chart.*  
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/a7b1664d-7213-44cb-ad9c-2d7950dd7b6a" />
 
 ---
 
