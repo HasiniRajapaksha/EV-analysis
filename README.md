@@ -36,7 +36,7 @@ Each section includes **questions** + **space for a visualization** you can gene
 
 ---
 
-## 1️⃣ Magnitude Exploration  
+##  Magnitude Exploration  
 📌 *How big is something at a point in time?*  
 
  <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/2b9ba18f-62a9-4e9e-b4f3-49e00f3622b4" />
@@ -45,76 +45,11 @@ Each section includes **questions** + **space for a visualization** you can gene
  <img width="1920" height="1011" alt="Image" src="https://github.com/user-attachments/assets/d8ba927b-7c69-42da-acad-d5beb79f5c07" />
 ---
 
-## 2️⃣ Change Over Time  
-📌 *How do metrics evolve across years?*  
 
-- How have sales changed by manufacturer year over year?  
-- Is the average vehicle price increasing over time?  
-- Are EV ranges (km) getting longer in newer models?  
-
-👉 Visualization:  
-
-![Change Over Time Placeholder](images/change_over_time.png)  
-*Line chart of sales trend across years.*  
-
----
-
-## 3️⃣ Cumulative Exploration  
+##  Cumulative Exploration  
 📌 *Running totals and growth.*  
 <img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/a7b1664d-7213-44cb-ad9c-2d7950dd7b6a" />
 
----
-
-## 4️⃣ Part-to-Whole Exploration  
-📌 *Distribution and shares.*  
-
-- What is the market share of each manufacturer in 2024?  
-- What percentage of vehicles have autonomous level > 3?  
-- What portion of vehicles fall into different safety ratings?  
-
-👉 Visualization:  
-
-![Part-to-Whole Chart Placeholder](images/part_to_whole.png)  
-*Pie chart of manufacturer market share.*  
-
----
-
-## 5️⃣ Performance Analysis  
-📌 *Efficiency & effectiveness.*  
-
-- Which EVs have the best price-to-range ratio?  
-- Which vehicles offer the best warranty-to-price ratio?  
-- Do higher safety ratings lead to higher sales?  
-
-👉 Visualization:  
-
-![Performance Chart Placeholder](images/performance.png)  
-*Scatterplot: Price vs Range, bubble size = Sales.*  
-
----
-
-## 6️⃣ Data Segmentation  
-📌 *Breakdowns by groups.*  
-
-- Compare sales volumes by manufacturer within each country.  
-- Segment by safety rating groups (1–3 vs 4–5).  
-- Compare average price across different charging types.  
-
-👉 Visualization:  
-
-![Segmentation Chart Placeholder](images/segmentation.png)  
-*Boxplot of prices segmented by safety rating.*  
-
----
-
-## 🚀 Future Enhancements  
-
-- Add **Bronze Layer ingestion** (CSV/JSON/Parquet).  
-- Extend to a **Star Schema Fact/Dim model**.  
-- Connect to **Power BI / Tableau dashboards**.  
-- Automate ETL with **Airflow / ADF / SSIS**.  
-
----
 
 ## 👩‍💻 Author  
 
