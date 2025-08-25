@@ -49,11 +49,4 @@ Explore insights through **business-focused EDA questions**.
 📌 *Running totals and growth.*  
 <img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/a7b1664d-7213-44cb-ad9c-2d7950dd7b6a" />
 
-
-## 👩‍💻 Author  
-
-Built with ❤️ by [Your Name]  
-📧 Contact: [your.email@example.com]  
-🌐 Portfolio: [your-portfolio-link]  
-
 ---
