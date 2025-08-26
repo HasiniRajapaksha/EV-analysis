@@ -50,3 +50,34 @@ Explore insights through **business-focused EDA questions**.
 <img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/a7b1664d-7213-44cb-ad9c-2d7950dd7b6a" />
 
 ---
+
+Electric Vehicles Dashboard 📊⚡
+A comprehensive Power BI dashboard analyzing electric vehicle market trends, performance metrics, and manufacturing insights.
+
+🏠 Dashboard Pages
+1. Executive Summary
+   
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b6f93a8c-5165-44c4-8559-040ef4e4f4eb" />
+
+2. Technical Performance
+   
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d8c3d498-94a5-4880-8fa5-30504856facb" />
+
+3. Safety & Autonomous Analysis
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c346f9a6-33d6-4e10-8049-3752e68acbf0" />
+
+⚡ Key Features
+
+Interactive Filtering: Cross-page slicers for Year, Country, Manufacturer
+Cross-Visual Filtering: Click any chart element to filter entire dashboard
+Drill-Through: Detailed model analysis from any visual
+Smart Bookmarks: Quick access to key insights (Top Performers, Luxury Segment, etc.)
+
+📈 Sample Insights
+
+Tesla leads in units sold with 18,978 vehicles
+Average market price: $94,347
+Maximum range achieved: 578 km
+11 countries involved in EV manufacturing
+Safety ratings correlate with premium pricing
